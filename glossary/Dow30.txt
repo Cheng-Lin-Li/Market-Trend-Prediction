@@ -23,9 +23,8 @@ General Electric
 GE
 Goldman Sachs
 GS
-The Home Depot
-HD
 IBM
+International Business Machines Corporation
 Intel
 INTC
 Johnson & Johnson
@@ -47,12 +46,14 @@ Pfizer
 PFE
 Procter & Gamble
 PG
+The Home Depot
+HD
 Travelers
 TRV
-UnitedHealth Group
-UNH
 United Technologies
 UTX
+UnitedHealth Group
+UNH
 Verizon
 VZ
 Visa
