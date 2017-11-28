@@ -62,3 +62,17 @@ Walmart
 WMT
 Walt Disney
 DIS
+AmericanExpressUS
+AppleInc.HD
+CocaColaUnitedStates
+dupontco
+goldmansachs
+jnj
+McDonaldsUS
+MerckInvents
+proctergamble
+homedepot
+unitedtechnologiescorp
+unitedhealthgroup
+VisaUnitedStates
+Disney
