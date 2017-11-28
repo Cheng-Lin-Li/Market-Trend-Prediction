@@ -1,0 +1,63 @@
+3M
+MMM
+American Express
+AXP
+Apple
+AAPL
+Apple Inc.
+Boeing
+BA
+Caterpillar
+CAT
+Chevron
+CVX
+Cisco Systems
+CSCO
+Coca-Cola
+KO
+DowDuPont
+DWDP
+ExxonMobil
+XOM
+General Electric
+GE
+Goldman Sachs
+GS
+The Home Depot
+HD
+IBM
+Intel
+INTC
+Johnson & Johnson
+JNJ
+JPMorgan Chase
+JPM
+JP Morgan
+J.P. Morgan Chase
+J.P. Morgan
+McDonald's
+MCD
+Merck
+MRK
+Microsoft
+MSFT
+Nike
+NKE
+Pfizer
+PFE
+Procter & Gamble
+PG
+Travelers
+TRV
+UnitedHealth Group
+UNH
+United Technologies
+UTX
+Verizon
+VZ
+Visa
+V
+Walmart
+WMT
+Walt Disney
+DIS
