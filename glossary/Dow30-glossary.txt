@@ -1,0 +1,30 @@
+3M
+American Express
+Apple
+Boeing
+Caterpillar
+Chevron
+Cisco Systems
+Coca-Cola
+DowDuPont
+ExxonMobil
+General Electric
+Goldman Sachs
+IBM
+Intel
+Johnson & Johnson
+JPMorgan Chase
+McDonald's
+Merck
+Microsoft
+Nike
+Pfizer
+Procter & Gamble
+The Home Depot
+Travelers
+United Technologies
+UnitedHealth Group
+Verizon
+Visa
+Walmart
+Walt Disney
