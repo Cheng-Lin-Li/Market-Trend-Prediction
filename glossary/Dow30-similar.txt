@@ -17,6 +17,7 @@ Coca-Cola
 KO
 DowDuPont
 DWDP
+DuPont
 ExxonMobil
 XOM
 General Electric
