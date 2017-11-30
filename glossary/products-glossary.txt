@@ -1,6 +1,126 @@
-ExxonMobil
+3M
+DuPont
+UnitedHealth Group
 Goldman Sachs
+ExxonMobil
 Verizon
+JPMorgan Chase
+The Home Depot
+Nike
+The Travelers Companies
+DuPont
+Caterpillar Inc.
+United Technologies
+Chevron Corporation
+
+Socket 423
+Socket 478
+LGA 775
+Socket 4
+Socket 5
+PAC418
+PAC611
+Socket 604
+Socket 3
+Socket 495
+Socket 603
+Socket 1
+Socket 2
+Socket 479
+Intel 80186
+Intel 80188
+Intel 8088
+Intel 8080
+Pibb Xtra
+Krest
+Coca-Cola Light Sango
+Coca-Cola C2
+Thums Up
+Bibo
+Coca-Cola Zero
+Leed (soft drink)
+Tab (soft drink)
+Urge (soft drink)
+Coca-Cola with Lemon
+Coca-Cola BlāK
+Coca-Cola
+Kola Inglesa
+Vault (soft drink)
+Citra (India)
+Coca-Cola Citra
+Lilt
+Quatro (beverage)
+Coca-Cola Life
+Iron Brew (South African soft drink)
+Nativa
+Amita (fruit juice)
+OK Soda
+Sprite Zero
+Honest Tea
+New Coke
+Fanta
+Vio (drink)
+Diet Coke
+Dr Pepper
+Sprite (soft drink)
+Barq's
+Powerade
+Fresca
+Mello Yello
+Coca-Cola Vanilla
+Fanta Citrus
+Kia-Ora
+Tab Clear
+Sprite Remix
+Diet Coke Plus
+Coca-Cola Orange
+Cappy (juice)
+Diet Coke with Citrus Zest
+Coca-Cola Cherry
+Coca-Cola with Lime
+Fruitopia
+Gold Spot
+Limca
+Coca-Cola Raspberry
+Coca-Cola Black Cherry Vanilla
+Maaza
+AdeS
+Burn (energy drink)
+Surge (soft drink)
+Tab Energy
+Dasani
+Caffeine-Free Coca-Cola
+Diet Coke Lime
+Microsoft Office
+Microsoft Windows
+Microsoft Surface
+Xbox
+Microsoft Visual Studio
+Microsoft Azure
+Microsoft Dynamics
+Skype
+Microsoft Servers
+List of Microsoft software
+Microsoft Mobile
+Microsoft TechNet
+OneDrive
+Outlook.com
+Microsoft Developer Network
+MSN
+Xbox Live
+Bing
+IPod
+MacOS
+IWork
+IOS
+IPad
+Macintosh
+ILife
+TvOS
+Apple TV
+IPhone
+Apple Watch
+WatchOS
 American Express Serve
 American Express Serve FREE Reloads
 American Express Serve Cash Back
