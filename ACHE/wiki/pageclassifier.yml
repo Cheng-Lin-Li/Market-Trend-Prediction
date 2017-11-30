@@ -2,6 +2,7 @@ type: body_regex
 parameters:
   regular_expressions:
   - .*\b(Dow Jones Industrial Average)\b.*
+  - .*\b(DJIA)\b.*  
   - .*\b(3M)\b.*
   - .*\b(American Express)\b.*
   - .*\b(Apple)\b.*
