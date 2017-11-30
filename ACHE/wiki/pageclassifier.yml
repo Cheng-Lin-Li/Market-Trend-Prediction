@@ -1,0 +1,41 @@
+type: body_regex
+parameters:
+  regular_expressions:
+  - .*\b(Dow Jones Industrial Average)\b.*
+  - .*\b(3M)\b.*
+  - .*\b(American Express)\b.*
+  - .*\b(Apple)\b.*
+  - .*\b(Boeing)\b.*
+  - .*\b(Caterpillar)\b.*
+  - .*\b(Chevron)\b.*
+  - .*\b(Cisco Systems)\b.*
+  - .*\b(Coca-Cola)\b.*
+  - .*\b(DowDuPont)\b.*
+  - .*\b(DuPont)\b.  
+  - .*\b(ExxonMobil)\b.*
+  - .*\b(General Electric)\b.*
+  - .*\b(Goldman Sachs)\b.*
+  - .*\b(IBM)\b.*
+  - .*\b(Intel)\b.*
+  - .*\b(Johnson & Johnson)\b.*
+  - .*\b(JPMorgan Chase)\b.*
+  - .*\b(J.P. Morgan Chase)\b.  
+  - .*\b(McDonald's)\b.*
+  - .*\b(McDonald)\b.*  
+  - .*\b(Merck)\b.*
+  - .*\b(Microsoft)\b.*
+  - .*\b(Nike)\b.*
+  - .*\b(Pfizer)\b.*
+  - .*\b(Procter & Gamble)\b.*
+  - .*\b(The Home Depot)\b.*
+  - .*\b(Travelers)\b.*
+  - .*\b(United Technologies)\b.*
+  - .*\b(UnitedHealth Group)\b.*
+  - .*\b(Verizon)\b.*
+  - .*\b(Visa)\b.*
+  - .*\b(Walmart)\b.* 
+  - .*\b(Walt Disney)\b.*
+  - .*\b(Disney)\b.*
+  
+
+
