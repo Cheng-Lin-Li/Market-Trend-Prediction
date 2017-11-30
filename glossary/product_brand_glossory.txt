@@ -144,7 +144,8 @@ Macintosh 128K
 512K
 512Ke
 Macintosh Centris
-Macintosh Classic; Macintosh Classic II
+Macintosh Classic
+Macintosh Classic II
 Macintosh Color Classic
 Color Classic II
 Macintosh II
@@ -204,7 +205,8 @@ Color StyleWriter
 ColorMonitor II
 ColorSynch Display
 DDS-DC 4mm Tape Drive
-Disk II; Disk III
+Disk II
+Disk III
 DuoDisk
 Tape Backup 40SC
 eMate 300
