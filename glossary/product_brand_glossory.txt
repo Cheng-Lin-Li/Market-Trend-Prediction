@@ -1340,9 +1340,7 @@ IBM
 IBM Informix
 Transaction Processing Facility
 Tru64 UNIX
-VSE
-Z
-OS
+VSEOS
 WebSphere Portal
 IBM DB2 Express-C
 IBM WebSphere eXtreme Scale
@@ -1359,15 +1357,11 @@ SPSS Modeler
 WebSphere Commerce
 Fortran
 IBM AIX
-Lotus 1-2-3
-2
-EComStation
+Lotus 1-2-3EComStation
 IBM General Parallel File System
 IBM Tivoli Storage Manager
 Rexx
-Event Driven Executive
-E
-Gorillas
+Event Driven ExecutiveGorillas
 IBM Tivoli Workload Scheduler
 Spatiotemporal Epidemiological Modeler
 4690 Operating System
@@ -1599,9 +1593,7 @@ Ditropan
 Prezista
 Listerine
 Levaquin
-Regaine
-T
-Gel
+RegaineGel
 Vermox
 Velcade
 Floxin
