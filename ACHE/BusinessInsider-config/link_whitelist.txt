@@ -1,0 +1,1 @@
+https?:\/\/www\.businessinsider\.com\/.*.+201(7|6)-[1-9]{1,2}$
