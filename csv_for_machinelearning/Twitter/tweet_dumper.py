@@ -6,17 +6,21 @@ import csv
 import json
 import sys
 from datetime import date, timedelta, datetime
+import hashlib
+
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 # Twitter API credentials
-# consumer_key = "WkmvAytt1DEWva2VukcqACVtK"
-# consumer_secret = "jy8D7yESo1KrUc0EgIXwVWw4IUHvSy2AgQzsMIXMUb6UtM0S9p"
-# access_key = "447676855-FbQsPAuLttxllF8TB4eK6CV8keYZk7BEW6UCQDuw"
-# access_secret = "NaFfyZMKHCP9zCpm88PcoGvOh7ZQNP3kUlPaxUjS44Vxz"
+consumer_key = "WkmvAytt1DEWva2VukcqACVtK"
+consumer_secret = "jy8D7yESo1KrUc0EgIXwVWw4IUHvSy2AgQzsMIXMUb6UtM0S9p"
+access_key = "447676855-FbQsPAuLttxllF8TB4eK6CV8keYZk7BEW6UCQDuw"
+access_secret = "NaFfyZMKHCP9zCpm88PcoGvOh7ZQNP3kUlPaxUjS44Vxz"
 
-consumer_key = "46E4JNzKWLXlzx9Nk2l2W1si8"
-consumer_secret = "PT7RO2gbxY82pQytAemwElSBNXafj4UAuIVGLTIBJBDUUNXKbg"
-access_key = "721719816801751040-Epz6Y0TbfyoM4l89D02mCgFoNz5sCia"
-access_secret = "ryxV6c3qFo4BWQa96hu3HhV1c8w4ZL9urc8EqvRQpXrbB"
+# consumer_key = "46E4JNzKWLXlzx9Nk2l2W1si8"
+# consumer_secret = "PT7RO2gbxY82pQytAemwElSBNXafj4UAuIVGLTIBJBDUUNXKbg"
+# access_key = "721719816801751040-Epz6Y0TbfyoM4l89D02mCgFoNz5sCia"
+# access_secret = "ryxV6c3qFo4BWQa96hu3HhV1c8w4ZL9urc8EqvRQpXrbB"
 
 companies = "3M,American Express,Apple,Boeing,Caterpillar,Chevron,Cisco Systems," \
             "Coca-Cola,DowDuPont,ExxonMobil,General Electric,Goldman Sachs,IBM," \
@@ -27,8 +31,7 @@ companies = "3M,American Express,Apple,Boeing,Caterpillar,Chevron,Cisco Systems,
 accounts = "3M,AmericanExpress,AppleSupport,Boeing,CaterpillarInc,Chevron,Cisco," \
            "CocaCola,DowDuPontCo,exxonmobil,generalelectric,GoldmanSachs,IBM,intel," \
            "JNJNews,jpmorgan,McDonalds,Merck,Microsoft,Nike,pfizer,ProcterGamble," \
-           "HomeDepot,Travelers,UTC,UnitedHealthGrp,verizon,Visa,Walmart,DisneyStudios".split(
-    ",")
+           "HomeDepot,Travelers,UTC,UnitedHealthGrp,verizon,Visa,Walmart,DisneyStudios".split(",")
 
 comDic = dict(zip(accounts, companies))
 
@@ -76,7 +79,8 @@ def get_all_tweets(screen_name):
         "https://twitter.com/" + screen_name + "/status/" + tweet.id_str,
         tweet.text.encode("utf-8"),
         tweet.retweet_count,
-        tweet.favorite_count]
+        tweet.favorite_count,
+        tweet.id_str]
         for tweet in alltweets]
 
     # write the csv
@@ -84,7 +88,7 @@ def get_all_tweets(screen_name):
     with open('./csv/%s.csv' % screen_name, 'wb') as f:
         writer = csv.writer(f)
         writer.writerow(
-            ["created_at", "company", "url", "text", "retweets", "likes"])
+            ["created_at", "company", "url", "text", "retweets", "likes", "id"])
         writer.writerows(outtweets)
 
     # compose dictionary for outputting json
@@ -96,7 +100,8 @@ def get_all_tweets(screen_name):
             "url": tweet[2],
             "text": tweet[3],
             "re_tweets": tweet[4],
-            "likes": tweet[5]
+            "likes": tweet[5],
+            "id": tweet[6]
         }
         data.append(row)
 
@@ -109,15 +114,27 @@ def get_all_tweets(screen_name):
 
 jlFile = open("twitter.jl", "w")
 
+docID = 0  # auto increasing doc ID
+rawContent = "<!DOCTYPEhtml><html><head><meta charset='UTF-8'>" \
+             "<title>%s</title></head><body>" \
+             "<ul><li class='company'>%s</li>" \
+             "<li class='url'>%s</li>" \
+             "<li class='text'>%s</li>" \
+             "<li class='creat_time'>%s</li>" \
+             "<li class='likes'>%s</li>" \
+             "<li class='retweets'>%s</li>" \
+             "</ul></body></html>"
+
 
 def writeJL(line):
+    global docID
+    docID += 1
     row = {
-        "created_at": str(line[0]),
-        "company": line[1],
+        "doc_id": hashlib.sha256(line[2]).hexdigest(),
+        "timestamp_crawl": str(line[0]),
         "url": line[2],
-        "text": line[3],
-        "re_tweets": line[4],
-        "likes": line[5]
+        "raw_content": rawContent % ("tweets of " + line[1] + " on " + str(line[0]),
+                                     line[1], line[2], line[3], line[0], line[5], line[4])
     }
     jlFile.write(json.dumps(row, separators=(',', ': ')) + "\n")
 
