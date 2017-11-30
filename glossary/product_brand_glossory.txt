@@ -1,4 +1,4 @@
-3M
+﻿3M
 3M ClearTrack
 3M Electronic Monitoring
 3M High Visibility Signals
@@ -165,14 +165,15 @@ Power Macintosh G3
 Twentieth Anniversary Macintosh
 Xserve G5
 Xserve RAID
-1.44 Apple SuperDrive
+Apple SuperDrive
 HDI-20 Disk Drive
 Airport Base Station
 AirPort Express
 Airport Extreme Base Station
 AirPort Extreme 802.11n
 Airport Extreme
-Apple 3.5 Drive; Apple PC 5.25 Drive
+Apple 3.5 Drive
+Apple PC 5.25 Drive
 Apple Basic Color Monitor
 Apple CD Products
 Apple Cinema Display
@@ -184,7 +185,8 @@ Apple LED Cinema Display
 Apple Macintosh Portrait Display
 Apple Monochrome Monitor
 Apple Multiple Scan Display
-Apple OneScanner; Apple Color OneScanner
+Apple OneScanner
+Apple Color OneScanner
 Apple Personal Modem
 Apple Data Modem
 Apple QuickTake
@@ -213,7 +215,8 @@ GeoPort
 ImageWriter
 iSight
 LaserWriter Pro
-LaserWriter; LaserWriter II
+LaserWriter
+LaserWriter II
 Macintosh Disk Drive
 Monitor II
 Newton MessagePad
