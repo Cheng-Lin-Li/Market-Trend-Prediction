@@ -72,7 +72,7 @@ date,company,re_tweets,likes
 2016-08-03,General Electric,107,314
 2016-08-03,Goldman Sachs,122,156
 2016-08-03,IBM,0,0
-2016-08-03,Intel,118,215
+2016-08-03,Intel,118,214
 2016-08-03,Johnson & Johnson,45,81
 2016-08-03,JPMorgan Chase,11,18
 2016-08-03,McDonald's,0,0
@@ -128,7 +128,7 @@ date,company,re_tweets,likes
 2016-08-05,Cisco Systems,68,91
 2016-08-05,Coca-Cola,0,0
 2016-08-05,DowDuPont,0,0
-2016-08-05,ExxonMobil,791,3743
+2016-08-05,ExxonMobil,791,3741
 2016-08-05,General Electric,166,247
 2016-08-05,Goldman Sachs,81,117
 2016-08-05,IBM,0,0
@@ -148,7 +148,7 @@ date,company,re_tweets,likes
 2016-08-05,Verizon,0,0
 2016-08-05,Visa,0,0
 2016-08-05,Walmart,0,0
-2016-08-05,Walt Disney,1286,577
+2016-08-05,Walt Disney,1286,578
 2016-08-06,3M,18,83
 2016-08-06,American Express,0,0
 2016-08-06,Apple,0,0
@@ -208,7 +208,7 @@ date,company,re_tweets,likes
 2016-08-07,Verizon,0,0
 2016-08-07,Visa,0,0
 2016-08-07,Walmart,0,0
-2016-08-07,Walt Disney,9992,1472
+2016-08-07,Walt Disney,9989,1471
 2016-08-08,3M,32,72
 2016-08-08,American Express,0,0
 2016-08-08,Apple,0,0
@@ -218,7 +218,7 @@ date,company,re_tweets,likes
 2016-08-08,Cisco Systems,142,61
 2016-08-08,Coca-Cola,0,0
 2016-08-08,DowDuPont,0,0
-2016-08-08,ExxonMobil,621,2907
+2016-08-08,ExxonMobil,621,2906
 2016-08-08,General Electric,16,28
 2016-08-08,Goldman Sachs,68,62
 2016-08-08,IBM,0,0
@@ -268,7 +268,7 @@ date,company,re_tweets,likes
 2016-08-09,Verizon,0,0
 2016-08-09,Visa,7,21
 2016-08-09,Walmart,0,0
-2016-08-09,Walt Disney,7035,1179
+2016-08-09,Walt Disney,7035,1177
 2016-08-10,3M,38,98
 2016-08-10,American Express,0,0
 2016-08-10,Apple,0,0
@@ -280,7 +280,7 @@ date,company,re_tweets,likes
 2016-08-10,DowDuPont,0,0
 2016-08-10,ExxonMobil,901,4981
 2016-08-10,General Electric,30,47
-2016-08-10,Goldman Sachs,123,91
+2016-08-10,Goldman Sachs,123,92
 2016-08-10,IBM,0,0
 2016-08-10,Intel,0,0
 2016-08-10,Johnson & Johnson,5,0
@@ -312,7 +312,7 @@ date,company,re_tweets,likes
 2016-08-11,General Electric,21,47
 2016-08-11,Goldman Sachs,116,203
 2016-08-11,IBM,0,0
-2016-08-11,Intel,140,493
+2016-08-11,Intel,139,492
 2016-08-11,Johnson & Johnson,9,8
 2016-08-11,JPMorgan Chase,12,40
 2016-08-11,McDonald's,0,0
@@ -358,7 +358,7 @@ date,company,re_tweets,likes
 2016-08-12,Verizon,0,0
 2016-08-12,Visa,0,0
 2016-08-12,Walmart,0,0
-2016-08-12,Walt Disney,69369,0
+2016-08-12,Walt Disney,69356,0
 2016-08-13,3M,16,42
 2016-08-13,American Express,0,0
 2016-08-13,Apple,0,0
@@ -452,7 +452,7 @@ date,company,re_tweets,likes
 2016-08-16,3M,14,53
 2016-08-16,American Express,0,0
 2016-08-16,Apple,0,0
-2016-08-16,Boeing,423,769
+2016-08-16,Boeing,423,768
 2016-08-16,Caterpillar,12,21
 2016-08-16,Chevron,21,18
 2016-08-16,Cisco Systems,80,86
@@ -462,7 +462,7 @@ date,company,re_tweets,likes
 2016-08-16,General Electric,0,0
 2016-08-16,Goldman Sachs,91,83
 2016-08-16,IBM,0,0
-2016-08-16,Intel,1725,2685
+2016-08-16,Intel,1725,2686
 2016-08-16,Johnson & Johnson,0,0
 2016-08-16,JPMorgan Chase,58,131
 2016-08-16,McDonald's,0,0
@@ -568,7 +568,7 @@ date,company,re_tweets,likes
 2016-08-19,Verizon,0,0
 2016-08-19,Visa,0,0
 2016-08-19,Walmart,0,0
-2016-08-19,Walt Disney,1949,0
+2016-08-19,Walt Disney,1948,0
 2016-08-20,3M,47,129
 2016-08-20,American Express,0,0
 2016-08-20,Apple,0,0
@@ -639,7 +639,7 @@ date,company,re_tweets,likes
 2016-08-22,Coca-Cola,0,0
 2016-08-22,DowDuPont,0,0
 2016-08-22,ExxonMobil,47,78
-2016-08-22,General Electric,318,1043
+2016-08-22,General Electric,318,1042
 2016-08-22,Goldman Sachs,62,39
 2016-08-22,IBM,0,0
 2016-08-22,Intel,0,0
@@ -658,7 +658,7 @@ date,company,re_tweets,likes
 2016-08-22,Verizon,0,0
 2016-08-22,Visa,0,0
 2016-08-22,Walmart,0,0
-2016-08-22,Walt Disney,1019,4370
+2016-08-22,Walt Disney,1019,4369
 2016-08-23,3M,26,82
 2016-08-23,American Express,0,0
 2016-08-23,Apple,0,0
@@ -699,7 +699,7 @@ date,company,re_tweets,likes
 2016-08-24,Coca-Cola,0,0
 2016-08-24,DowDuPont,0,0
 2016-08-24,ExxonMobil,20,30
-2016-08-24,General Electric,150,833
+2016-08-24,General Electric,150,832
 2016-08-24,Goldman Sachs,9,0
 2016-08-24,IBM,0,0
 2016-08-24,Intel,0,0
@@ -736,7 +736,7 @@ date,company,re_tweets,likes
 2016-08-25,Johnson & Johnson,3,7
 2016-08-25,JPMorgan Chase,70,144
 2016-08-25,McDonald's,0,0
-2016-08-25,Merck,20,65
+2016-08-25,Merck,20,64
 2016-08-25,Microsoft,70,164
 2016-08-25,Nike,0,0
 2016-08-25,Pfizer,15,42
@@ -748,7 +748,7 @@ date,company,re_tweets,likes
 2016-08-25,Verizon,0,0
 2016-08-25,Visa,0,0
 2016-08-25,Walmart,0,0
-2016-08-25,Walt Disney,686,766
+2016-08-25,Walt Disney,686,767
 2016-08-26,3M,79,61
 2016-08-26,American Express,0,0
 2016-08-26,Apple,0,0
@@ -838,7 +838,7 @@ date,company,re_tweets,likes
 2016-08-28,Verizon,0,0
 2016-08-28,Visa,0,0
 2016-08-28,Walmart,0,0
-2016-08-28,Walt Disney,26437,0
+2016-08-28,Walt Disney,26434,0
 2016-08-29,3M,29,59
 2016-08-29,American Express,0,0
 2016-08-29,Apple,0,0
@@ -849,7 +849,7 @@ date,company,re_tweets,likes
 2016-08-29,Coca-Cola,0,0
 2016-08-29,DowDuPont,0,0
 2016-08-29,ExxonMobil,43,54
-2016-08-29,General Electric,166,707
+2016-08-29,General Electric,166,706
 2016-08-29,Goldman Sachs,74,47
 2016-08-29,IBM,0,0
 2016-08-29,Intel,34,75
@@ -882,7 +882,7 @@ date,company,re_tweets,likes
 2016-08-30,General Electric,47,68
 2016-08-30,Goldman Sachs,137,145
 2016-08-30,IBM,0,0
-2016-08-30,Intel,477,430
+2016-08-30,Intel,478,430
 2016-08-30,Johnson & Johnson,7,0
 2016-08-30,JPMorgan Chase,21,50
 2016-08-30,McDonald's,0,0
@@ -912,7 +912,7 @@ date,company,re_tweets,likes
 2016-08-31,General Electric,38,57
 2016-08-31,Goldman Sachs,94,109
 2016-08-31,IBM,0,0
-2016-08-31,Intel,382,1093
+2016-08-31,Intel,382,1092
 2016-08-31,Johnson & Johnson,0,0
 2016-08-31,JPMorgan Chase,25,45
 2016-08-31,McDonald's,0,0
@@ -928,7 +928,7 @@ date,company,re_tweets,likes
 2016-08-31,Verizon,0,0
 2016-08-31,Visa,0,0
 2016-08-31,Walmart,0,0
-2016-08-31,Walt Disney,1576,0
+2016-08-31,Walt Disney,1575,0
 2016-09-01,3M,24,102
 2016-09-01,American Express,0,0
 2016-09-01,Apple,0,0
@@ -958,7 +958,7 @@ date,company,re_tweets,likes
 2016-09-01,Verizon,0,0
 2016-09-01,Visa,0,0
 2016-09-01,Walmart,0,0
-2016-09-01,Walt Disney,2171,3151
+2016-09-01,Walt Disney,2171,3150
 2016-09-02,3M,187,415
 2016-09-02,American Express,0,0
 2016-09-02,Apple,0,0
@@ -1144,7 +1144,7 @@ date,company,re_tweets,likes
 2016-09-08,Apple,0,0
 2016-09-08,Boeing,18,0
 2016-09-08,Caterpillar,13,30
-2016-09-08,Chevron,40,101
+2016-09-08,Chevron,40,100
 2016-09-08,Cisco Systems,42,66
 2016-09-08,Coca-Cola,0,0
 2016-09-08,DowDuPont,0,0
@@ -1258,7 +1258,7 @@ date,company,re_tweets,likes
 2016-09-11,Verizon,0,0
 2016-09-11,Visa,0,0
 2016-09-11,Walmart,0,0
-2016-09-11,Walt Disney,383,672
+2016-09-11,Walt Disney,383,673
 2016-09-12,3M,58,143
 2016-09-12,American Express,0,0
 2016-09-12,Apple,0,0
@@ -1318,7 +1318,7 @@ date,company,re_tweets,likes
 2016-09-13,Verizon,0,0
 2016-09-13,Visa,0,0
 2016-09-13,Walmart,0,0
-2016-09-13,Walt Disney,2150,504
+2016-09-13,Walt Disney,2149,504
 2016-09-14,3M,39,140
 2016-09-14,American Express,0,0
 2016-09-14,Apple,0,0
@@ -1378,7 +1378,7 @@ date,company,re_tweets,likes
 2016-09-15,Verizon,0,0
 2016-09-15,Visa,0,0
 2016-09-15,Walmart,0,0
-2016-09-15,Walt Disney,21412,712
+2016-09-15,Walt Disney,21411,713
 2016-09-16,3M,31,109
 2016-09-16,American Express,0,0
 2016-09-16,Apple,0,0
@@ -1498,7 +1498,7 @@ date,company,re_tweets,likes
 2016-09-19,Verizon,0,0
 2016-09-19,Visa,0,0
 2016-09-19,Walmart,0,0
-2016-09-19,Walt Disney,882,1072
+2016-09-19,Walt Disney,882,1074
 2016-09-20,3M,17,70
 2016-09-20,American Express,0,0
 2016-09-20,Apple,0,0
@@ -1529,7 +1529,7 @@ date,company,re_tweets,likes
 2016-09-20,Visa,0,0
 2016-09-20,Walmart,0,0
 2016-09-20,Walt Disney,1218,659
-2016-09-21,3M,39,147
+2016-09-21,3M,39,146
 2016-09-21,American Express,0,0
 2016-09-21,Apple,0,0
 2016-09-21,Boeing,21,0
@@ -1618,7 +1618,7 @@ date,company,re_tweets,likes
 2016-09-23,Verizon,0,0
 2016-09-23,Visa,0,0
 2016-09-23,Walmart,0,0
-2016-09-23,Walt Disney,518,404
+2016-09-23,Walt Disney,517,404
 2016-09-24,3M,12,30
 2016-09-24,American Express,0,0
 2016-09-24,Apple,0,0
@@ -1738,7 +1738,7 @@ date,company,re_tweets,likes
 2016-09-27,Verizon,0,0
 2016-09-27,Visa,0,0
 2016-09-27,Walmart,0,0
-2016-09-27,Walt Disney,3454,1670
+2016-09-27,Walt Disney,3453,1670
 2016-09-28,3M,38,33
 2016-09-28,American Express,0,0
 2016-09-28,Apple,0,0
@@ -1798,7 +1798,7 @@ date,company,re_tweets,likes
 2016-09-29,Verizon,0,0
 2016-09-29,Visa,0,0
 2016-09-29,Walmart,0,0
-2016-09-29,Walt Disney,2844,881
+2016-09-29,Walt Disney,2844,880
 2016-09-30,3M,11,30
 2016-09-30,American Express,0,0
 2016-09-30,Apple,0,0
@@ -1828,7 +1828,7 @@ date,company,re_tweets,likes
 2016-09-30,Verizon,0,0
 2016-09-30,Visa,0,0
 2016-09-30,Walmart,0,0
-2016-09-30,Walt Disney,433,371
+2016-09-30,Walt Disney,433,369
 2016-10-01,3M,19,54
 2016-10-01,American Express,0,0
 2016-10-01,Apple,0,0
@@ -1865,7 +1865,7 @@ date,company,re_tweets,likes
 2016-10-02,Boeing,0,0
 2016-10-02,Caterpillar,11,26
 2016-10-02,Chevron,0,0
-2016-10-02,Cisco Systems,56,81
+2016-10-02,Cisco Systems,55,81
 2016-10-02,Coca-Cola,0,0
 2016-10-02,DowDuPont,0,0
 2016-10-02,ExxonMobil,36,46
@@ -1907,7 +1907,7 @@ date,company,re_tweets,likes
 2016-10-03,JPMorgan Chase,7,23
 2016-10-03,McDonald's,0,0
 2016-10-03,Merck,14,19
-2016-10-03,Microsoft,1421,1684
+2016-10-03,Microsoft,1420,1684
 2016-10-03,Nike,0,0
 2016-10-03,Pfizer,39,67
 2016-10-03,Procter & Gamble,15,21
@@ -1918,7 +1918,7 @@ date,company,re_tweets,likes
 2016-10-03,Verizon,0,0
 2016-10-03,Visa,0,0
 2016-10-03,Walmart,0,0
-2016-10-03,Walt Disney,21412,24235
+2016-10-03,Walt Disney,21411,24232
 2016-10-04,3M,27,105
 2016-10-04,American Express,0,0
 2016-10-04,Apple,0,0
@@ -1930,7 +1930,7 @@ date,company,re_tweets,likes
 2016-10-04,DowDuPont,0,0
 2016-10-04,ExxonMobil,17,22
 2016-10-04,General Electric,14,0
-2016-10-04,Goldman Sachs,145,97
+2016-10-04,Goldman Sachs,145,96
 2016-10-04,IBM,0,0
 2016-10-04,Intel,47,103
 2016-10-04,Johnson & Johnson,6,7
@@ -1960,7 +1960,7 @@ date,company,re_tweets,likes
 2016-10-05,DowDuPont,0,0
 2016-10-05,ExxonMobil,45,18
 2016-10-05,General Electric,62,50
-2016-10-05,Goldman Sachs,160,228
+2016-10-05,Goldman Sachs,160,227
 2016-10-05,IBM,0,0
 2016-10-05,Intel,28,97
 2016-10-05,Johnson & Johnson,114,72
@@ -2001,7 +2001,7 @@ date,company,re_tweets,likes
 2016-10-06,Nike,0,0
 2016-10-06,Pfizer,17,40
 2016-10-06,Procter & Gamble,0,0
-2016-10-06,The Home Depot,129,244
+2016-10-06,The Home Depot,129,243
 2016-10-06,Travelers,752,14
 2016-10-06,United Technologies,149,19
 2016-10-06,UnitedHealth Group,31,22
@@ -2117,7 +2117,7 @@ date,company,re_tweets,likes
 2016-10-10,JPMorgan Chase,42,26
 2016-10-10,McDonald's,0,0
 2016-10-10,Merck,52,89
-2016-10-10,Microsoft,419,0
+2016-10-10,Microsoft,418,0
 2016-10-10,Nike,0,0
 2016-10-10,Pfizer,60,100
 2016-10-10,Procter & Gamble,64,28
@@ -2150,7 +2150,7 @@ date,company,re_tweets,likes
 2016-10-11,Microsoft,715,520
 2016-10-11,Nike,0,0
 2016-10-11,Pfizer,6,22
-2016-10-11,Procter & Gamble,5839,121
+2016-10-11,Procter & Gamble,5838,121
 2016-10-11,The Home Depot,70,74
 2016-10-11,Travelers,24,18
 2016-10-11,United Technologies,11,2
@@ -2188,14 +2188,14 @@ date,company,re_tweets,likes
 2016-10-12,Verizon,0,0
 2016-10-12,Visa,0,0
 2016-10-12,Walmart,0,0
-2016-10-12,Walt Disney,993,1364
+2016-10-12,Walt Disney,993,1362
 2016-10-13,3M,25,63
 2016-10-13,American Express,0,0
 2016-10-13,Apple,0,0
 2016-10-13,Boeing,347,39
 2016-10-13,Caterpillar,6,18
 2016-10-13,Chevron,0,0
-2016-10-13,Cisco Systems,110,103
+2016-10-13,Cisco Systems,110,102
 2016-10-13,Coca-Cola,0,0
 2016-10-13,DowDuPont,0,0
 2016-10-13,ExxonMobil,171,494
@@ -2218,7 +2218,7 @@ date,company,re_tweets,likes
 2016-10-13,Verizon,0,0
 2016-10-13,Visa,0,0
 2016-10-13,Walmart,0,0
-2016-10-13,Walt Disney,46264,0
+2016-10-13,Walt Disney,46260,0
 2016-10-14,3M,15,75
 2016-10-14,American Express,0,0
 2016-10-14,Apple,0,0
@@ -2229,7 +2229,7 @@ date,company,re_tweets,likes
 2016-10-14,Coca-Cola,0,0
 2016-10-14,DowDuPont,0,0
 2016-10-14,ExxonMobil,60,193
-2016-10-14,General Electric,27,37
+2016-10-14,General Electric,26,37
 2016-10-14,Goldman Sachs,119,174
 2016-10-14,IBM,0,0
 2016-10-14,Intel,158,477
@@ -2237,7 +2237,7 @@ date,company,re_tweets,likes
 2016-10-14,JPMorgan Chase,92,85
 2016-10-14,McDonald's,0,0
 2016-10-14,Merck,14,19
-2016-10-14,Microsoft,116,198
+2016-10-14,Microsoft,116,199
 2016-10-14,Nike,0,0
 2016-10-14,Pfizer,45,68
 2016-10-14,Procter & Gamble,0,0
@@ -2361,7 +2361,7 @@ date,company,re_tweets,likes
 2016-10-18,Nike,0,0
 2016-10-18,Pfizer,16,22
 2016-10-18,Procter & Gamble,17,32
-2016-10-18,The Home Depot,77,159
+2016-10-18,The Home Depot,76,159
 2016-10-18,Travelers,93,37
 2016-10-18,United Technologies,6,12
 2016-10-18,UnitedHealth Group,27,105
@@ -2548,7 +2548,7 @@ date,company,re_tweets,likes
 2016-10-24,Verizon,0,0
 2016-10-24,Visa,0,0
 2016-10-24,Walmart,0,0
-2016-10-24,Walt Disney,2856,0
+2016-10-24,Walt Disney,2855,0
 2016-10-25,3M,38,99
 2016-10-25,American Express,0,0
 2016-10-25,Apple,0,0
@@ -2571,7 +2571,7 @@ date,company,re_tweets,likes
 2016-10-25,Nike,0,0
 2016-10-25,Pfizer,94,156
 2016-10-25,Procter & Gamble,33,61
-2016-10-25,The Home Depot,74,206
+2016-10-25,The Home Depot,74,205
 2016-10-25,Travelers,34,14
 2016-10-25,United Technologies,24,35
 2016-10-25,UnitedHealth Group,10,11
@@ -2590,14 +2590,14 @@ date,company,re_tweets,likes
 2016-10-26,DowDuPont,0,0
 2016-10-26,ExxonMobil,26,48
 2016-10-26,General Electric,92,55
-2016-10-26,Goldman Sachs,79,119
-2016-10-26,IBM,1656,1544
+2016-10-26,Goldman Sachs,79,118
+2016-10-26,IBM,978,793
 2016-10-26,Intel,99,253
 2016-10-26,Johnson & Johnson,38,55
 2016-10-26,JPMorgan Chase,35,67
 2016-10-26,McDonald's,0,0
 2016-10-26,Merck,49,55
-2016-10-26,Microsoft,29051,10395
+2016-10-26,Microsoft,29046,10396
 2016-10-26,Nike,0,0
 2016-10-26,Pfizer,26,36
 2016-10-26,Procter & Gamble,1381,16
@@ -2668,7 +2668,7 @@ date,company,re_tweets,likes
 2016-10-28,Verizon,0,0
 2016-10-28,Visa,0,0
 2016-10-28,Walmart,0,0
-2016-10-28,Walt Disney,1172,1221
+2016-10-28,Walt Disney,1172,1220
 2016-10-29,3M,54,105
 2016-10-29,American Express,0,0
 2016-10-29,Apple,0,0
@@ -2741,7 +2741,7 @@ date,company,re_tweets,likes
 2016-10-31,ExxonMobil,68,71
 2016-10-31,General Electric,13,9
 2016-10-31,Goldman Sachs,74,114
-2016-10-31,IBM,971,507
+2016-10-31,IBM,971,508
 2016-10-31,Intel,86,243
 2016-10-31,Johnson & Johnson,12,17
 2016-10-31,JPMorgan Chase,19,40
@@ -2777,7 +2777,7 @@ date,company,re_tweets,likes
 2016-11-01,JPMorgan Chase,116,188
 2016-11-01,McDonald's,0,0
 2016-11-01,Merck,35,30
-2016-11-01,Microsoft,2657,0
+2016-11-01,Microsoft,2656,0
 2016-11-01,Nike,0,0
 2016-11-01,Pfizer,96,171
 2016-11-01,Procter & Gamble,0,0
@@ -2818,7 +2818,7 @@ date,company,re_tweets,likes
 2016-11-02,Verizon,0,0
 2016-11-02,Visa,0,0
 2016-11-02,Walmart,0,0
-2016-11-02,Walt Disney,15187,234
+2016-11-02,Walt Disney,15184,234
 2016-11-03,3M,337,999
 2016-11-03,American Express,0,0
 2016-11-03,Apple,0,0
@@ -2848,7 +2848,7 @@ date,company,re_tweets,likes
 2016-11-03,Verizon,0,0
 2016-11-03,Visa,0,0
 2016-11-03,Walmart,0,0
-2016-11-03,Walt Disney,3248,689
+2016-11-03,Walt Disney,3248,690
 2016-11-04,3M,65,104
 2016-11-04,American Express,0,0
 2016-11-04,Apple,0,0
@@ -2938,7 +2938,7 @@ date,company,re_tweets,likes
 2016-11-06,Verizon,0,0
 2016-11-06,Visa,0,0
 2016-11-06,Walmart,0,0
-2016-11-06,Walt Disney,6355,0
+2016-11-06,Walt Disney,6353,0
 2016-11-07,3M,22,96
 2016-11-07,American Express,0,0
 2016-11-07,Apple,0,0
@@ -3044,7 +3044,7 @@ date,company,re_tweets,likes
 2016-11-10,IBM,379,242
 2016-11-10,Intel,183,485
 2016-11-10,Johnson & Johnson,69,110
-2016-11-10,JPMorgan Chase,74,232
+2016-11-10,JPMorgan Chase,73,232
 2016-11-10,McDonald's,0,0
 2016-11-10,Merck,80,101
 2016-11-10,Microsoft,222,0
@@ -3058,7 +3058,7 @@ date,company,re_tweets,likes
 2016-11-10,Verizon,0,0
 2016-11-10,Visa,0,0
 2016-11-10,Walmart,0,0
-2016-11-10,Walt Disney,51825,0
+2016-11-10,Walt Disney,51817,0
 2016-11-11,3M,115,227
 2016-11-11,American Express,0,0
 2016-11-11,Apple,0,0
@@ -3088,7 +3088,7 @@ date,company,re_tweets,likes
 2016-11-11,Verizon,0,0
 2016-11-11,Visa,0,0
 2016-11-11,Walmart,0,0
-2016-11-11,Walt Disney,10072,0
+2016-11-11,Walt Disney,10071,0
 2016-11-12,3M,5,28
 2016-11-12,American Express,0,0
 2016-11-12,Apple,0,0
@@ -3102,7 +3102,7 @@ date,company,re_tweets,likes
 2016-11-12,General Electric,0,0
 2016-11-12,Goldman Sachs,28,48
 2016-11-12,IBM,0,0
-2016-11-12,Intel,174,453
+2016-11-12,Intel,174,452
 2016-11-12,Johnson & Johnson,0,0
 2016-11-12,JPMorgan Chase,168,295
 2016-11-12,McDonald's,0,0
@@ -3113,7 +3113,7 @@ date,company,re_tweets,likes
 2016-11-12,Procter & Gamble,0,0
 2016-11-12,The Home Depot,74,166
 2016-11-12,Travelers,27,21
-2016-11-12,United Technologies,3817,63
+2016-11-12,United Technologies,3816,63
 2016-11-12,UnitedHealth Group,0,0
 2016-11-12,Verizon,0,0
 2016-11-12,Visa,0,0
@@ -3160,25 +3160,25 @@ date,company,re_tweets,likes
 2016-11-14,DowDuPont,0,0
 2016-11-14,ExxonMobil,840,4117
 2016-11-14,General Electric,78,132
-2016-11-14,Goldman Sachs,90,132
+2016-11-14,Goldman Sachs,90,131
 2016-11-14,IBM,700,402
 2016-11-14,Intel,16,56
 2016-11-14,Johnson & Johnson,84,244
 2016-11-14,JPMorgan Chase,19,47
 2016-11-14,McDonald's,0,0
 2016-11-14,Merck,215,458
-2016-11-14,Microsoft,541,1147
+2016-11-14,Microsoft,539,1147
 2016-11-14,Nike,0,0
 2016-11-14,Pfizer,62,68
 2016-11-14,Procter & Gamble,1,0
-2016-11-14,The Home Depot,31,73
+2016-11-14,The Home Depot,31,71
 2016-11-14,Travelers,10,4
 2016-11-14,United Technologies,37,20
 2016-11-14,UnitedHealth Group,0,0
 2016-11-14,Verizon,0,0
 2016-11-14,Visa,0,0
 2016-11-14,Walmart,0,0
-2016-11-14,Walt Disney,72088,573
+2016-11-14,Walt Disney,72086,573
 2016-11-15,3M,23,86
 2016-11-15,American Express,0,0
 2016-11-15,Apple,0,0
@@ -3191,13 +3191,13 @@ date,company,re_tweets,likes
 2016-11-15,ExxonMobil,13,20
 2016-11-15,General Electric,72,30
 2016-11-15,Goldman Sachs,55,60
-2016-11-15,IBM,1794,2017
+2016-11-15,IBM,1794,2015
 2016-11-15,Intel,0,0
 2016-11-15,Johnson & Johnson,52,121
 2016-11-15,JPMorgan Chase,38,46
 2016-11-15,McDonald's,0,0
 2016-11-15,Merck,209,430
-2016-11-15,Microsoft,569,1150
+2016-11-15,Microsoft,569,1149
 2016-11-15,Nike,0,0
 2016-11-15,Pfizer,33,56
 2016-11-15,Procter & Gamble,5,13
@@ -3227,7 +3227,7 @@ date,company,re_tweets,likes
 2016-11-16,JPMorgan Chase,76,51
 2016-11-16,McDonald's,0,0
 2016-11-16,Merck,7,36
-2016-11-16,Microsoft,15159,224
+2016-11-16,Microsoft,15154,224
 2016-11-16,Nike,0,0
 2016-11-16,Pfizer,39,57
 2016-11-16,Procter & Gamble,0,0
@@ -3251,8 +3251,8 @@ date,company,re_tweets,likes
 2016-11-17,ExxonMobil,72,123
 2016-11-17,General Electric,21,37
 2016-11-17,Goldman Sachs,86,162
-2016-11-17,IBM,3224,848
-2016-11-17,Intel,191,357
+2016-11-17,IBM,3223,848
+2016-11-17,Intel,191,356
 2016-11-17,Johnson & Johnson,58,104
 2016-11-17,JPMorgan Chase,9,27
 2016-11-17,McDonald's,0,0
@@ -3365,7 +3365,7 @@ date,company,re_tweets,likes
 2016-11-21,Boeing,69,85
 2016-11-21,Caterpillar,45,101
 2016-11-21,Chevron,28,31
-2016-11-21,Cisco Systems,82,64
+2016-11-21,Cisco Systems,82,63
 2016-11-21,Coca-Cola,0,0
 2016-11-21,DowDuPont,0,0
 2016-11-21,ExxonMobil,145,1326
@@ -3388,7 +3388,7 @@ date,company,re_tweets,likes
 2016-11-21,Verizon,0,0
 2016-11-21,Visa,0,0
 2016-11-21,Walmart,0,0
-2016-11-21,Walt Disney,1811,3158
+2016-11-21,Walt Disney,1810,3158
 2016-11-22,3M,10,31
 2016-11-22,American Express,0,0
 2016-11-22,Apple,0,0
@@ -3401,7 +3401,7 @@ date,company,re_tweets,likes
 2016-11-22,ExxonMobil,24,41
 2016-11-22,General Electric,33,37
 2016-11-22,Goldman Sachs,71,94
-2016-11-22,IBM,731,363
+2016-11-22,IBM,730,363
 2016-11-22,Intel,0,0
 2016-11-22,Johnson & Johnson,96,123
 2016-11-22,JPMorgan Chase,8,0
@@ -3437,7 +3437,7 @@ date,company,re_tweets,likes
 2016-11-23,JPMorgan Chase,11,0
 2016-11-23,McDonald's,0,0
 2016-11-23,Merck,7,11
-2016-11-23,Microsoft,573,505
+2016-11-23,Microsoft,572,505
 2016-11-23,Nike,0,0
 2016-11-23,Pfizer,9,23
 2016-11-23,Procter & Gamble,0,0
@@ -3508,7 +3508,7 @@ date,company,re_tweets,likes
 2016-11-25,Verizon,0,0
 2016-11-25,Visa,0,0
 2016-11-25,Walmart,0,0
-2016-11-25,Walt Disney,1016,2102
+2016-11-25,Walt Disney,1015,2102
 2016-11-26,3M,6,16
 2016-11-26,American Express,0,0
 2016-11-26,Apple,0,0
@@ -3538,7 +3538,7 @@ date,company,re_tweets,likes
 2016-11-26,Verizon,0,0
 2016-11-26,Visa,0,0
 2016-11-26,Walmart,0,0
-2016-11-26,Walt Disney,398,893
+2016-11-26,Walt Disney,396,893
 2016-11-27,3M,28,55
 2016-11-27,American Express,0,0
 2016-11-27,Apple,0,0
@@ -3580,7 +3580,7 @@ date,company,re_tweets,likes
 2016-11-28,DowDuPont,0,0
 2016-11-28,ExxonMobil,733,2346
 2016-11-28,General Electric,0,0
-2016-11-28,Goldman Sachs,79,109
+2016-11-28,Goldman Sachs,78,109
 2016-11-28,IBM,309,151
 2016-11-28,Intel,66,218
 2016-11-28,Johnson & Johnson,38,77
@@ -3605,7 +3605,7 @@ date,company,re_tweets,likes
 2016-11-29,Boeing,0,0
 2016-11-29,Caterpillar,11,9
 2016-11-29,Chevron,44,73
-2016-11-29,Cisco Systems,603,168
+2016-11-29,Cisco Systems,603,167
 2016-11-29,Coca-Cola,0,0
 2016-11-29,DowDuPont,0,0
 2016-11-29,ExxonMobil,143,627
@@ -3688,7 +3688,7 @@ date,company,re_tweets,likes
 2016-12-01,Verizon,0,0
 2016-12-01,Visa,0,0
 2016-12-01,Walmart,0,0
-2016-12-01,Walt Disney,4782,0
+2016-12-01,Walt Disney,4780,0
 2016-12-02,3M,16,44
 2016-12-02,American Express,0,0
 2016-12-02,Apple,0,0
@@ -3698,7 +3698,7 @@ date,company,re_tweets,likes
 2016-12-02,Cisco Systems,51,86
 2016-12-02,Coca-Cola,0,0
 2016-12-02,DowDuPont,0,0
-2016-12-02,ExxonMobil,190,632
+2016-12-02,ExxonMobil,190,633
 2016-12-02,General Electric,36,62
 2016-12-02,Goldman Sachs,66,85
 2016-12-02,IBM,594,196
@@ -3812,7 +3812,7 @@ date,company,re_tweets,likes
 2016-12-06,3M,8,40
 2016-12-06,American Express,0,0
 2016-12-06,Apple,0,0
-2016-12-06,Boeing,1065,970
+2016-12-06,Boeing,1065,971
 2016-12-06,Caterpillar,15,25
 2016-12-06,Chevron,32,28
 2016-12-06,Cisco Systems,90,96
@@ -3821,10 +3821,10 @@ date,company,re_tweets,likes
 2016-12-06,ExxonMobil,8,14
 2016-12-06,General Electric,21,18
 2016-12-06,Goldman Sachs,100,152
-2016-12-06,IBM,980,591
+2016-12-06,IBM,980,590
 2016-12-06,Intel,0,0
 2016-12-06,Johnson & Johnson,57,28
-2016-12-06,JPMorgan Chase,84,277
+2016-12-06,JPMorgan Chase,84,276
 2016-12-06,McDonald's,0,0
 2016-12-06,Merck,60,48
 2016-12-06,Microsoft,0,0
@@ -3868,7 +3868,7 @@ date,company,re_tweets,likes
 2016-12-07,Verizon,0,0
 2016-12-07,Visa,1,3
 2016-12-07,Walmart,0,0
-2016-12-07,Walt Disney,3032,0
+2016-12-07,Walt Disney,3031,0
 2016-12-08,3M,9,16
 2016-12-08,American Express,0,0
 2016-12-08,Apple,0,0
@@ -3909,7 +3909,7 @@ date,company,re_tweets,likes
 2016-12-09,Coca-Cola,0,0
 2016-12-09,DowDuPont,0,0
 2016-12-09,ExxonMobil,84,116
-2016-12-09,General Electric,27,33
+2016-12-09,General Electric,26,33
 2016-12-09,Goldman Sachs,50,84
 2016-12-09,IBM,789,493
 2016-12-09,Intel,87,142
@@ -3941,7 +3941,7 @@ date,company,re_tweets,likes
 2016-12-10,ExxonMobil,32,64
 2016-12-10,General Electric,0,0
 2016-12-10,Goldman Sachs,0,0
-2016-12-10,IBM,107,160
+2016-12-10,IBM,107,161
 2016-12-10,Intel,51,140
 2016-12-10,Johnson & Johnson,9,0
 2016-12-10,JPMorgan Chase,0,0
@@ -4000,7 +4000,7 @@ date,company,re_tweets,likes
 2016-12-12,DowDuPont,0,0
 2016-12-12,ExxonMobil,14,30
 2016-12-12,General Electric,13,11
-2016-12-12,Goldman Sachs,159,204
+2016-12-12,Goldman Sachs,158,204
 2016-12-12,IBM,680,304
 2016-12-12,Intel,24,44
 2016-12-12,Johnson & Johnson,91,37
@@ -4060,9 +4060,9 @@ date,company,re_tweets,likes
 2016-12-14,DowDuPont,0,0
 2016-12-14,ExxonMobil,104,96
 2016-12-14,General Electric,12,31
-2016-12-14,Goldman Sachs,263,192
+2016-12-14,Goldman Sachs,262,192
 2016-12-14,IBM,567,335
-2016-12-14,Intel,91,396
+2016-12-14,Intel,91,395
 2016-12-14,Johnson & Johnson,19,39
 2016-12-14,JPMorgan Chase,76,128
 2016-12-14,McDonald's,0,0
@@ -4121,7 +4121,7 @@ date,company,re_tweets,likes
 2016-12-16,ExxonMobil,65,77
 2016-12-16,General Electric,52,64
 2016-12-16,Goldman Sachs,137,238
-2016-12-16,IBM,1233,888
+2016-12-16,IBM,1233,892
 2016-12-16,Intel,24,42
 2016-12-16,Johnson & Johnson,37,20
 2016-12-16,JPMorgan Chase,32,69
@@ -4220,7 +4220,7 @@ date,company,re_tweets,likes
 2016-12-19,Microsoft,0,0
 2016-12-19,Nike,0,0
 2016-12-19,Pfizer,48,146
-2016-12-19,Procter & Gamble,68,221
+2016-12-19,Procter & Gamble,68,220
 2016-12-19,The Home Depot,29,36
 2016-12-19,Travelers,31,17
 2016-12-19,United Technologies,17,0
@@ -4274,7 +4274,7 @@ date,company,re_tweets,likes
 2016-12-21,IBM,970,364
 2016-12-21,Intel,18,40
 2016-12-21,Johnson & Johnson,12,19
-2016-12-21,JPMorgan Chase,116,375
+2016-12-21,JPMorgan Chase,116,374
 2016-12-21,McDonald's,0,0
 2016-12-21,Merck,45,47
 2016-12-21,Microsoft,159,377
@@ -4300,7 +4300,7 @@ date,company,re_tweets,likes
 2016-12-22,DowDuPont,0,0
 2016-12-22,ExxonMobil,8,18
 2016-12-22,General Electric,15,20
-2016-12-22,Goldman Sachs,196,236
+2016-12-22,Goldman Sachs,195,237
 2016-12-22,IBM,2227,648
 2016-12-22,Intel,27,63
 2016-12-22,Johnson & Johnson,16,28
@@ -4318,7 +4318,7 @@ date,company,re_tweets,likes
 2016-12-22,Verizon,0,0
 2016-12-22,Visa,1,2
 2016-12-22,Walmart,0,0
-2016-12-22,Walt Disney,223,700
+2016-12-22,Walt Disney,223,699
 2016-12-23,3M,66,110
 2016-12-23,American Express,0,0
 2016-12-23,Apple,0,0
@@ -4331,7 +4331,7 @@ date,company,re_tweets,likes
 2016-12-23,ExxonMobil,15,38
 2016-12-23,General Electric,24,33
 2016-12-23,Goldman Sachs,102,116
-2016-12-23,IBM,804,339
+2016-12-23,IBM,804,340
 2016-12-23,Intel,34,83
 2016-12-23,Johnson & Johnson,6,18
 2016-12-23,JPMorgan Chase,18,39
@@ -4355,7 +4355,7 @@ date,company,re_tweets,likes
 2016-12-24,Boeing,0,0
 2016-12-24,Caterpillar,6,10
 2016-12-24,Chevron,0,0
-2016-12-24,Cisco Systems,116,163
+2016-12-24,Cisco Systems,116,162
 2016-12-24,Coca-Cola,0,0
 2016-12-24,DowDuPont,0,0
 2016-12-24,ExxonMobil,0,0
@@ -4450,7 +4450,7 @@ date,company,re_tweets,likes
 2016-12-27,DowDuPont,0,0
 2016-12-27,ExxonMobil,25,38
 2016-12-27,General Electric,0,0
-2016-12-27,Goldman Sachs,55,77
+2016-12-27,Goldman Sachs,53,77
 2016-12-27,IBM,919,723
 2016-12-27,Intel,0,0
 2016-12-27,Johnson & Johnson,24,42
@@ -4480,7 +4480,7 @@ date,company,re_tweets,likes
 2016-12-28,DowDuPont,0,0
 2016-12-28,ExxonMobil,35,67
 2016-12-28,General Electric,57,56
-2016-12-28,Goldman Sachs,212,244
+2016-12-28,Goldman Sachs,213,244
 2016-12-28,IBM,305,108
 2016-12-28,Intel,24,53
 2016-12-28,Johnson & Johnson,26,38
@@ -4503,7 +4503,7 @@ date,company,re_tweets,likes
 2016-12-29,American Express,0,0
 2016-12-29,Apple,0,0
 2016-12-29,Boeing,0,0
-2016-12-29,Caterpillar,8,25
+2016-12-29,Caterpillar,8,24
 2016-12-29,Chevron,12,27
 2016-12-29,Cisco Systems,46,56
 2016-12-29,Coca-Cola,0,0
@@ -4563,7 +4563,7 @@ date,company,re_tweets,likes
 2016-12-31,American Express,0,0
 2016-12-31,Apple,0,0
 2016-12-31,Boeing,0,0
-2016-12-31,Caterpillar,19,64
+2016-12-31,Caterpillar,19,63
 2016-12-31,Chevron,33,53
 2016-12-31,Cisco Systems,15,31
 2016-12-31,Coca-Cola,0,0
@@ -4588,7 +4588,7 @@ date,company,re_tweets,likes
 2016-12-31,Verizon,0,0
 2016-12-31,Visa,0,0
 2016-12-31,Walmart,0,0
-2016-12-31,Walt Disney,6608,0
+2016-12-31,Walt Disney,6606,0
 2017-01-01,3M,10,20
 2017-01-01,American Express,0,0
 2017-01-01,Apple,0,0
@@ -4690,9 +4690,9 @@ date,company,re_tweets,likes
 2017-01-04,DowDuPont,0,0
 2017-01-04,ExxonMobil,0,0
 2017-01-04,General Electric,24,22
-2017-01-04,Goldman Sachs,106,124
+2017-01-04,Goldman Sachs,105,125
 2017-01-04,IBM,393,365
-2017-01-04,Intel,981,2108
+2017-01-04,Intel,981,2109
 2017-01-04,Johnson & Johnson,31,37
 2017-01-04,JPMorgan Chase,20,0
 2017-01-04,McDonald's,0,0
@@ -4700,7 +4700,7 @@ date,company,re_tweets,likes
 2017-01-04,Microsoft,614,0
 2017-01-04,Nike,0,0
 2017-01-04,Pfizer,44,71
-2017-01-04,Procter & Gamble,3857,0
+2017-01-04,Procter & Gamble,3856,0
 2017-01-04,The Home Depot,15,37
 2017-01-04,Travelers,53,40
 2017-01-04,United Technologies,28,0
@@ -4722,7 +4722,7 @@ date,company,re_tweets,likes
 2017-01-05,General Electric,24,37
 2017-01-05,Goldman Sachs,121,165
 2017-01-05,IBM,994,1332
-2017-01-05,Intel,1919,4654
+2017-01-05,Intel,1919,4655
 2017-01-05,Johnson & Johnson,159,715
 2017-01-05,JPMorgan Chase,43,58
 2017-01-05,McDonald's,0,0
@@ -4750,7 +4750,7 @@ date,company,re_tweets,likes
 2017-01-06,DowDuPont,0,0
 2017-01-06,ExxonMobil,44,82
 2017-01-06,General Electric,12,40
-2017-01-06,Goldman Sachs,198,279
+2017-01-06,Goldman Sachs,197,279
 2017-01-06,IBM,1720,1938
 2017-01-06,Intel,8715,2129
 2017-01-06,Johnson & Johnson,76,116
@@ -4768,7 +4768,7 @@ date,company,re_tweets,likes
 2017-01-06,Verizon,0,0
 2017-01-06,Visa,0,0
 2017-01-06,Walmart,0,0
-2017-01-06,Walt Disney,719,1155
+2017-01-06,Walt Disney,719,1156
 2017-01-07,3M,5,19
 2017-01-07,American Express,0,0
 2017-01-07,Apple,0,0
@@ -4780,7 +4780,7 @@ date,company,re_tweets,likes
 2017-01-07,DowDuPont,0,0
 2017-01-07,ExxonMobil,37,99
 2017-01-07,General Electric,0,0
-2017-01-07,Goldman Sachs,35,50
+2017-01-07,Goldman Sachs,34,50
 2017-01-07,IBM,353,286
 2017-01-07,Intel,1097,3134
 2017-01-07,Johnson & Johnson,49,96
@@ -4828,7 +4828,7 @@ date,company,re_tweets,likes
 2017-01-08,Verizon,0,0
 2017-01-08,Visa,165,0
 2017-01-08,Walmart,0,0
-2017-01-08,Walt Disney,6545,0
+2017-01-08,Walt Disney,6544,0
 2017-01-09,3M,16,40
 2017-01-09,American Express,0,0
 2017-01-09,Apple,0,0
@@ -4858,7 +4858,7 @@ date,company,re_tweets,likes
 2017-01-09,Verizon,0,0
 2017-01-09,Visa,0,0
 2017-01-09,Walmart,0,0
-2017-01-09,Walt Disney,40500,0
+2017-01-09,Walt Disney,40498,0
 2017-01-10,3M,20,37
 2017-01-10,American Express,0,0
 2017-01-10,Apple,0,0
@@ -4871,7 +4871,7 @@ date,company,re_tweets,likes
 2017-01-10,ExxonMobil,0,0
 2017-01-10,General Electric,45,80
 2017-01-10,Goldman Sachs,110,136
-2017-01-10,IBM,892,364
+2017-01-10,IBM,892,365
 2017-01-10,Intel,0,0
 2017-01-10,Johnson & Johnson,305,685
 2017-01-10,JPMorgan Chase,134,257
@@ -4888,7 +4888,7 @@ date,company,re_tweets,likes
 2017-01-10,Verizon,0,0
 2017-01-10,Visa,0,0
 2017-01-10,Walmart,0,0
-2017-01-10,Walt Disney,11235,0
+2017-01-10,Walt Disney,11231,0
 2017-01-11,3M,0,0
 2017-01-11,American Express,0,0
 2017-01-11,Apple,0,0
@@ -4937,7 +4937,7 @@ date,company,re_tweets,likes
 2017-01-12,JPMorgan Chase,100,153
 2017-01-12,McDonald's,0,0
 2017-01-12,Merck,23,21
-2017-01-12,Microsoft,164,487
+2017-01-12,Microsoft,164,488
 2017-01-12,Nike,0,0
 2017-01-12,Pfizer,25,47
 2017-01-12,Procter & Gamble,41,26
@@ -4948,7 +4948,7 @@ date,company,re_tweets,likes
 2017-01-12,Verizon,0,0
 2017-01-12,Visa,45,0
 2017-01-12,Walmart,0,0
-2017-01-12,Walt Disney,4330,172
+2017-01-12,Walt Disney,4329,172
 2017-01-13,3M,17,36
 2017-01-13,American Express,0,0
 2017-01-13,Apple,0,0
@@ -4997,7 +4997,7 @@ date,company,re_tweets,likes
 2017-01-14,JPMorgan Chase,4,10
 2017-01-14,McDonald's,0,0
 2017-01-14,Merck,0,0
-2017-01-14,Microsoft,262,611
+2017-01-14,Microsoft,262,610
 2017-01-14,Nike,0,0
 2017-01-14,Pfizer,18,30
 2017-01-14,Procter & Gamble,0,0
@@ -5098,7 +5098,7 @@ date,company,re_tweets,likes
 2017-01-17,Verizon,0,0
 2017-01-17,Visa,0,0
 2017-01-17,Walmart,0,0
-2017-01-17,Walt Disney,5528,396
+2017-01-17,Walt Disney,5527,396
 2017-01-18,3M,9,38
 2017-01-18,American Express,0,0
 2017-01-18,Apple,0,0
@@ -5158,8 +5158,8 @@ date,company,re_tweets,likes
 2017-01-19,Verizon,0,0
 2017-01-19,Visa,0,0
 2017-01-19,Walmart,0,0
-2017-01-19,Walt Disney,12831,0
-2017-01-20,3M,7,30
+2017-01-19,Walt Disney,12828,0
+2017-01-20,3M,7,29
 2017-01-20,American Express,0,0
 2017-01-20,Apple,0,0
 2017-01-20,Boeing,0,0
@@ -5189,7 +5189,7 @@ date,company,re_tweets,likes
 2017-01-20,Visa,0,0
 2017-01-20,Walmart,0,0
 2017-01-20,Walt Disney,0,0
-2017-01-21,3M,7,11
+2017-01-21,3M,7,10
 2017-01-21,American Express,0,0
 2017-01-21,Apple,0,0
 2017-01-21,Boeing,0,0
@@ -5278,7 +5278,7 @@ date,company,re_tweets,likes
 2017-01-23,Verizon,0,0
 2017-01-23,Visa,0,0
 2017-01-23,Walmart,0,0
-2017-01-23,Walt Disney,3963,5034
+2017-01-23,Walt Disney,3961,5036
 2017-01-24,3M,28,18
 2017-01-24,American Express,0,0
 2017-01-24,Apple,0,0
@@ -5308,7 +5308,7 @@ date,company,re_tweets,likes
 2017-01-24,Verizon,0,0
 2017-01-24,Visa,0,0
 2017-01-24,Walmart,0,0
-2017-01-24,Walt Disney,4281,1016
+2017-01-24,Walt Disney,4280,1016
 2017-01-25,3M,5,18
 2017-01-25,American Express,0,0
 2017-01-25,Apple,0,0
@@ -5343,7 +5343,7 @@ date,company,re_tweets,likes
 2017-01-26,American Express,0,0
 2017-01-26,Apple,0,0
 2017-01-26,Boeing,98,172
-2017-01-26,Caterpillar,31,99
+2017-01-26,Caterpillar,31,100
 2017-01-26,Chevron,21,21
 2017-01-26,Cisco Systems,66,33
 2017-01-26,Coca-Cola,0,0
@@ -5470,7 +5470,7 @@ date,company,re_tweets,likes
 2017-01-30,DowDuPont,0,0
 2017-01-30,ExxonMobil,30,68
 2017-01-30,General Electric,64,50
-2017-01-30,Goldman Sachs,80,97
+2017-01-30,Goldman Sachs,79,97
 2017-01-30,IBM,1016,1209
 2017-01-30,Intel,0,0
 2017-01-30,Johnson & Johnson,43,55
@@ -5488,7 +5488,7 @@ date,company,re_tweets,likes
 2017-01-30,Verizon,0,0
 2017-01-30,Visa,7,6
 2017-01-30,Walmart,0,0
-2017-01-30,Walt Disney,20349,0
+2017-01-30,Walt Disney,20343,0
 2017-01-31,3M,53,0
 2017-01-31,American Express,0,0
 2017-01-31,Apple,0,0
@@ -5507,7 +5507,7 @@ date,company,re_tweets,likes
 2017-01-31,JPMorgan Chase,98,139
 2017-01-31,McDonald's,0,0
 2017-01-31,Merck,117,115
-2017-01-31,Microsoft,520,488
+2017-01-31,Microsoft,520,487
 2017-01-31,Nike,0,0
 2017-01-31,Pfizer,25,49
 2017-01-31,Procter & Gamble,24,20
@@ -5518,7 +5518,7 @@ date,company,re_tweets,likes
 2017-01-31,Verizon,0,0
 2017-01-31,Visa,0,0
 2017-01-31,Walmart,0,0
-2017-01-31,Walt Disney,66406,0
+2017-01-31,Walt Disney,66398,0
 2017-02-01,3M,6,27
 2017-02-01,American Express,0,0
 2017-02-01,Apple,0,0
@@ -5537,7 +5537,7 @@ date,company,re_tweets,likes
 2017-02-01,JPMorgan Chase,25,45
 2017-02-01,McDonald's,0,0
 2017-02-01,Merck,24,24
-2017-02-01,Microsoft,146,241
+2017-02-01,Microsoft,145,241
 2017-02-01,Nike,0,0
 2017-02-01,Pfizer,16,22
 2017-02-01,Procter & Gamble,38,40
@@ -5569,7 +5569,7 @@ date,company,re_tweets,likes
 2017-02-02,Merck,90,179
 2017-02-02,Microsoft,821,1085
 2017-02-02,Nike,0,0
-2017-02-02,Pfizer,10,28
+2017-02-02,Pfizer,10,27
 2017-02-02,Procter & Gamble,36,0
 2017-02-02,The Home Depot,0,0
 2017-02-02,Travelers,30,22
@@ -5599,7 +5599,7 @@ date,company,re_tweets,likes
 2017-02-03,Merck,42,43
 2017-02-03,Microsoft,184,389
 2017-02-03,Nike,0,0
-2017-02-03,Pfizer,69,91
+2017-02-03,Pfizer,69,90
 2017-02-03,Procter & Gamble,34,47
 2017-02-03,The Home Depot,39,111
 2017-02-03,Travelers,3,4
@@ -5652,7 +5652,7 @@ date,company,re_tweets,likes
 2017-02-05,General Electric,0,0
 2017-02-05,Goldman Sachs,20,25
 2017-02-05,IBM,18,29
-2017-02-05,Intel,560,2824
+2017-02-05,Intel,560,2822
 2017-02-05,Johnson & Johnson,11,11
 2017-02-05,JPMorgan Chase,0,0
 2017-02-05,McDonald's,0,0
@@ -5682,7 +5682,7 @@ date,company,re_tweets,likes
 2017-02-06,General Electric,25,55
 2017-02-06,Goldman Sachs,87,156
 2017-02-06,IBM,605,296
-2017-02-06,Intel,22857,26986
+2017-02-06,Intel,22855,26988
 2017-02-06,Johnson & Johnson,25,30
 2017-02-06,JPMorgan Chase,86,231
 2017-02-06,McDonald's,0,0
@@ -5749,7 +5749,7 @@ date,company,re_tweets,likes
 2017-02-08,Merck,5,6
 2017-02-08,Microsoft,549,316
 2017-02-08,Nike,0,0
-2017-02-08,Pfizer,23,39
+2017-02-08,Pfizer,23,38
 2017-02-08,Procter & Gamble,11,21
 2017-02-08,The Home Depot,0,0
 2017-02-08,Travelers,24,9
@@ -5771,7 +5771,7 @@ date,company,re_tweets,likes
 2017-02-09,ExxonMobil,25,50
 2017-02-09,General Electric,29,67
 2017-02-09,Goldman Sachs,132,167
-2017-02-09,IBM,614,583
+2017-02-09,IBM,615,582
 2017-02-09,Intel,36,70
 2017-02-09,Johnson & Johnson,59,94
 2017-02-09,JPMorgan Chase,11,22
@@ -5789,7 +5789,7 @@ date,company,re_tweets,likes
 2017-02-09,Visa,18,37
 2017-02-09,Walmart,0,0
 2017-02-09,Walt Disney,0,0
-2017-02-10,3M,13,63
+2017-02-10,3M,13,64
 2017-02-10,American Express,0,0
 2017-02-10,Apple,0,0
 2017-02-10,Boeing,98,210
@@ -5819,7 +5819,7 @@ date,company,re_tweets,likes
 2017-02-10,Visa,0,0
 2017-02-10,Walmart,0,0
 2017-02-10,Walt Disney,308,996
-2017-02-11,3M,39,150
+2017-02-11,3M,39,151
 2017-02-11,American Express,0,0
 2017-02-11,Apple,0,0
 2017-02-11,Boeing,0,0
@@ -5839,7 +5839,7 @@ date,company,re_tweets,likes
 2017-02-11,Merck,0,0
 2017-02-11,Microsoft,470,698
 2017-02-11,Nike,0,0
-2017-02-11,Pfizer,44,99
+2017-02-11,Pfizer,44,98
 2017-02-11,Procter & Gamble,0,0
 2017-02-11,The Home Depot,0,0
 2017-02-11,Travelers,8,8
@@ -5848,7 +5848,7 @@ date,company,re_tweets,likes
 2017-02-11,Verizon,0,0
 2017-02-11,Visa,0,0
 2017-02-11,Walmart,0,0
-2017-02-11,Walt Disney,50336,0
+2017-02-11,Walt Disney,50334,0
 2017-02-12,3M,15,42
 2017-02-12,American Express,0,0
 2017-02-12,Apple,0,0
@@ -5878,7 +5878,7 @@ date,company,re_tweets,likes
 2017-02-12,Verizon,0,0
 2017-02-12,Visa,0,0
 2017-02-12,Walmart,0,0
-2017-02-12,Walt Disney,4765,0
+2017-02-12,Walt Disney,4764,0
 2017-02-13,3M,0,0
 2017-02-13,American Express,0,0
 2017-02-13,Apple,0,0
@@ -5929,7 +5929,7 @@ date,company,re_tweets,likes
 2017-02-14,Merck,41,56
 2017-02-14,Microsoft,878,848
 2017-02-14,Nike,0,0
-2017-02-14,Pfizer,65,129
+2017-02-14,Pfizer,65,127
 2017-02-14,Procter & Gamble,30,59
 2017-02-14,The Home Depot,0,0
 2017-02-14,Travelers,37,45
@@ -5957,9 +5957,9 @@ date,company,re_tweets,likes
 2017-02-15,JPMorgan Chase,152,326
 2017-02-15,McDonald's,0,0
 2017-02-15,Merck,14,15
-2017-02-15,Microsoft,4285,141
+2017-02-15,Microsoft,4284,141
 2017-02-15,Nike,0,0
-2017-02-15,Pfizer,39,98
+2017-02-15,Pfizer,39,97
 2017-02-15,Procter & Gamble,0,0
 2017-02-15,The Home Depot,23,67
 2017-02-15,Travelers,29,27
@@ -5988,7 +5988,7 @@ date,company,re_tweets,likes
 2017-02-16,McDonald's,0,0
 2017-02-16,Merck,33,53
 2017-02-16,Microsoft,1459,1688
-2017-02-16,Nike,314,688
+2017-02-16,Nike,314,686
 2017-02-16,Pfizer,41,81
 2017-02-16,Procter & Gamble,2,12
 2017-02-16,The Home Depot,0,0
@@ -6019,7 +6019,7 @@ date,company,re_tweets,likes
 2017-02-17,Merck,3,5
 2017-02-17,Microsoft,57,0
 2017-02-17,Nike,0,0
-2017-02-17,Pfizer,27,96
+2017-02-17,Pfizer,27,93
 2017-02-17,Procter & Gamble,0,0
 2017-02-17,The Home Depot,0,0
 2017-02-17,Travelers,12,9
@@ -6028,7 +6028,7 @@ date,company,re_tweets,likes
 2017-02-17,Verizon,0,0
 2017-02-17,Visa,0,0
 2017-02-17,Walmart,0,0
-2017-02-17,Walt Disney,4955,1305
+2017-02-17,Walt Disney,4954,1305
 2017-02-18,3M,25,32
 2017-02-18,American Express,0,0
 2017-02-18,Apple,0,0
@@ -6058,7 +6058,7 @@ date,company,re_tweets,likes
 2017-02-18,Verizon,0,0
 2017-02-18,Visa,0,0
 2017-02-18,Walmart,0,0
-2017-02-18,Walt Disney,48519,0
+2017-02-18,Walt Disney,48516,0
 2017-02-19,3M,0,0
 2017-02-19,American Express,0,0
 2017-02-19,Apple,0,0
@@ -6072,7 +6072,7 @@ date,company,re_tweets,likes
 2017-02-19,General Electric,0,0
 2017-02-19,Goldman Sachs,0,0
 2017-02-19,IBM,75,32
-2017-02-19,Intel,1463,5820
+2017-02-19,Intel,1463,5819
 2017-02-19,Johnson & Johnson,16,0
 2017-02-19,JPMorgan Chase,0,0
 2017-02-19,McDonald's,0,0
@@ -6107,7 +6107,7 @@ date,company,re_tweets,likes
 2017-02-20,JPMorgan Chase,11,0
 2017-02-20,McDonald's,0,0
 2017-02-20,Merck,52,56
-2017-02-20,Microsoft,440,405
+2017-02-20,Microsoft,439,405
 2017-02-20,Nike,0,0
 2017-02-20,Pfizer,34,61
 2017-02-20,Procter & Gamble,0,0
@@ -6118,7 +6118,7 @@ date,company,re_tweets,likes
 2017-02-20,Verizon,0,0
 2017-02-20,Visa,0,0
 2017-02-20,Walmart,0,0
-2017-02-20,Walt Disney,19607,0
+2017-02-20,Walt Disney,19599,0
 2017-02-21,3M,16,26
 2017-02-21,American Express,0,0
 2017-02-21,Apple,0,0
@@ -6129,7 +6129,7 @@ date,company,re_tweets,likes
 2017-02-21,Coca-Cola,0,0
 2017-02-21,DowDuPont,0,0
 2017-02-21,ExxonMobil,31,54
-2017-02-21,General Electric,108,181
+2017-02-21,General Electric,108,182
 2017-02-21,Goldman Sachs,40,49
 2017-02-21,IBM,683,362
 2017-02-21,Intel,93,220
@@ -6138,7 +6138,7 @@ date,company,re_tweets,likes
 2017-02-21,McDonald's,0,0
 2017-02-21,Merck,9,14
 2017-02-21,Microsoft,765,526
-2017-02-21,Nike,525,1282
+2017-02-21,Nike,525,1281
 2017-02-21,Pfizer,27,45
 2017-02-21,Procter & Gamble,77,21
 2017-02-21,The Home Depot,655,1875
@@ -6148,7 +6148,7 @@ date,company,re_tweets,likes
 2017-02-21,Verizon,0,0
 2017-02-21,Visa,0,0
 2017-02-21,Walmart,0,0
-2017-02-21,Walt Disney,22670,0
+2017-02-21,Walt Disney,22664,0
 2017-02-22,3M,38,0
 2017-02-22,American Express,0,0
 2017-02-22,Apple,0,0
@@ -6158,11 +6158,11 @@ date,company,re_tweets,likes
 2017-02-22,Cisco Systems,45,61
 2017-02-22,Coca-Cola,0,0
 2017-02-22,DowDuPont,0,0
-2017-02-22,ExxonMobil,632,1642
+2017-02-22,ExxonMobil,632,1643
 2017-02-22,General Electric,35,74
 2017-02-22,Goldman Sachs,26,28
 2017-02-22,IBM,625,295
-2017-02-22,Intel,351,1565
+2017-02-22,Intel,351,1564
 2017-02-22,Johnson & Johnson,27,42
 2017-02-22,JPMorgan Chase,19,34
 2017-02-22,McDonald's,0,0
@@ -6191,7 +6191,7 @@ date,company,re_tweets,likes
 2017-02-23,ExxonMobil,121,212
 2017-02-23,General Electric,65,159
 2017-02-23,Goldman Sachs,35,47
-2017-02-23,IBM,830,353
+2017-02-23,IBM,830,352
 2017-02-23,Intel,0,0
 2017-02-23,Johnson & Johnson,78,224
 2017-02-23,JPMorgan Chase,113,300
@@ -6224,7 +6224,7 @@ date,company,re_tweets,likes
 2017-02-24,IBM,547,483
 2017-02-24,Intel,21,75
 2017-02-24,Johnson & Johnson,64,85
-2017-02-24,JPMorgan Chase,83,156
+2017-02-24,JPMorgan Chase,83,155
 2017-02-24,McDonald's,0,0
 2017-02-24,Merck,40,55
 2017-02-24,Microsoft,143,280
@@ -6233,7 +6233,7 @@ date,company,re_tweets,likes
 2017-02-24,Procter & Gamble,15,25
 2017-02-24,The Home Depot,0,0
 2017-02-24,Travelers,208,10
-2017-02-24,United Technologies,21,33
+2017-02-24,United Technologies,20,33
 2017-02-24,UnitedHealth Group,2,7
 2017-02-24,Verizon,0,0
 2017-02-24,Visa,0,0
@@ -6289,7 +6289,7 @@ date,company,re_tweets,likes
 2017-02-26,Merck,0,0
 2017-02-26,Microsoft,147,0
 2017-02-26,Nike,0,0
-2017-02-26,Pfizer,58,126
+2017-02-26,Pfizer,58,124
 2017-02-26,Procter & Gamble,0,0
 2017-02-26,The Home Depot,31,93
 2017-02-26,Travelers,0,0
@@ -6319,7 +6319,7 @@ date,company,re_tweets,likes
 2017-02-27,Merck,11,10
 2017-02-27,Microsoft,1245,149
 2017-02-27,Nike,0,0
-2017-02-27,Pfizer,24,44
+2017-02-27,Pfizer,24,43
 2017-02-27,Procter & Gamble,0,0
 2017-02-27,The Home Depot,0,0
 2017-02-27,Travelers,39,39
@@ -6328,7 +6328,7 @@ date,company,re_tweets,likes
 2017-02-27,Verizon,0,0
 2017-02-27,Visa,0,0
 2017-02-27,Walmart,0,0
-2017-02-27,Walt Disney,16270,0
+2017-02-27,Walt Disney,16266,0
 2017-02-28,3M,17,55
 2017-02-28,American Express,0,0
 2017-02-28,Apple,0,0
@@ -6349,7 +6349,7 @@ date,company,re_tweets,likes
 2017-02-28,Merck,91,138
 2017-02-28,Microsoft,296,349
 2017-02-28,Nike,0,0
-2017-02-28,Pfizer,103,169
+2017-02-28,Pfizer,103,168
 2017-02-28,Procter & Gamble,12,0
 2017-02-28,The Home Depot,0,0
 2017-02-28,Travelers,21,15
@@ -6377,7 +6377,7 @@ date,company,re_tweets,likes
 2017-03-01,JPMorgan Chase,47,167
 2017-03-01,McDonald's,0,0
 2017-03-01,Merck,0,0
-2017-03-01,Microsoft,1926,593
+2017-03-01,Microsoft,1924,593
 2017-03-01,Nike,0,0
 2017-03-01,Pfizer,22,54
 2017-03-01,Procter & Gamble,41,89
@@ -6388,7 +6388,7 @@ date,company,re_tweets,likes
 2017-03-01,Verizon,0,0
 2017-03-01,Visa,0,0
 2017-03-01,Walmart,0,0
-2017-03-01,Walt Disney,28475,0
+2017-03-01,Walt Disney,28470,0
 2017-03-02,3M,23,42
 2017-03-02,American Express,0,0
 2017-03-02,Apple,0,0
@@ -6402,16 +6402,16 @@ date,company,re_tweets,likes
 2017-03-02,General Electric,83,154
 2017-03-02,Goldman Sachs,64,26
 2017-03-02,IBM,537,501
-2017-03-02,Intel,282,534
+2017-03-02,Intel,282,533
 2017-03-02,Johnson & Johnson,20,44
 2017-03-02,JPMorgan Chase,78,144
 2017-03-02,McDonald's,0,0
 2017-03-02,Merck,17,28
 2017-03-02,Microsoft,526,245
 2017-03-02,Nike,0,0
-2017-03-02,Pfizer,24,62
+2017-03-02,Pfizer,24,61
 2017-03-02,Procter & Gamble,607,294
-2017-03-02,The Home Depot,351,467
+2017-03-02,The Home Depot,351,466
 2017-03-02,Travelers,47,29
 2017-03-02,United Technologies,13,26
 2017-03-02,UnitedHealth Group,0,0
@@ -6448,7 +6448,7 @@ date,company,re_tweets,likes
 2017-03-03,Verizon,0,0
 2017-03-03,Visa,0,0
 2017-03-03,Walmart,0,0
-2017-03-03,Walt Disney,6993,13348
+2017-03-03,Walt Disney,6992,13346
 2017-03-04,3M,0,0
 2017-03-04,American Express,0,0
 2017-03-04,Apple,0,0
@@ -6499,7 +6499,7 @@ date,company,re_tweets,likes
 2017-03-05,Merck,0,0
 2017-03-05,Microsoft,0,0
 2017-03-05,Nike,0,0
-2017-03-05,Pfizer,20,43
+2017-03-05,Pfizer,20,41
 2017-03-05,Procter & Gamble,64,0
 2017-03-05,The Home Depot,0,0
 2017-03-05,Travelers,0,0
@@ -6521,7 +6521,7 @@ date,company,re_tweets,likes
 2017-03-06,ExxonMobil,601,1045
 2017-03-06,General Electric,77,135
 2017-03-06,Goldman Sachs,35,22
-2017-03-06,IBM,3936,2386
+2017-03-06,IBM,3936,2385
 2017-03-06,Intel,0,0
 2017-03-06,Johnson & Johnson,100,203
 2017-03-06,JPMorgan Chase,5,16
@@ -6529,7 +6529,7 @@ date,company,re_tweets,likes
 2017-03-06,Merck,55,127
 2017-03-06,Microsoft,892,140
 2017-03-06,Nike,0,0
-2017-03-06,Pfizer,52,123
+2017-03-06,Pfizer,52,121
 2017-03-06,Procter & Gamble,13,33
 2017-03-06,The Home Depot,0,0
 2017-03-06,Travelers,42,28
@@ -6538,13 +6538,13 @@ date,company,re_tweets,likes
 2017-03-06,Verizon,0,0
 2017-03-06,Visa,0,0
 2017-03-06,Walmart,0,0
-2017-03-06,Walt Disney,1720,0
+2017-03-06,Walt Disney,1719,0
 2017-03-07,3M,18,61
 2017-03-07,American Express,0,0
 2017-03-07,Apple,0,0
 2017-03-07,Boeing,512,0
 2017-03-07,Caterpillar,54,189
-2017-03-07,Chevron,169,212
+2017-03-07,Chevron,168,212
 2017-03-07,Cisco Systems,24,59
 2017-03-07,Coca-Cola,0,0
 2017-03-07,DowDuPont,0,0
@@ -6557,7 +6557,7 @@ date,company,re_tweets,likes
 2017-03-07,JPMorgan Chase,16,17
 2017-03-07,McDonald's,0,0
 2017-03-07,Merck,28,40
-2017-03-07,Microsoft,4115,7284
+2017-03-07,Microsoft,4115,7283
 2017-03-07,Nike,0,0
 2017-03-07,Pfizer,57,92
 2017-03-07,Procter & Gamble,12,25
@@ -6572,7 +6572,7 @@ date,company,re_tweets,likes
 2017-03-08,3M,206,394
 2017-03-08,American Express,0,0
 2017-03-08,Apple,0,0
-2017-03-08,Boeing,1321,643
+2017-03-08,Boeing,1320,643
 2017-03-08,Caterpillar,86,185
 2017-03-08,Chevron,91,179
 2017-03-08,Cisco Systems,377,191
@@ -6588,7 +6588,7 @@ date,company,re_tweets,likes
 2017-03-08,McDonald's,0,0
 2017-03-08,Merck,42,49
 2017-03-08,Microsoft,755,459
-2017-03-08,Nike,11594,11808
+2017-03-08,Nike,11592,11802
 2017-03-08,Pfizer,63,152
 2017-03-08,Procter & Gamble,126,72
 2017-03-08,The Home Depot,0,0
@@ -6596,7 +6596,7 @@ date,company,re_tweets,likes
 2017-03-08,United Technologies,52,45
 2017-03-08,UnitedHealth Group,5,12
 2017-03-08,Verizon,0,0
-2017-03-08,Visa,24,60
+2017-03-08,Visa,24,59
 2017-03-08,Walmart,0,0
 2017-03-08,Walt Disney,3660,0
 2017-03-09,3M,16,52
@@ -6611,13 +6611,13 @@ date,company,re_tweets,likes
 2017-03-09,ExxonMobil,0,0
 2017-03-09,General Electric,522,1133
 2017-03-09,Goldman Sachs,181,403
-2017-03-09,IBM,1502,1285
+2017-03-09,IBM,1502,1284
 2017-03-09,Intel,26,102
-2017-03-09,Johnson & Johnson,66,105
+2017-03-09,Johnson & Johnson,61,99
 2017-03-09,JPMorgan Chase,39,49
 2017-03-09,McDonald's,0,0
 2017-03-09,Merck,55,70
-2017-03-09,Microsoft,779,1541
+2017-03-09,Microsoft,779,1540
 2017-03-09,Nike,0,0
 2017-03-09,Pfizer,22,42
 2017-03-09,Procter & Gamble,4,14
@@ -6643,8 +6643,8 @@ date,company,re_tweets,likes
 2017-03-10,Goldman Sachs,172,269
 2017-03-10,IBM,1086,324
 2017-03-10,Intel,57,142
-2017-03-10,Johnson & Johnson,98,110
-2017-03-10,JPMorgan Chase,200,507
+2017-03-10,Johnson & Johnson,91,97
+2017-03-10,JPMorgan Chase,199,508
 2017-03-10,McDonald's,0,0
 2017-03-10,Merck,19,46
 2017-03-10,Microsoft,556,935
@@ -6704,7 +6704,7 @@ date,company,re_tweets,likes
 2017-03-12,IBM,215,172
 2017-03-12,Intel,82,171
 2017-03-12,Johnson & Johnson,83,208
-2017-03-12,JPMorgan Chase,216,846
+2017-03-12,JPMorgan Chase,216,845
 2017-03-12,McDonald's,0,0
 2017-03-12,Merck,58,137
 2017-03-12,Microsoft,0,0
@@ -6733,7 +6733,7 @@ date,company,re_tweets,likes
 2017-03-13,Goldman Sachs,105,95
 2017-03-13,IBM,512,310
 2017-03-13,Intel,37,100
-2017-03-13,Johnson & Johnson,596,853
+2017-03-13,Johnson & Johnson,596,852
 2017-03-13,JPMorgan Chase,46,130
 2017-03-13,McDonald's,0,0
 2017-03-13,Merck,0,0
@@ -6782,7 +6782,7 @@ date,company,re_tweets,likes
 2017-03-15,3M,19,46
 2017-03-15,American Express,0,0
 2017-03-15,Apple,0,0
-2017-03-15,Boeing,747,1362
+2017-03-15,Boeing,746,1360
 2017-03-15,Caterpillar,31,98
 2017-03-15,Chevron,0,0
 2017-03-15,Cisco Systems,112,138
@@ -6793,7 +6793,7 @@ date,company,re_tweets,likes
 2017-03-15,Goldman Sachs,40,44
 2017-03-15,IBM,746,347
 2017-03-15,Intel,28,66
-2017-03-15,Johnson & Johnson,141,298
+2017-03-15,Johnson & Johnson,134,285
 2017-03-15,JPMorgan Chase,27,48
 2017-03-15,McDonald's,0,0
 2017-03-15,Merck,20,48
@@ -6808,7 +6808,7 @@ date,company,re_tweets,likes
 2017-03-15,Verizon,0,0
 2017-03-15,Visa,0,0
 2017-03-15,Walmart,0,0
-2017-03-15,Walt Disney,9334,0
+2017-03-15,Walt Disney,9335,0
 2017-03-16,3M,20,58
 2017-03-16,American Express,0,0
 2017-03-16,Apple,0,0
@@ -6826,7 +6826,7 @@ date,company,re_tweets,likes
 2017-03-16,Johnson & Johnson,75,119
 2017-03-16,JPMorgan Chase,54,51
 2017-03-16,McDonald's,0,0
-2017-03-16,Merck,279,714
+2017-03-16,Merck,279,713
 2017-03-16,Microsoft,109,198
 2017-03-16,Nike,0,0
 2017-03-16,Pfizer,21,33
@@ -6838,7 +6838,7 @@ date,company,re_tweets,likes
 2017-03-16,Verizon,0,0
 2017-03-16,Visa,0,0
 2017-03-16,Walmart,0,0
-2017-03-16,Walt Disney,13024,0
+2017-03-16,Walt Disney,13022,0
 2017-03-17,3M,28,73
 2017-03-17,American Express,0,0
 2017-03-17,Apple,0,0
@@ -6947,7 +6947,7 @@ date,company,re_tweets,likes
 2017-03-20,JPMorgan Chase,13,33
 2017-03-20,McDonald's,0,0
 2017-03-20,Merck,7,14
-2017-03-20,Microsoft,357,281
+2017-03-20,Microsoft,356,281
 2017-03-20,Nike,0,0
 2017-03-20,Pfizer,3,8
 2017-03-20,Procter & Gamble,17,33
@@ -6958,7 +6958,7 @@ date,company,re_tweets,likes
 2017-03-20,Verizon,0,0
 2017-03-20,Visa,0,0
 2017-03-20,Walmart,0,0
-2017-03-20,Walt Disney,5178,0
+2017-03-20,Walt Disney,5177,0
 2017-03-21,3M,27,73
 2017-03-21,American Express,0,0
 2017-03-21,Apple,0,0
@@ -7002,7 +7002,7 @@ date,company,re_tweets,likes
 2017-03-22,General Electric,36,93
 2017-03-22,Goldman Sachs,74,103
 2017-03-22,IBM,806,621
-2017-03-22,Intel,42,80
+2017-03-22,Intel,42,79
 2017-03-22,Johnson & Johnson,68,113
 2017-03-22,JPMorgan Chase,16,20
 2017-03-22,McDonald's,0,0
@@ -7010,7 +7010,7 @@ date,company,re_tweets,likes
 2017-03-22,Microsoft,230,253
 2017-03-22,Nike,0,0
 2017-03-22,Pfizer,17,35
-2017-03-22,Procter & Gamble,319,184
+2017-03-22,Procter & Gamble,319,185
 2017-03-22,The Home Depot,42,101
 2017-03-22,Travelers,39,56
 2017-03-22,United Technologies,15,44
@@ -7018,7 +7018,7 @@ date,company,re_tweets,likes
 2017-03-22,Verizon,0,0
 2017-03-22,Visa,0,0
 2017-03-22,Walmart,0,0
-2017-03-22,Walt Disney,94558,0
+2017-03-22,Walt Disney,94546,0
 2017-03-23,3M,27,80
 2017-03-23,American Express,0,0
 2017-03-23,Apple,0,0
@@ -7036,10 +7036,10 @@ date,company,re_tweets,likes
 2017-03-23,Johnson & Johnson,59,91
 2017-03-23,JPMorgan Chase,11,15
 2017-03-23,McDonald's,0,0
-2017-03-23,Merck,191,692
-2017-03-23,Microsoft,54,130
-2017-03-23,Nike,376,1057
-2017-03-23,Pfizer,110,177
+2017-03-23,Merck,191,691
+2017-03-23,Microsoft,52,130
+2017-03-23,Nike,376,1056
+2017-03-23,Pfizer,110,176
 2017-03-23,Procter & Gamble,279,57
 2017-03-23,The Home Depot,31,43
 2017-03-23,Travelers,12,8
@@ -7067,7 +7067,7 @@ date,company,re_tweets,likes
 2017-03-24,JPMorgan Chase,6,13
 2017-03-24,McDonald's,0,0
 2017-03-24,Merck,76,38
-2017-03-24,Microsoft,251,519
+2017-03-24,Microsoft,251,518
 2017-03-24,Nike,0,0
 2017-03-24,Pfizer,37,33
 2017-03-24,Procter & Gamble,0,0
@@ -7078,7 +7078,7 @@ date,company,re_tweets,likes
 2017-03-24,Verizon,0,0
 2017-03-24,Visa,0,0
 2017-03-24,Walmart,0,0
-2017-03-24,Walt Disney,1285,304
+2017-03-24,Walt Disney,1284,304
 2017-03-25,3M,24,36
 2017-03-25,American Express,0,0
 2017-03-25,Apple,0,0
@@ -7090,7 +7090,7 @@ date,company,re_tweets,likes
 2017-03-25,DowDuPont,0,0
 2017-03-25,ExxonMobil,10,35
 2017-03-25,General Electric,0,0
-2017-03-25,Goldman Sachs,28,35
+2017-03-25,Goldman Sachs,27,35
 2017-03-25,IBM,198,234
 2017-03-25,Intel,0,0
 2017-03-25,Johnson & Johnson,28,38
@@ -7098,8 +7098,8 @@ date,company,re_tweets,likes
 2017-03-25,McDonald's,0,0
 2017-03-25,Merck,0,0
 2017-03-25,Microsoft,0,0
-2017-03-25,Nike,1900,4556
-2017-03-25,Pfizer,22,24
+2017-03-25,Nike,1901,4553
+2017-03-25,Pfizer,22,23
 2017-03-25,Procter & Gamble,37,75
 2017-03-25,The Home Depot,63,173
 2017-03-25,Travelers,12,8
@@ -7128,8 +7128,8 @@ date,company,re_tweets,likes
 2017-03-26,McDonald's,0,0
 2017-03-26,Merck,0,0
 2017-03-26,Microsoft,0,0
-2017-03-26,Nike,493,1495
-2017-03-26,Pfizer,7,29
+2017-03-26,Nike,493,1493
+2017-03-26,Pfizer,7,27
 2017-03-26,Procter & Gamble,0,0
 2017-03-26,The Home Depot,0,0
 2017-03-26,Travelers,0,0
@@ -7161,7 +7161,7 @@ date,company,re_tweets,likes
 2017-03-27,Nike,0,0
 2017-03-27,Pfizer,14,48
 2017-03-27,Procter & Gamble,27,86
-2017-03-27,The Home Depot,82,139
+2017-03-27,The Home Depot,82,138
 2017-03-27,Travelers,39,32
 2017-03-27,United Technologies,0,0
 2017-03-27,UnitedHealth Group,0,0
@@ -7219,7 +7219,7 @@ date,company,re_tweets,likes
 2017-03-29,Merck,27,8
 2017-03-29,Microsoft,1512,0
 2017-03-29,Nike,0,0
-2017-03-29,Pfizer,49,102
+2017-03-29,Pfizer,49,99
 2017-03-29,Procter & Gamble,0,0
 2017-03-29,The Home Depot,0,0
 2017-03-29,Travelers,35,33
@@ -7242,14 +7242,14 @@ date,company,re_tweets,likes
 2017-03-30,General Electric,47,97
 2017-03-30,Goldman Sachs,22,41
 2017-03-30,IBM,723,421
-2017-03-30,Intel,2063,5025
+2017-03-30,Intel,2063,5024
 2017-03-30,Johnson & Johnson,143,254
 2017-03-30,JPMorgan Chase,75,126
 2017-03-30,McDonald's,0,0
 2017-03-30,Merck,71,240
 2017-03-30,Microsoft,237,0
 2017-03-30,Nike,0,0
-2017-03-30,Pfizer,45,108
+2017-03-30,Pfizer,45,107
 2017-03-30,Procter & Gamble,24,26
 2017-03-30,The Home Depot,40,73
 2017-03-30,Travelers,53,26
@@ -7279,7 +7279,7 @@ date,company,re_tweets,likes
 2017-03-31,Merck,26,32
 2017-03-31,Microsoft,488,601
 2017-03-31,Nike,0,0
-2017-03-31,Pfizer,23,54
+2017-03-31,Pfizer,23,52
 2017-03-31,Procter & Gamble,0,0
 2017-03-31,The Home Depot,0,0
 2017-03-31,Travelers,22,18
@@ -7288,7 +7288,7 @@ date,company,re_tweets,likes
 2017-03-31,Verizon,0,0
 2017-03-31,Visa,0,0
 2017-03-31,Walmart,0,0
-2017-03-31,Walt Disney,743,1582
+2017-03-31,Walt Disney,742,1583
 2017-04-01,3M,0,0
 2017-04-01,American Express,0,0
 2017-04-01,Apple,0,0
@@ -7298,7 +7298,7 @@ date,company,re_tweets,likes
 2017-04-01,Cisco Systems,35,67
 2017-04-01,Coca-Cola,0,0
 2017-04-01,DowDuPont,0,0
-2017-04-01,ExxonMobil,7,24
+2017-04-01,ExxonMobil,6,24
 2017-04-01,General Electric,0,0
 2017-04-01,Goldman Sachs,33,47
 2017-04-01,IBM,45,41
@@ -7309,7 +7309,7 @@ date,company,re_tweets,likes
 2017-04-01,Merck,26,17
 2017-04-01,Microsoft,0,0
 2017-04-01,Nike,0,0
-2017-04-01,Pfizer,20,33
+2017-04-01,Pfizer,20,31
 2017-04-01,Procter & Gamble,0,0
 2017-04-01,The Home Depot,0,0
 2017-04-01,Travelers,10,8
@@ -7331,7 +7331,7 @@ date,company,re_tweets,likes
 2017-04-02,ExxonMobil,21,48
 2017-04-02,General Electric,0,0
 2017-04-02,Goldman Sachs,0,0
-2017-04-02,IBM,226,204
+2017-04-02,IBM,226,205
 2017-04-02,Intel,0,0
 2017-04-02,Johnson & Johnson,18,18
 2017-04-02,JPMorgan Chase,0,0
@@ -7339,7 +7339,7 @@ date,company,re_tweets,likes
 2017-04-02,Merck,0,0
 2017-04-02,Microsoft,0,0
 2017-04-02,Nike,0,0
-2017-04-02,Pfizer,10,24
+2017-04-02,Pfizer,10,22
 2017-04-02,Procter & Gamble,0,0
 2017-04-02,The Home Depot,0,0
 2017-04-02,Travelers,11,11
@@ -7361,7 +7361,7 @@ date,company,re_tweets,likes
 2017-04-03,ExxonMobil,13,33
 2017-04-03,General Electric,50,111
 2017-04-03,Goldman Sachs,62,80
-2017-04-03,IBM,491,311
+2017-04-03,IBM,491,310
 2017-04-03,Intel,46,257
 2017-04-03,Johnson & Johnson,52,81
 2017-04-03,JPMorgan Chase,7,18
@@ -7369,7 +7369,7 @@ date,company,re_tweets,likes
 2017-04-03,Merck,34,46
 2017-04-03,Microsoft,301,208
 2017-04-03,Nike,0,0
-2017-04-03,Pfizer,52,135
+2017-04-03,Pfizer,52,132
 2017-04-03,Procter & Gamble,29,26
 2017-04-03,The Home Depot,29,47
 2017-04-03,Travelers,23,11
@@ -7384,7 +7384,7 @@ date,company,re_tweets,likes
 2017-04-04,Apple,0,0
 2017-04-04,Boeing,0,0
 2017-04-04,Caterpillar,27,94
-2017-04-04,Chevron,557,3948
+2017-04-04,Chevron,556,3948
 2017-04-04,Cisco Systems,271,332
 2017-04-04,Coca-Cola,0,0
 2017-04-04,DowDuPont,0,0
@@ -7397,7 +7397,7 @@ date,company,re_tweets,likes
 2017-04-04,JPMorgan Chase,79,165
 2017-04-04,McDonald's,0,0
 2017-04-04,Merck,25,31
-2017-04-04,Microsoft,913,1228
+2017-04-04,Microsoft,913,1226
 2017-04-04,Nike,0,0
 2017-04-04,Pfizer,11,32
 2017-04-04,Procter & Gamble,20,20
@@ -7427,9 +7427,9 @@ date,company,re_tweets,likes
 2017-04-05,JPMorgan Chase,85,29
 2017-04-05,McDonald's,0,0
 2017-04-05,Merck,6,18
-2017-04-05,Microsoft,335,337
+2017-04-05,Microsoft,335,336
 2017-04-05,Nike,0,0
-2017-04-05,Pfizer,25,44
+2017-04-05,Pfizer,25,43
 2017-04-05,Procter & Gamble,0,0
 2017-04-05,The Home Depot,0,0
 2017-04-05,Travelers,34,25
@@ -7487,7 +7487,7 @@ date,company,re_tweets,likes
 2017-04-07,JPMorgan Chase,50,94
 2017-04-07,McDonald's,0,0
 2017-04-07,Merck,30,30
-2017-04-07,Microsoft,17485,29794
+2017-04-07,Microsoft,17484,29793
 2017-04-07,Nike,0,0
 2017-04-07,Pfizer,14,39
 2017-04-07,Procter & Gamble,17,0
@@ -7548,7 +7548,7 @@ date,company,re_tweets,likes
 2017-04-09,McDonald's,0,0
 2017-04-09,Merck,0,0
 2017-04-09,Microsoft,0,0
-2017-04-09,Nike,4862,8629
+2017-04-09,Nike,4861,8628
 2017-04-09,Pfizer,19,29
 2017-04-09,Procter & Gamble,0,0
 2017-04-09,The Home Depot,0,0
@@ -7588,7 +7588,7 @@ date,company,re_tweets,likes
 2017-04-10,Verizon,0,0
 2017-04-10,Visa,0,0
 2017-04-10,Walmart,0,0
-2017-04-10,Walt Disney,30928,0
+2017-04-10,Walt Disney,30926,0
 2017-04-11,3M,98,309
 2017-04-11,American Express,0,0
 2017-04-11,Apple,0,0
@@ -7637,7 +7637,7 @@ date,company,re_tweets,likes
 2017-04-12,JPMorgan Chase,23,25
 2017-04-12,McDonald's,0,0
 2017-04-12,Merck,13,24
-2017-04-12,Microsoft,897,1045
+2017-04-12,Microsoft,897,1044
 2017-04-12,Nike,0,0
 2017-04-12,Pfizer,7,14
 2017-04-12,Procter & Gamble,13,32
@@ -7662,7 +7662,7 @@ date,company,re_tweets,likes
 2017-04-13,General Electric,14,35
 2017-04-13,Goldman Sachs,105,116
 2017-04-13,IBM,753,637
-2017-04-13,Intel,121,237
+2017-04-13,Intel,120,237
 2017-04-13,Johnson & Johnson,32,52
 2017-04-13,JPMorgan Chase,38,47
 2017-04-13,McDonald's,0,0
@@ -7708,7 +7708,7 @@ date,company,re_tweets,likes
 2017-04-14,Verizon,0,0
 2017-04-14,Visa,0,0
 2017-04-14,Walmart,0,0
-2017-04-14,Walt Disney,3965,5351
+2017-04-14,Walt Disney,3965,5348
 2017-04-15,3M,19,47
 2017-04-15,American Express,0,0
 2017-04-15,Apple,0,0
@@ -7812,14 +7812,14 @@ date,company,re_tweets,likes
 2017-04-18,General Electric,28,49
 2017-04-18,Goldman Sachs,116,77
 2017-04-18,IBM,567,258
-2017-04-18,Intel,174,434
+2017-04-18,Intel,174,433
 2017-04-18,Johnson & Johnson,63,118
 2017-04-18,JPMorgan Chase,13,23
 2017-04-18,McDonald's,0,0
-2017-04-18,Merck,1307,2029
+2017-04-18,Merck,1307,2028
 2017-04-18,Microsoft,414,170
 2017-04-18,Nike,0,0
-2017-04-18,Pfizer,47,81
+2017-04-18,Pfizer,47,79
 2017-04-18,Procter & Gamble,16,28
 2017-04-18,The Home Depot,0,0
 2017-04-18,Travelers,85,47
@@ -7828,7 +7828,7 @@ date,company,re_tweets,likes
 2017-04-18,Verizon,0,0
 2017-04-18,Visa,0,0
 2017-04-18,Walmart,0,0
-2017-04-18,Walt Disney,1012,1763
+2017-04-18,Walt Disney,1011,1763
 2017-04-19,3M,12,28
 2017-04-19,American Express,0,0
 2017-04-19,Apple,0,0
@@ -7840,7 +7840,7 @@ date,company,re_tweets,likes
 2017-04-19,DowDuPont,0,0
 2017-04-19,ExxonMobil,72,93
 2017-04-19,General Electric,28,45
-2017-04-19,Goldman Sachs,15,18
+2017-04-19,Goldman Sachs,15,17
 2017-04-19,IBM,457,232
 2017-04-19,Intel,30,114
 2017-04-19,Johnson & Johnson,38,58
@@ -7993,7 +7993,7 @@ date,company,re_tweets,likes
 2017-04-24,Goldman Sachs,38,36
 2017-04-24,IBM,687,216
 2017-04-24,Intel,134,303
-2017-04-24,Johnson & Johnson,216,1039
+2017-04-24,Johnson & Johnson,216,1040
 2017-04-24,JPMorgan Chase,19,44
 2017-04-24,McDonald's,0,0
 2017-04-24,Merck,29,71
@@ -8038,7 +8038,7 @@ date,company,re_tweets,likes
 2017-04-25,Verizon,0,0
 2017-04-25,Visa,0,0
 2017-04-25,Walmart,0,0
-2017-04-25,Walt Disney,41383,0
+2017-04-25,Walt Disney,41380,0
 2017-04-26,3M,6,19
 2017-04-26,American Express,0,0
 2017-04-26,Apple,0,0
@@ -8050,7 +8050,7 @@ date,company,re_tweets,likes
 2017-04-26,DowDuPont,0,0
 2017-04-26,ExxonMobil,0,0
 2017-04-26,General Electric,17,42
-2017-04-26,Goldman Sachs,78,98
+2017-04-26,Goldman Sachs,78,97
 2017-04-26,IBM,729,333
 2017-04-26,Intel,66,160
 2017-04-26,Johnson & Johnson,16,21
@@ -8108,7 +8108,7 @@ date,company,re_tweets,likes
 2017-04-28,Cisco Systems,69,92
 2017-04-28,Coca-Cola,0,0
 2017-04-28,DowDuPont,0,0
-2017-04-28,ExxonMobil,33,43
+2017-04-28,ExxonMobil,33,44
 2017-04-28,General Electric,23,51
 2017-04-28,Goldman Sachs,72,67
 2017-04-28,IBM,573,421
@@ -8158,7 +8158,7 @@ date,company,re_tweets,likes
 2017-04-29,Verizon,0,0
 2017-04-29,Visa,0,0
 2017-04-29,Walmart,0,0
-2017-04-29,Walt Disney,1268,366
+2017-04-29,Walt Disney,1268,367
 2017-04-30,3M,8,32
 2017-04-30,American Express,0,0
 2017-04-30,Apple,0,0
@@ -8188,7 +8188,7 @@ date,company,re_tweets,likes
 2017-04-30,Verizon,0,0
 2017-04-30,Visa,0,0
 2017-04-30,Walmart,0,0
-2017-04-30,Walt Disney,675,1930
+2017-04-30,Walt Disney,673,1929
 2017-05-01,3M,9,0
 2017-05-01,American Express,0,0
 2017-05-01,Apple,0,0
@@ -8218,7 +8218,7 @@ date,company,re_tweets,likes
 2017-05-01,Verizon,0,0
 2017-05-01,Visa,0,0
 2017-05-01,Walmart,0,0
-2017-05-01,Walt Disney,14062,0
+2017-05-01,Walt Disney,14061,0
 2017-05-02,3M,0,0
 2017-05-02,American Express,0,0
 2017-05-02,Apple,0,0
@@ -8231,13 +8231,13 @@ date,company,re_tweets,likes
 2017-05-02,ExxonMobil,21,23
 2017-05-02,General Electric,33,47
 2017-05-02,Goldman Sachs,84,128
-2017-05-02,IBM,558,382
+2017-05-02,IBM,558,381
 2017-05-02,Intel,1253,381
 2017-05-02,Johnson & Johnson,30,63
 2017-05-02,JPMorgan Chase,25,39
 2017-05-02,McDonald's,0,0
-2017-05-02,Merck,431,1074
-2017-05-02,Microsoft,15481,5865
+2017-05-02,Merck,431,1073
+2017-05-02,Microsoft,15480,5865
 2017-05-02,Nike,0,0
 2017-05-02,Pfizer,24,55
 2017-05-02,Procter & Gamble,65,122
@@ -8297,7 +8297,7 @@ date,company,re_tweets,likes
 2017-05-04,JPMorgan Chase,65,225
 2017-05-04,McDonald's,0,0
 2017-05-04,Merck,10,11
-2017-05-04,Microsoft,1494,3304
+2017-05-04,Microsoft,1494,3303
 2017-05-04,Nike,0,0
 2017-05-04,Pfizer,29,49
 2017-05-04,Procter & Gamble,0,0
@@ -8314,7 +8314,7 @@ date,company,re_tweets,likes
 2017-05-05,Apple,0,0
 2017-05-05,Boeing,96,162
 2017-05-05,Caterpillar,8,33
-2017-05-05,Chevron,72,658
+2017-05-05,Chevron,72,656
 2017-05-05,Cisco Systems,52,127
 2017-05-05,Coca-Cola,0,0
 2017-05-05,DowDuPont,0,0
@@ -8328,7 +8328,7 @@ date,company,re_tweets,likes
 2017-05-05,McDonald's,0,0
 2017-05-05,Merck,121,118
 2017-05-05,Microsoft,1101,1234
-2017-05-05,Nike,20042,59666
+2017-05-05,Nike,20040,59657
 2017-05-05,Pfizer,227,287
 2017-05-05,Procter & Gamble,0,0
 2017-05-05,The Home Depot,16,47
@@ -8398,7 +8398,7 @@ date,company,re_tweets,likes
 2017-05-07,Verizon,0,0
 2017-05-07,Visa,0,0
 2017-05-07,Walmart,0,0
-2017-05-07,Walt Disney,1567,3744
+2017-05-07,Walt Disney,1567,3743
 2017-05-08,3M,32,65
 2017-05-08,American Express,0,0
 2017-05-08,Apple,0,0
@@ -8440,7 +8440,7 @@ date,company,re_tweets,likes
 2017-05-09,DowDuPont,0,0
 2017-05-09,ExxonMobil,62,116
 2017-05-09,General Electric,133,195
-2017-05-09,Goldman Sachs,85,138
+2017-05-09,Goldman Sachs,85,137
 2017-05-09,IBM,465,401
 2017-05-09,Intel,82,0
 2017-05-09,Johnson & Johnson,15,39
@@ -8501,13 +8501,13 @@ date,company,re_tweets,likes
 2017-05-11,ExxonMobil,46,86
 2017-05-11,General Electric,25,35
 2017-05-11,Goldman Sachs,80,85
-2017-05-11,IBM,1291,568
+2017-05-11,IBM,1291,567
 2017-05-11,Intel,22,63
 2017-05-11,Johnson & Johnson,105,106
 2017-05-11,JPMorgan Chase,21,42
 2017-05-11,McDonald's,0,0
 2017-05-11,Merck,85,115
-2017-05-11,Microsoft,7233,1815
+2017-05-11,Microsoft,7229,1815
 2017-05-11,Nike,0,0
 2017-05-11,Pfizer,12,21
 2017-05-11,Procter & Gamble,8,10
@@ -8524,7 +8524,7 @@ date,company,re_tweets,likes
 2017-05-12,Apple,0,0
 2017-05-12,Boeing,0,0
 2017-05-12,Caterpillar,17,70
-2017-05-12,Chevron,126,933
+2017-05-12,Chevron,125,932
 2017-05-12,Cisco Systems,169,217
 2017-05-12,Coca-Cola,0,0
 2017-05-12,DowDuPont,0,0
@@ -8532,7 +8532,7 @@ date,company,re_tweets,likes
 2017-05-12,General Electric,19,45
 2017-05-12,Goldman Sachs,82,108
 2017-05-12,IBM,649,386
-2017-05-12,Intel,83,201
+2017-05-12,Intel,83,200
 2017-05-12,Johnson & Johnson,45,78
 2017-05-12,JPMorgan Chase,98,192
 2017-05-12,McDonald's,0,0
@@ -8548,7 +8548,7 @@ date,company,re_tweets,likes
 2017-05-12,Verizon,0,0
 2017-05-12,Visa,0,0
 2017-05-12,Walmart,0,0
-2017-05-12,Walt Disney,4344,0
+2017-05-12,Walt Disney,4342,0
 2017-05-13,3M,0,0
 2017-05-13,American Express,0,0
 2017-05-13,Apple,0,0
@@ -8567,7 +8567,7 @@ date,company,re_tweets,likes
 2017-05-13,JPMorgan Chase,0,0
 2017-05-13,McDonald's,0,0
 2017-05-13,Merck,0,0
-2017-05-13,Microsoft,3067,2034
+2017-05-13,Microsoft,3067,2033
 2017-05-13,Nike,0,0
 2017-05-13,Pfizer,33,51
 2017-05-13,Procter & Gamble,0,0
@@ -8670,7 +8670,7 @@ date,company,re_tweets,likes
 2017-05-16,Walmart,0,0
 2017-05-16,Walt Disney,2435,0
 2017-05-17,3M,0,0
-2017-05-17,American Express,12,22
+2017-05-17,American Express,0,0
 2017-05-17,Apple,0,0
 2017-05-17,Boeing,0,0
 2017-05-17,Caterpillar,10,59
@@ -8687,7 +8687,7 @@ date,company,re_tweets,likes
 2017-05-17,JPMorgan Chase,24,52
 2017-05-17,McDonald's,0,0
 2017-05-17,Merck,20,33
-2017-05-17,Microsoft,123,211
+2017-05-17,Microsoft,123,210
 2017-05-17,Nike,0,0
 2017-05-17,Pfizer,35,54
 2017-05-17,Procter & Gamble,15,0
@@ -8700,7 +8700,7 @@ date,company,re_tweets,likes
 2017-05-17,Walmart,0,0
 2017-05-17,Walt Disney,283,0
 2017-05-18,3M,19,43
-2017-05-18,American Express,62,15
+2017-05-18,American Express,6,0
 2017-05-18,Apple,0,0
 2017-05-18,Boeing,0,0
 2017-05-18,Caterpillar,12,43
@@ -8713,13 +8713,13 @@ date,company,re_tweets,likes
 2017-05-18,Goldman Sachs,81,116
 2017-05-18,IBM,782,388
 2017-05-18,Intel,27,55
-2017-05-18,Johnson & Johnson,148,211
+2017-05-18,Johnson & Johnson,147,211
 2017-05-18,JPMorgan Chase,27,62
 2017-05-18,McDonald's,0,0
 2017-05-18,Merck,121,115
-2017-05-18,Microsoft,108,299
+2017-05-18,Microsoft,108,298
 2017-05-18,Nike,0,0
-2017-05-18,Pfizer,74,160
+2017-05-18,Pfizer,74,159
 2017-05-18,Procter & Gamble,14,28
 2017-05-18,The Home Depot,0,0
 2017-05-18,Travelers,45,24
@@ -8728,7 +8728,7 @@ date,company,re_tweets,likes
 2017-05-18,Verizon,0,0
 2017-05-18,Visa,0,0
 2017-05-18,Walmart,0,0
-2017-05-18,Walt Disney,782,0
+2017-05-18,Walt Disney,781,0
 2017-05-19,3M,29,39
 2017-05-19,American Express,28,31
 2017-05-19,Apple,0,0
@@ -8747,7 +8747,7 @@ date,company,re_tweets,likes
 2017-05-19,JPMorgan Chase,24,45
 2017-05-19,McDonald's,0,0
 2017-05-19,Merck,19,21
-2017-05-19,Microsoft,152,505
+2017-05-19,Microsoft,152,503
 2017-05-19,Nike,0,0
 2017-05-19,Pfizer,44,80
 2017-05-19,Procter & Gamble,14,0
@@ -8772,7 +8772,7 @@ date,company,re_tweets,likes
 2017-05-20,General Electric,0,0
 2017-05-20,Goldman Sachs,12,18
 2017-05-20,IBM,0,0
-2017-05-20,Intel,206,567
+2017-05-20,Intel,206,568
 2017-05-20,Johnson & Johnson,5,5
 2017-05-20,JPMorgan Chase,0,0
 2017-05-20,McDonald's,0,0
@@ -8788,7 +8788,7 @@ date,company,re_tweets,likes
 2017-05-20,Verizon,0,0
 2017-05-20,Visa,0,0
 2017-05-20,Walmart,0,0
-2017-05-20,Walt Disney,7015,0
+2017-05-20,Walt Disney,7013,0
 2017-05-21,3M,0,0
 2017-05-21,American Express,4,13
 2017-05-21,Apple,0,0
@@ -8802,7 +8802,7 @@ date,company,re_tweets,likes
 2017-05-21,General Electric,0,0
 2017-05-21,Goldman Sachs,0,0
 2017-05-21,IBM,0,0
-2017-05-21,Intel,439,1030
+2017-05-21,Intel,439,1029
 2017-05-21,Johnson & Johnson,13,14
 2017-05-21,JPMorgan Chase,36,85
 2017-05-21,McDonald's,0,0
@@ -8848,7 +8848,7 @@ date,company,re_tweets,likes
 2017-05-22,Verizon,0,0
 2017-05-22,Visa,0,0
 2017-05-22,Walmart,0,0
-2017-05-22,Walt Disney,773,0
+2017-05-22,Walt Disney,772,0
 2017-05-23,3M,0,0
 2017-05-23,American Express,0,0
 2017-05-23,Apple,0,0
@@ -8867,7 +8867,7 @@ date,company,re_tweets,likes
 2017-05-23,JPMorgan Chase,139,386
 2017-05-23,McDonald's,0,0
 2017-05-23,Merck,85,130
-2017-05-23,Microsoft,4315,1379
+2017-05-23,Microsoft,4314,1379
 2017-05-23,Nike,0,0
 2017-05-23,Pfizer,12,16
 2017-05-23,Procter & Gamble,117,14
@@ -8891,13 +8891,13 @@ date,company,re_tweets,likes
 2017-05-24,ExxonMobil,53,80
 2017-05-24,General Electric,26,46
 2017-05-24,Goldman Sachs,86,150
-2017-05-24,IBM,681,615
+2017-05-24,IBM,681,611
 2017-05-24,Intel,54,71
 2017-05-24,Johnson & Johnson,100,319
 2017-05-24,JPMorgan Chase,12,37
 2017-05-24,McDonald's,0,0
 2017-05-24,Merck,5,11
-2017-05-24,Microsoft,246,251
+2017-05-24,Microsoft,246,250
 2017-05-24,Nike,0,0
 2017-05-24,Pfizer,13,33
 2017-05-24,Procter & Gamble,420,50
@@ -8921,13 +8921,13 @@ date,company,re_tweets,likes
 2017-05-25,ExxonMobil,45,68
 2017-05-25,General Electric,10,26
 2017-05-25,Goldman Sachs,43,50
-2017-05-25,IBM,724,398
+2017-05-25,IBM,724,396
 2017-05-25,Intel,102,183
 2017-05-25,Johnson & Johnson,30,70
 2017-05-25,JPMorgan Chase,36,61
 2017-05-25,McDonald's,0,0
 2017-05-25,Merck,38,63
-2017-05-25,Microsoft,2517,450
+2017-05-25,Microsoft,2516,450
 2017-05-25,Nike,0,0
 2017-05-25,Pfizer,14,18
 2017-05-25,Procter & Gamble,21,11
@@ -8951,13 +8951,13 @@ date,company,re_tweets,likes
 2017-05-26,ExxonMobil,22,31
 2017-05-26,General Electric,32,45
 2017-05-26,Goldman Sachs,55,56
-2017-05-26,IBM,874,542
-2017-05-26,Intel,64,75
+2017-05-26,IBM,874,541
+2017-05-26,Intel,63,75
 2017-05-26,Johnson & Johnson,102,575
 2017-05-26,JPMorgan Chase,72,195
 2017-05-26,McDonald's,0,0
 2017-05-26,Merck,10,19
-2017-05-26,Microsoft,713,1641
+2017-05-26,Microsoft,713,1640
 2017-05-26,Nike,0,0
 2017-05-26,Pfizer,15,21
 2017-05-26,Procter & Gamble,658,6
@@ -8989,7 +8989,7 @@ date,company,re_tweets,likes
 2017-05-27,Merck,0,0
 2017-05-27,Microsoft,0,0
 2017-05-27,Nike,0,0
-2017-05-27,Pfizer,19,39
+2017-05-27,Pfizer,19,40
 2017-05-27,Procter & Gamble,0,0
 2017-05-27,The Home Depot,0,0
 2017-05-27,Travelers,7,7
@@ -9074,7 +9074,7 @@ date,company,re_tweets,likes
 2017-05-30,IBM,666,440
 2017-05-30,Intel,32,53
 2017-05-30,Johnson & Johnson,31,64
-2017-05-30,JPMorgan Chase,25,46
+2017-05-30,JPMorgan Chase,25,45
 2017-05-30,McDonald's,0,0
 2017-05-30,Merck,54,134
 2017-05-30,Microsoft,486,414
@@ -9102,7 +9102,7 @@ date,company,re_tweets,likes
 2017-05-31,General Electric,25,52
 2017-05-31,Goldman Sachs,59,67
 2017-05-31,IBM,775,404
-2017-05-31,Intel,431,632
+2017-05-31,Intel,431,631
 2017-05-31,Johnson & Johnson,43,49
 2017-05-31,JPMorgan Chase,42,131
 2017-05-31,McDonald's,0,0
@@ -9131,13 +9131,13 @@ date,company,re_tweets,likes
 2017-06-01,ExxonMobil,14,28
 2017-06-01,General Electric,51,53
 2017-06-01,Goldman Sachs,12627,171
-2017-06-01,IBM,2580,3783
-2017-06-01,Intel,159,185
+2017-06-01,IBM,2578,3782
+2017-06-01,Intel,158,184
 2017-06-01,Johnson & Johnson,88,359
 2017-06-01,JPMorgan Chase,36,119
 2017-06-01,McDonald's,0,0
 2017-06-01,Merck,27,69
-2017-06-01,Microsoft,2249,2924
+2017-06-01,Microsoft,2249,2925
 2017-06-01,Nike,0,0
 2017-06-01,Pfizer,64,128
 2017-06-01,Procter & Gamble,14,40
@@ -9155,11 +9155,11 @@ date,company,re_tweets,likes
 2017-06-02,Boeing,0,0
 2017-06-02,Caterpillar,0,0
 2017-06-02,Chevron,0,0
-2017-06-02,Cisco Systems,161,344
+2017-06-02,Cisco Systems,161,345
 2017-06-02,Coca-Cola,0,0
 2017-06-02,DowDuPont,0,0
 2017-06-02,ExxonMobil,34,74
-2017-06-02,General Electric,14149,72
+2017-06-02,General Electric,14147,72
 2017-06-02,Goldman Sachs,154,318
 2017-06-02,IBM,1079,1257
 2017-06-02,Intel,128,253
@@ -9178,7 +9178,7 @@ date,company,re_tweets,likes
 2017-06-02,Verizon,0,0
 2017-06-02,Visa,0,0
 2017-06-02,Walmart,0,0
-2017-06-02,Walt Disney,326,1127
+2017-06-02,Walt Disney,326,1126
 2017-06-03,3M,20,46
 2017-06-03,American Express,4,22
 2017-06-03,Apple,0,0
@@ -9259,7 +9259,7 @@ date,company,re_tweets,likes
 2017-06-05,Merck,154,101
 2017-06-05,Microsoft,175,294
 2017-06-05,Nike,0,0
-2017-06-05,Pfizer,44,63
+2017-06-05,Pfizer,43,63
 2017-06-05,Procter & Gamble,3,9
 2017-06-05,The Home Depot,0,0
 2017-06-05,Travelers,2,4
@@ -9311,7 +9311,7 @@ date,company,re_tweets,likes
 2017-06-07,ExxonMobil,0,0
 2017-06-07,General Electric,53,114
 2017-06-07,Goldman Sachs,127,198
-2017-06-07,IBM,923,1273
+2017-06-07,IBM,927,1270
 2017-06-07,Intel,120,51
 2017-06-07,Johnson & Johnson,85,92
 2017-06-07,JPMorgan Chase,53,24
@@ -9328,7 +9328,7 @@ date,company,re_tweets,likes
 2017-06-07,Verizon,0,0
 2017-06-07,Visa,0,0
 2017-06-07,Walmart,0,0
-2017-06-07,Walt Disney,5372,1733
+2017-06-07,Walt Disney,5374,1733
 2017-06-08,3M,14,50
 2017-06-08,American Express,14,44
 2017-06-08,Apple,0,0
@@ -9341,18 +9341,18 @@ date,company,re_tweets,likes
 2017-06-08,ExxonMobil,35,60
 2017-06-08,General Electric,23,56
 2017-06-08,Goldman Sachs,59,32
-2017-06-08,IBM,826,457
+2017-06-08,IBM,826,456
 2017-06-08,Intel,68,140
 2017-06-08,Johnson & Johnson,45,42
 2017-06-08,JPMorgan Chase,25,46
 2017-06-08,McDonald's,0,0
 2017-06-08,Merck,2,4
-2017-06-08,Microsoft,1849,1636
+2017-06-08,Microsoft,1848,1635
 2017-06-08,Nike,0,0
 2017-06-08,Pfizer,8,18
 2017-06-08,Procter & Gamble,35,93
 2017-06-08,The Home Depot,14,41
-2017-06-08,Travelers,149,23
+2017-06-08,Travelers,148,23
 2017-06-08,United Technologies,5,13
 2017-06-08,UnitedHealth Group,1,6
 2017-06-08,Verizon,0,0
@@ -9370,9 +9370,9 @@ date,company,re_tweets,likes
 2017-06-09,DowDuPont,0,0
 2017-06-09,ExxonMobil,42,94
 2017-06-09,General Electric,50,78
-2017-06-09,Goldman Sachs,82,110
+2017-06-09,Goldman Sachs,81,110
 2017-06-09,IBM,938,678
-2017-06-09,Intel,322,578
+2017-06-09,Intel,322,577
 2017-06-09,Johnson & Johnson,24,28
 2017-06-09,JPMorgan Chase,54,95
 2017-06-09,McDonald's,0,0
@@ -9388,7 +9388,7 @@ date,company,re_tweets,likes
 2017-06-09,Verizon,0,0
 2017-06-09,Visa,0,0
 2017-06-09,Walmart,0,0
-2017-06-09,Walt Disney,1628,1280
+2017-06-09,Walt Disney,1628,1281
 2017-06-10,3M,0,0
 2017-06-10,American Express,15,55
 2017-06-10,Apple,0,0
@@ -9437,8 +9437,8 @@ date,company,re_tweets,likes
 2017-06-11,JPMorgan Chase,0,0
 2017-06-11,McDonald's,0,0
 2017-06-11,Merck,272,338
-2017-06-11,Microsoft,14468,0
-2017-06-11,Nike,17483,22844
+2017-06-11,Microsoft,14464,0
+2017-06-11,Nike,17482,22840
 2017-06-11,Pfizer,19,43
 2017-06-11,Procter & Gamble,45,0
 2017-06-11,The Home Depot,0,0
@@ -9450,7 +9450,7 @@ date,company,re_tweets,likes
 2017-06-11,Walmart,0,0
 2017-06-11,Walt Disney,0,0
 2017-06-12,3M,9,30
-2017-06-12,American Express,1169,2353
+2017-06-12,American Express,1168,2353
 2017-06-12,Apple,0,0
 2017-06-12,Boeing,0,0
 2017-06-12,Caterpillar,15,75
@@ -9458,7 +9458,7 @@ date,company,re_tweets,likes
 2017-06-12,Cisco Systems,33,46
 2017-06-12,Coca-Cola,0,0
 2017-06-12,DowDuPont,0,0
-2017-06-12,ExxonMobil,33,44
+2017-06-12,ExxonMobil,33,43
 2017-06-12,General Electric,1141,803
 2017-06-12,Goldman Sachs,97,121
 2017-06-12,IBM,556,371
@@ -9467,7 +9467,7 @@ date,company,re_tweets,likes
 2017-06-12,JPMorgan Chase,118,122
 2017-06-12,McDonald's,0,0
 2017-06-12,Merck,101,194
-2017-06-12,Microsoft,6628,492
+2017-06-12,Microsoft,6630,492
 2017-06-12,Nike,0,0
 2017-06-12,Pfizer,4,14
 2017-06-12,Procter & Gamble,58,99
@@ -9491,7 +9491,7 @@ date,company,re_tweets,likes
 2017-06-13,ExxonMobil,21,48
 2017-06-13,General Electric,23,39
 2017-06-13,Goldman Sachs,106,68
-2017-06-13,IBM,1408,1859
+2017-06-13,IBM,1408,1860
 2017-06-13,Intel,46,39
 2017-06-13,Johnson & Johnson,112,300
 2017-06-13,JPMorgan Chase,41,124
@@ -9508,7 +9508,7 @@ date,company,re_tweets,likes
 2017-06-13,Verizon,0,0
 2017-06-13,Visa,0,0
 2017-06-13,Walmart,0,0
-2017-06-13,Walt Disney,10374,991
+2017-06-13,Walt Disney,10368,989
 2017-06-14,3M,0,0
 2017-06-14,American Express,0,0
 2017-06-14,Apple,0,0
@@ -9551,7 +9551,7 @@ date,company,re_tweets,likes
 2017-06-15,ExxonMobil,23,42
 2017-06-15,General Electric,15,36
 2017-06-15,Goldman Sachs,79,137
-2017-06-15,IBM,1250,604
+2017-06-15,IBM,1249,604
 2017-06-15,Intel,0,0
 2017-06-15,Johnson & Johnson,52,108
 2017-06-15,JPMorgan Chase,34,47
@@ -9581,8 +9581,8 @@ date,company,re_tweets,likes
 2017-06-16,ExxonMobil,73,133
 2017-06-16,General Electric,13,21
 2017-06-16,Goldman Sachs,81,90
-2017-06-16,IBM,730,334
-2017-06-16,Intel,125,162
+2017-06-16,IBM,730,332
+2017-06-16,Intel,125,161
 2017-06-16,Johnson & Johnson,130,235
 2017-06-16,JPMorgan Chase,18,45
 2017-06-16,McDonald's,0,0
@@ -9598,7 +9598,7 @@ date,company,re_tweets,likes
 2017-06-16,Verizon,0,0
 2017-06-16,Visa,0,0
 2017-06-16,Walmart,0,0
-2017-06-16,Walt Disney,1574,0
+2017-06-16,Walt Disney,1575,0
 2017-06-17,3M,0,0
 2017-06-17,American Express,11,97
 2017-06-17,Apple,0,0
@@ -9621,7 +9621,7 @@ date,company,re_tweets,likes
 2017-06-17,Nike,0,0
 2017-06-17,Pfizer,21,42
 2017-06-17,Procter & Gamble,0,0
-2017-06-17,The Home Depot,64,129
+2017-06-17,The Home Depot,64,128
 2017-06-17,Travelers,1,6
 2017-06-17,United Technologies,0,0
 2017-06-17,UnitedHealth Group,0,0
@@ -9632,7 +9632,7 @@ date,company,re_tweets,likes
 2017-06-18,3M,0,0
 2017-06-18,American Express,19,81
 2017-06-18,Apple,0,0
-2017-06-18,Boeing,814,2203
+2017-06-18,Boeing,814,2204
 2017-06-18,Caterpillar,13,75
 2017-06-18,Chevron,0,0
 2017-06-18,Cisco Systems,34,88
@@ -9641,7 +9641,7 @@ date,company,re_tweets,likes
 2017-06-18,ExxonMobil,0,0
 2017-06-18,General Electric,0,0
 2017-06-18,Goldman Sachs,0,0
-2017-06-18,IBM,159,162
+2017-06-18,IBM,159,161
 2017-06-18,Intel,0,0
 2017-06-18,Johnson & Johnson,29,44
 2017-06-18,JPMorgan Chase,30,72
@@ -9671,13 +9671,13 @@ date,company,re_tweets,likes
 2017-06-19,ExxonMobil,95,102
 2017-06-19,General Electric,33,80
 2017-06-19,Goldman Sachs,78,121
-2017-06-19,IBM,907,387
+2017-06-19,IBM,907,386
 2017-06-19,Intel,111,132
 2017-06-19,Johnson & Johnson,68,62
 2017-06-19,JPMorgan Chase,65,179
 2017-06-19,McDonald's,0,0
 2017-06-19,Merck,48,109
-2017-06-19,Microsoft,285,547
+2017-06-19,Microsoft,285,545
 2017-06-19,Nike,0,0
 2017-06-19,Pfizer,31,42
 2017-06-19,Procter & Gamble,54,128
@@ -9695,7 +9695,7 @@ date,company,re_tweets,likes
 2017-06-20,Boeing,113,404
 2017-06-20,Caterpillar,12,40
 2017-06-20,Chevron,0,0
-2017-06-20,Cisco Systems,1209,1188
+2017-06-20,Cisco Systems,1209,1189
 2017-06-20,Coca-Cola,0,0
 2017-06-20,DowDuPont,0,0
 2017-06-20,ExxonMobil,79,28
@@ -9708,7 +9708,7 @@ date,company,re_tweets,likes
 2017-06-20,McDonald's,0,0
 2017-06-20,Merck,46,99
 2017-06-20,Microsoft,830,122
-2017-06-20,Nike,652,2182
+2017-06-20,Nike,654,2180
 2017-06-20,Pfizer,50,40
 2017-06-20,Procter & Gamble,94,56
 2017-06-20,The Home Depot,27,100
@@ -9731,7 +9731,7 @@ date,company,re_tweets,likes
 2017-06-21,ExxonMobil,0,0
 2017-06-21,General Electric,31,62
 2017-06-21,Goldman Sachs,135,188
-2017-06-21,IBM,980,796
+2017-06-21,IBM,980,795
 2017-06-21,Intel,1147,2509
 2017-06-21,Johnson & Johnson,33,59
 2017-06-21,JPMorgan Chase,28,60
@@ -9761,16 +9761,16 @@ date,company,re_tweets,likes
 2017-06-22,ExxonMobil,35,69
 2017-06-22,General Electric,24,40
 2017-06-22,Goldman Sachs,206,287
-2017-06-22,IBM,331,379
+2017-06-22,IBM,331,378
 2017-06-22,Intel,136,229
 2017-06-22,Johnson & Johnson,79,130
 2017-06-22,JPMorgan Chase,63,87
 2017-06-22,McDonald's,0,0
 2017-06-22,Merck,10,22
-2017-06-22,Microsoft,3638,413
+2017-06-22,Microsoft,3641,413
 2017-06-22,Nike,0,0
 2017-06-22,Pfizer,40,63
-2017-06-22,Procter & Gamble,273,224
+2017-06-22,Procter & Gamble,272,224
 2017-06-22,The Home Depot,15,48
 2017-06-22,Travelers,1109,10
 2017-06-22,United Technologies,5,0
@@ -9778,11 +9778,11 @@ date,company,re_tweets,likes
 2017-06-22,Verizon,0,0
 2017-06-22,Visa,0,0
 2017-06-22,Walmart,0,0
-2017-06-22,Walt Disney,597,0
+2017-06-22,Walt Disney,599,0
 2017-06-23,3M,0,0
 2017-06-23,American Express,25,61
 2017-06-23,Apple,0,0
-2017-06-23,Boeing,176,277
+2017-06-23,Boeing,177,278
 2017-06-23,Caterpillar,13,49
 2017-06-23,Chevron,0,0
 2017-06-23,Cisco Systems,123,120
@@ -9790,7 +9790,7 @@ date,company,re_tweets,likes
 2017-06-23,DowDuPont,0,0
 2017-06-23,ExxonMobil,68,129
 2017-06-23,General Electric,19,18
-2017-06-23,Goldman Sachs,568,656
+2017-06-23,Goldman Sachs,566,656
 2017-06-23,IBM,200,243
 2017-06-23,Intel,193,107
 2017-06-23,Johnson & Johnson,52,97
@@ -9862,7 +9862,7 @@ date,company,re_tweets,likes
 2017-06-25,Pfizer,16,28
 2017-06-25,Procter & Gamble,49,23
 2017-06-25,The Home Depot,0,0
-2017-06-25,Travelers,13923,8
+2017-06-25,Travelers,13921,8
 2017-06-25,United Technologies,0,0
 2017-06-25,UnitedHealth Group,0,0
 2017-06-25,Verizon,0,0
@@ -9881,7 +9881,7 @@ date,company,re_tweets,likes
 2017-06-26,ExxonMobil,1717,0
 2017-06-26,General Electric,13,30
 2017-06-26,Goldman Sachs,65,86
-2017-06-26,IBM,2004,1289
+2017-06-26,IBM,2004,1288
 2017-06-26,Intel,94,107
 2017-06-26,Johnson & Johnson,111,242
 2017-06-26,JPMorgan Chase,95,288
@@ -9892,7 +9892,7 @@ date,company,re_tweets,likes
 2017-06-26,Pfizer,11,20
 2017-06-26,Procter & Gamble,337,0
 2017-06-26,The Home Depot,0,0
-2017-06-26,Travelers,2620,41
+2017-06-26,Travelers,2619,41
 2017-06-26,United Technologies,0,0
 2017-06-26,UnitedHealth Group,0,0
 2017-06-26,Verizon,0,0
@@ -9918,7 +9918,7 @@ date,company,re_tweets,likes
 2017-06-27,McDonald's,0,0
 2017-06-27,Merck,777,492
 2017-06-27,Microsoft,420,141
-2017-06-27,Nike,2168,4452
+2017-06-27,Nike,2169,4453
 2017-06-27,Pfizer,26,43
 2017-06-27,Procter & Gamble,0,0
 2017-06-27,The Home Depot,0,0
@@ -9950,7 +9950,7 @@ date,company,re_tweets,likes
 2017-06-28,Microsoft,424,793
 2017-06-28,Nike,0,0
 2017-06-28,Pfizer,13,22
-2017-06-28,Procter & Gamble,61,40
+2017-06-28,Procter & Gamble,61,36
 2017-06-28,The Home Depot,22,43
 2017-06-28,Travelers,418,22
 2017-06-28,United Technologies,24,67
@@ -9978,9 +9978,9 @@ date,company,re_tweets,likes
 2017-06-29,McDonald's,0,0
 2017-06-29,Merck,19,46
 2017-06-29,Microsoft,389,211
-2017-06-29,Nike,1217,2698
+2017-06-29,Nike,1218,2697
 2017-06-29,Pfizer,2,10
-2017-06-29,Procter & Gamble,17,36
+2017-06-29,Procter & Gamble,17,34
 2017-06-29,The Home Depot,11,20
 2017-06-29,Travelers,4,15
 2017-06-29,United Technologies,0,0
@@ -10007,7 +10007,7 @@ date,company,re_tweets,likes
 2017-06-30,JPMorgan Chase,43,120
 2017-06-30,McDonald's,0,0
 2017-06-30,Merck,67,117
-2017-06-30,Microsoft,113,227
+2017-06-30,Microsoft,113,226
 2017-06-30,Nike,0,0
 2017-06-30,Pfizer,47,58
 2017-06-30,Procter & Gamble,0,0
@@ -10018,7 +10018,7 @@ date,company,re_tweets,likes
 2017-06-30,Verizon,0,0
 2017-06-30,Visa,14,21
 2017-06-30,Walmart,0,0
-2017-06-30,Walt Disney,583,1612
+2017-06-30,Walt Disney,583,1610
 2017-07-01,3M,19,43
 2017-07-01,American Express,11,26
 2017-07-01,Apple,0,0
@@ -10048,7 +10048,7 @@ date,company,re_tweets,likes
 2017-07-01,Verizon,0,0
 2017-07-01,Visa,0,0
 2017-07-01,Walmart,0,0
-2017-07-01,Walt Disney,696,607
+2017-07-01,Walt Disney,696,606
 2017-07-02,3M,0,0
 2017-07-02,American Express,0,0
 2017-07-02,Apple,0,0
@@ -10078,9 +10078,9 @@ date,company,re_tweets,likes
 2017-07-02,Verizon,0,0
 2017-07-02,Visa,0,0
 2017-07-02,Walmart,0,0
-2017-07-02,Walt Disney,853,362
+2017-07-02,Walt Disney,852,362
 2017-07-03,3M,0,0
-2017-07-03,American Express,52,77
+2017-07-03,American Express,53,77
 2017-07-03,Apple,0,0
 2017-07-03,Boeing,0,0
 2017-07-03,Caterpillar,16,47
@@ -10091,8 +10091,8 @@ date,company,re_tweets,likes
 2017-07-03,ExxonMobil,29,54
 2017-07-03,General Electric,0,0
 2017-07-03,Goldman Sachs,116,180
-2017-07-03,IBM,1251,770
-2017-07-03,Intel,142,248
+2017-07-03,IBM,1251,769
+2017-07-03,Intel,142,247
 2017-07-03,Johnson & Johnson,13,35
 2017-07-03,JPMorgan Chase,12,30
 2017-07-03,McDonald's,0,0
@@ -10101,7 +10101,7 @@ date,company,re_tweets,likes
 2017-07-03,Nike,0,0
 2017-07-03,Pfizer,26,73
 2017-07-03,Procter & Gamble,0,0
-2017-07-03,The Home Depot,22,36
+2017-07-03,The Home Depot,22,35
 2017-07-03,Travelers,27,8
 2017-07-03,United Technologies,0,0
 2017-07-03,UnitedHealth Group,5,12
@@ -10121,7 +10121,7 @@ date,company,re_tweets,likes
 2017-07-04,ExxonMobil,18,69
 2017-07-04,General Electric,0,0
 2017-07-04,Goldman Sachs,20,17
-2017-07-04,IBM,702,567
+2017-07-04,IBM,702,565
 2017-07-04,Intel,0,0
 2017-07-04,Johnson & Johnson,35,65
 2017-07-04,JPMorgan Chase,0,0
@@ -10144,15 +10144,15 @@ date,company,re_tweets,likes
 2017-07-05,Apple,0,0
 2017-07-05,Boeing,32,99
 2017-07-05,Caterpillar,79,37
-2017-07-05,Chevron,52,77
+2017-07-05,Chevron,52,78
 2017-07-05,Cisco Systems,60,82
 2017-07-05,Coca-Cola,0,0
 2017-07-05,DowDuPont,0,0
 2017-07-05,ExxonMobil,0,0
 2017-07-05,General Electric,20,43
 2017-07-05,Goldman Sachs,110,130
-2017-07-05,IBM,994,582
-2017-07-05,Intel,67,99
+2017-07-05,IBM,994,581
+2017-07-05,Intel,66,99
 2017-07-05,Johnson & Johnson,14,27
 2017-07-05,JPMorgan Chase,55,118
 2017-07-05,McDonald's,0,0
@@ -10160,7 +10160,7 @@ date,company,re_tweets,likes
 2017-07-05,Microsoft,223,135
 2017-07-05,Nike,0,0
 2017-07-05,Pfizer,0,0
-2017-07-05,Procter & Gamble,72,121
+2017-07-05,Procter & Gamble,72,117
 2017-07-05,The Home Depot,20,26
 2017-07-05,Travelers,4,9
 2017-07-05,United Technologies,8,16
@@ -10211,16 +10211,16 @@ date,company,re_tweets,likes
 2017-07-07,ExxonMobil,8,29
 2017-07-07,General Electric,28,55
 2017-07-07,Goldman Sachs,91,147
-2017-07-07,IBM,994,698
+2017-07-07,IBM,994,697
 2017-07-07,Intel,133,196
 2017-07-07,Johnson & Johnson,101,48
 2017-07-07,JPMorgan Chase,41,73
 2017-07-07,McDonald's,0,0
 2017-07-07,Merck,23,49
-2017-07-07,Microsoft,412,588
-2017-07-07,Nike,3696,8359
+2017-07-07,Microsoft,411,588
+2017-07-07,Nike,3696,8356
 2017-07-07,Pfizer,20,32
-2017-07-07,Procter & Gamble,33,51
+2017-07-07,Procter & Gamble,33,49
 2017-07-07,The Home Depot,0,0
 2017-07-07,Travelers,13,7
 2017-07-07,United Technologies,27,31
@@ -10307,10 +10307,10 @@ date,company,re_tweets,likes
 2017-07-10,JPMorgan Chase,23,66
 2017-07-10,McDonald's,0,0
 2017-07-10,Merck,74,198
-2017-07-10,Microsoft,3820,4104
+2017-07-10,Microsoft,3820,4102
 2017-07-10,Nike,0,0
 2017-07-10,Pfizer,4,11
-2017-07-10,Procter & Gamble,16,26
+2017-07-10,Procter & Gamble,16,24
 2017-07-10,The Home Depot,0,0
 2017-07-10,Travelers,11,6
 2017-07-10,United Technologies,0,0
@@ -10337,10 +10337,10 @@ date,company,re_tweets,likes
 2017-07-11,JPMorgan Chase,64,108
 2017-07-11,McDonald's,0,0
 2017-07-11,Merck,10,35
-2017-07-11,Microsoft,2897,4007
-2017-07-11,Nike,825,1970
+2017-07-11,Microsoft,2897,4003
+2017-07-11,Nike,826,1970
 2017-07-11,Pfizer,20,32
-2017-07-11,Procter & Gamble,40,35
+2017-07-11,Procter & Gamble,40,31
 2017-07-11,The Home Depot,28,40
 2017-07-11,Travelers,42,20
 2017-07-11,United Technologies,13,21
@@ -10362,15 +10362,15 @@ date,company,re_tweets,likes
 2017-07-12,General Electric,14,42
 2017-07-12,Goldman Sachs,104,353
 2017-07-12,IBM,989,777
-2017-07-12,Intel,65,67
+2017-07-12,Intel,64,67
 2017-07-12,Johnson & Johnson,21,26
 2017-07-12,JPMorgan Chase,37,29
 2017-07-12,McDonald's,0,0
 2017-07-12,Merck,32,42
-2017-07-12,Microsoft,2358,3601
+2017-07-12,Microsoft,2358,3599
 2017-07-12,Nike,0,0
 2017-07-12,Pfizer,28,49
-2017-07-12,Procter & Gamble,365,276
+2017-07-12,Procter & Gamble,365,256
 2017-07-12,The Home Depot,35,91
 2017-07-12,Travelers,11,9
 2017-07-12,United Technologies,4,0
@@ -10378,29 +10378,29 @@ date,company,re_tweets,likes
 2017-07-12,Verizon,0,0
 2017-07-12,Visa,0,0
 2017-07-12,Walmart,0,0
-2017-07-12,Walt Disney,13609,300
+2017-07-12,Walt Disney,13608,300
 2017-07-13,3M,35,0
 2017-07-13,American Express,306,88
 2017-07-13,Apple,0,0
 2017-07-13,Boeing,0,0
 2017-07-13,Caterpillar,0,0
 2017-07-13,Chevron,0,0
-2017-07-13,Cisco Systems,90,148
+2017-07-13,Cisco Systems,90,147
 2017-07-13,Coca-Cola,0,0
 2017-07-13,DowDuPont,0,0
 2017-07-13,ExxonMobil,27,51
 2017-07-13,General Electric,17,34
 2017-07-13,Goldman Sachs,167,120
-2017-07-13,IBM,1091,687
+2017-07-13,IBM,1091,686
 2017-07-13,Intel,70,92
 2017-07-13,Johnson & Johnson,36,43
 2017-07-13,JPMorgan Chase,28,50
 2017-07-13,McDonald's,0,0
 2017-07-13,Merck,48,106
-2017-07-13,Microsoft,1541,599
+2017-07-13,Microsoft,1540,599
 2017-07-13,Nike,0,0
 2017-07-13,Pfizer,17,25
-2017-07-13,Procter & Gamble,31,20
+2017-07-13,Procter & Gamble,31,18
 2017-07-13,The Home Depot,0,0
 2017-07-13,Travelers,18,6
 2017-07-13,United Technologies,19,0
@@ -10421,7 +10421,7 @@ date,company,re_tweets,likes
 2017-07-14,ExxonMobil,33,39
 2017-07-14,General Electric,0,0
 2017-07-14,Goldman Sachs,114,211
-2017-07-14,IBM,592,318
+2017-07-14,IBM,593,318
 2017-07-14,Intel,54,61
 2017-07-14,Johnson & Johnson,16,26
 2017-07-14,JPMorgan Chase,54,71
@@ -10438,7 +10438,7 @@ date,company,re_tweets,likes
 2017-07-14,Verizon,0,0
 2017-07-14,Visa,17,23
 2017-07-14,Walmart,0,0
-2017-07-14,Walt Disney,16241,12883
+2017-07-14,Walt Disney,16239,12885
 2017-07-15,3M,25,54
 2017-07-15,American Express,24,58
 2017-07-15,Apple,0,0
@@ -10468,7 +10468,7 @@ date,company,re_tweets,likes
 2017-07-15,Verizon,0,0
 2017-07-15,Visa,20,30
 2017-07-15,Walmart,0,0
-2017-07-15,Walt Disney,101172,33159
+2017-07-15,Walt Disney,101151,33155
 2017-07-16,3M,0,0
 2017-07-16,American Express,0,0
 2017-07-16,Apple,0,0
@@ -10488,7 +10488,7 @@ date,company,re_tweets,likes
 2017-07-16,McDonald's,0,0
 2017-07-16,Merck,0,0
 2017-07-16,Microsoft,0,0
-2017-07-16,Nike,11437,24995
+2017-07-16,Nike,11437,24993
 2017-07-16,Pfizer,8,9
 2017-07-16,Procter & Gamble,0,0
 2017-07-16,The Home Depot,0,0
@@ -10510,8 +10510,8 @@ date,company,re_tweets,likes
 2017-07-17,DowDuPont,0,0
 2017-07-17,ExxonMobil,194,389
 2017-07-17,General Electric,56,81
-2017-07-17,Goldman Sachs,83,111
-2017-07-17,IBM,2984,3027
+2017-07-17,Goldman Sachs,82,111
+2017-07-17,IBM,2984,3029
 2017-07-17,Intel,0,0
 2017-07-17,Johnson & Johnson,9,17
 2017-07-17,JPMorgan Chase,16,48
@@ -10520,7 +10520,7 @@ date,company,re_tweets,likes
 2017-07-17,Microsoft,184,107
 2017-07-17,Nike,0,0
 2017-07-17,Pfizer,54,49
-2017-07-17,Procter & Gamble,55,83
+2017-07-17,Procter & Gamble,55,78
 2017-07-17,The Home Depot,0,0
 2017-07-17,Travelers,34,22
 2017-07-17,United Technologies,41,27
@@ -10534,20 +10534,20 @@ date,company,re_tweets,likes
 2017-07-18,Apple,0,0
 2017-07-18,Boeing,0,0
 2017-07-18,Caterpillar,48,144
-2017-07-18,Chevron,47,62
+2017-07-18,Chevron,47,63
 2017-07-18,Cisco Systems,53,94
 2017-07-18,Coca-Cola,0,0
 2017-07-18,DowDuPont,0,0
 2017-07-18,ExxonMobil,13,44
 2017-07-18,General Electric,125,182
-2017-07-18,Goldman Sachs,93,150
+2017-07-18,Goldman Sachs,93,148
 2017-07-18,IBM,757,511
 2017-07-18,Intel,215,412
 2017-07-18,Johnson & Johnson,53,126
 2017-07-18,JPMorgan Chase,29,57
 2017-07-18,McDonald's,0,0
 2017-07-18,Merck,176,559
-2017-07-18,Microsoft,460,538
+2017-07-18,Microsoft,464,537
 2017-07-18,Nike,0,0
 2017-07-18,Pfizer,28,43
 2017-07-18,Procter & Gamble,0,0
@@ -10559,7 +10559,7 @@ date,company,re_tweets,likes
 2017-07-18,Visa,0,0
 2017-07-18,Walmart,0,0
 2017-07-18,Walt Disney,1368,0
-2017-07-19,3M,197,1762
+2017-07-19,3M,197,1761
 2017-07-19,American Express,152,20
 2017-07-19,Apple,0,0
 2017-07-19,Boeing,86,0
@@ -10571,7 +10571,7 @@ date,company,re_tweets,likes
 2017-07-19,ExxonMobil,7,34
 2017-07-19,General Electric,120,168
 2017-07-19,Goldman Sachs,47,84
-2017-07-19,IBM,2449,5073
+2017-07-19,IBM,2454,5092
 2017-07-19,Intel,101,117
 2017-07-19,Johnson & Johnson,10,21
 2017-07-19,JPMorgan Chase,68,226
@@ -10601,7 +10601,7 @@ date,company,re_tweets,likes
 2017-07-20,ExxonMobil,97,148
 2017-07-20,General Electric,31,68
 2017-07-20,Goldman Sachs,134,189
-2017-07-20,IBM,1468,317
+2017-07-20,IBM,1473,317
 2017-07-20,Intel,78,75
 2017-07-20,Johnson & Johnson,38,69
 2017-07-20,JPMorgan Chase,5,23
@@ -10610,7 +10610,7 @@ date,company,re_tweets,likes
 2017-07-20,Microsoft,0,0
 2017-07-20,Nike,0,0
 2017-07-20,Pfizer,55,80
-2017-07-20,Procter & Gamble,35,57
+2017-07-20,Procter & Gamble,35,55
 2017-07-20,The Home Depot,0,0
 2017-07-20,Travelers,21,21
 2017-07-20,United Technologies,6,29
@@ -10632,7 +10632,7 @@ date,company,re_tweets,likes
 2017-07-21,General Electric,34,60
 2017-07-21,Goldman Sachs,140,260
 2017-07-21,IBM,1031,820
-2017-07-21,Intel,590,2266
+2017-07-21,Intel,590,2268
 2017-07-21,Johnson & Johnson,13,22
 2017-07-21,JPMorgan Chase,53,97
 2017-07-21,McDonald's,0,0
@@ -10708,29 +10708,29 @@ date,company,re_tweets,likes
 2017-07-23,Verizon,0,0
 2017-07-23,Visa,0,0
 2017-07-23,Walmart,0,0
-2017-07-23,Walt Disney,52520,0
+2017-07-23,Walt Disney,52516,0
 2017-07-24,3M,0,0
 2017-07-24,American Express,10,28
 2017-07-24,Apple,0,0
 2017-07-24,Boeing,0,0
 2017-07-24,Caterpillar,6,33
 2017-07-24,Chevron,0,0
-2017-07-24,Cisco Systems,96,138
+2017-07-24,Cisco Systems,97,138
 2017-07-24,Coca-Cola,0,0
 2017-07-24,DowDuPont,0,0
 2017-07-24,ExxonMobil,111,112
-2017-07-24,General Electric,140,198
+2017-07-24,General Electric,140,199
 2017-07-24,Goldman Sachs,148,249
-2017-07-24,IBM,1477,819
+2017-07-24,IBM,1478,819
 2017-07-24,Intel,0,0
 2017-07-24,Johnson & Johnson,63,32
 2017-07-24,JPMorgan Chase,46,118
 2017-07-24,McDonald's,0,0
 2017-07-24,Merck,53,105
-2017-07-24,Microsoft,771,1360
+2017-07-24,Microsoft,771,1361
 2017-07-24,Nike,0,0
 2017-07-24,Pfizer,19,50
-2017-07-24,Procter & Gamble,18,30
+2017-07-24,Procter & Gamble,18,28
 2017-07-24,The Home Depot,0,0
 2017-07-24,Travelers,39,23
 2017-07-24,United Technologies,45,142
@@ -10750,17 +10750,17 @@ date,company,re_tweets,likes
 2017-07-25,DowDuPont,0,0
 2017-07-25,ExxonMobil,78,91
 2017-07-25,General Electric,60,104
-2017-07-25,Goldman Sachs,57,113
-2017-07-25,IBM,1046,749
+2017-07-25,Goldman Sachs,57,112
+2017-07-25,IBM,1046,750
 2017-07-25,Intel,83,171
-2017-07-25,Johnson & Johnson,34,17
+2017-07-25,Johnson & Johnson,35,17
 2017-07-25,JPMorgan Chase,24,49
 2017-07-25,McDonald's,0,0
 2017-07-25,Merck,21,62
-2017-07-25,Microsoft,10681,18603
+2017-07-25,Microsoft,10678,18595
 2017-07-25,Nike,0,0
 2017-07-25,Pfizer,7,24
-2017-07-25,Procter & Gamble,2061,2601
+2017-07-25,Procter & Gamble,2061,2599
 2017-07-25,The Home Depot,0,0
 2017-07-25,Travelers,19,14
 2017-07-25,United Technologies,8,17
@@ -10808,7 +10808,7 @@ date,company,re_tweets,likes
 2017-07-27,Cisco Systems,150,347
 2017-07-27,Coca-Cola,0,0
 2017-07-27,DowDuPont,0,0
-2017-07-27,ExxonMobil,38,57
+2017-07-27,ExxonMobil,39,57
 2017-07-27,General Electric,74,133
 2017-07-27,Goldman Sachs,88,216
 2017-07-27,IBM,1907,4103
@@ -10820,7 +10820,7 @@ date,company,re_tweets,likes
 2017-07-27,Microsoft,441,336
 2017-07-27,Nike,0,0
 2017-07-27,Pfizer,12,19
-2017-07-27,Procter & Gamble,169,205
+2017-07-27,Procter & Gamble,169,190
 2017-07-27,The Home Depot,37,95
 2017-07-27,Travelers,17,8
 2017-07-27,United Technologies,0,0
@@ -10846,7 +10846,7 @@ date,company,re_tweets,likes
 2017-07-28,Johnson & Johnson,8,16
 2017-07-28,JPMorgan Chase,92,154
 2017-07-28,McDonald's,0,0
-2017-07-28,Merck,116,304
+2017-07-28,Merck,117,304
 2017-07-28,Microsoft,333,787
 2017-07-28,Nike,0,0
 2017-07-28,Pfizer,6,19
@@ -10879,7 +10879,7 @@ date,company,re_tweets,likes
 2017-07-29,Merck,0,0
 2017-07-29,Microsoft,0,0
 2017-07-29,Nike,0,0
-2017-07-29,Pfizer,54,30
+2017-07-29,Pfizer,56,30
 2017-07-29,Procter & Gamble,0,0
 2017-07-29,The Home Depot,0,0
 2017-07-29,Travelers,13,5
@@ -10931,13 +10931,13 @@ date,company,re_tweets,likes
 2017-07-31,ExxonMobil,9,26
 2017-07-31,General Electric,469,95
 2017-07-31,Goldman Sachs,44,53
-2017-07-31,IBM,1183,890
-2017-07-31,Intel,165,0
+2017-07-31,IBM,1183,889
+2017-07-31,Intel,161,0
 2017-07-31,Johnson & Johnson,16,26
 2017-07-31,JPMorgan Chase,98,72
 2017-07-31,McDonald's,0,0
 2017-07-31,Merck,16,40
-2017-07-31,Microsoft,1899,668
+2017-07-31,Microsoft,1899,667
 2017-07-31,Nike,0,0
 2017-07-31,Pfizer,9,23
 2017-07-31,Procter & Gamble,812,0
@@ -10955,7 +10955,7 @@ date,company,re_tweets,likes
 2017-08-01,Boeing,0,0
 2017-08-01,Caterpillar,45,138
 2017-08-01,Chevron,0,0
-2017-08-01,Cisco Systems,635,595
+2017-08-01,Cisco Systems,635,596
 2017-08-01,Coca-Cola,0,0
 2017-08-01,DowDuPont,0,0
 2017-08-01,ExxonMobil,45,76
@@ -10967,10 +10967,10 @@ date,company,re_tweets,likes
 2017-08-01,JPMorgan Chase,46,82
 2017-08-01,McDonald's,0,0
 2017-08-01,Merck,26,59
-2017-08-01,Microsoft,2445,142
+2017-08-01,Microsoft,2444,142
 2017-08-01,Nike,0,0
 2017-08-01,Pfizer,9,18
-2017-08-01,Procter & Gamble,115,169
+2017-08-01,Procter & Gamble,115,164
 2017-08-01,The Home Depot,0,0
 2017-08-01,Travelers,72,44
 2017-08-01,United Technologies,2,0
@@ -10997,16 +10997,16 @@ date,company,re_tweets,likes
 2017-08-02,JPMorgan Chase,60,91
 2017-08-02,McDonald's,0,0
 2017-08-02,Merck,0,0
-2017-08-02,Microsoft,1485,1392
+2017-08-02,Microsoft,1485,1393
 2017-08-02,Nike,0,0
 2017-08-02,Pfizer,60,194
-2017-08-02,Procter & Gamble,123,305
+2017-08-02,Procter & Gamble,123,301
 2017-08-02,The Home Depot,0,0
 2017-08-02,Travelers,6,3
 2017-08-02,United Technologies,8,0
 2017-08-02,UnitedHealth Group,0,0
 2017-08-02,Verizon,0,0
-2017-08-02,Visa,7,17
+2017-08-02,Visa,6,18
 2017-08-02,Walmart,0,0
 2017-08-02,Walt Disney,0,0
 2017-08-03,3M,0,0
@@ -11019,7 +11019,7 @@ date,company,re_tweets,likes
 2017-08-03,Coca-Cola,0,0
 2017-08-03,DowDuPont,0,0
 2017-08-03,ExxonMobil,24,59
-2017-08-03,General Electric,183,265
+2017-08-03,General Electric,184,265
 2017-08-03,Goldman Sachs,44,28
 2017-08-03,IBM,1198,347
 2017-08-03,Intel,85,130
@@ -11028,7 +11028,7 @@ date,company,re_tweets,likes
 2017-08-03,McDonald's,0,0
 2017-08-03,Merck,52,99
 2017-08-03,Microsoft,278,231
-2017-08-03,Nike,2197,0
+2017-08-03,Nike,2198,0
 2017-08-03,Pfizer,0,0
 2017-08-03,Procter & Gamble,0,0
 2017-08-03,The Home Depot,0,0
@@ -11140,7 +11140,7 @@ date,company,re_tweets,likes
 2017-08-07,DowDuPont,0,0
 2017-08-07,ExxonMobil,33,53
 2017-08-07,General Electric,177,295
-2017-08-07,Goldman Sachs,244,537
+2017-08-07,Goldman Sachs,244,535
 2017-08-07,IBM,838,425
 2017-08-07,Intel,0,0
 2017-08-07,Johnson & Johnson,21,36
@@ -11150,7 +11150,7 @@ date,company,re_tweets,likes
 2017-08-07,Microsoft,404,0
 2017-08-07,Nike,0,0
 2017-08-07,Pfizer,12,20
-2017-08-07,Procter & Gamble,58,34
+2017-08-07,Procter & Gamble,58,32
 2017-08-07,The Home Depot,22,52
 2017-08-07,Travelers,35,26
 2017-08-07,United Technologies,11,0
@@ -11171,7 +11171,7 @@ date,company,re_tweets,likes
 2017-08-08,ExxonMobil,28,57
 2017-08-08,General Electric,58,122
 2017-08-08,Goldman Sachs,53,113
-2017-08-08,IBM,1661,622
+2017-08-08,IBM,1663,622
 2017-08-08,Intel,466,372
 2017-08-08,Johnson & Johnson,56,13
 2017-08-08,JPMorgan Chase,51,119
@@ -11180,7 +11180,7 @@ date,company,re_tweets,likes
 2017-08-08,Microsoft,2972,414
 2017-08-08,Nike,0,0
 2017-08-08,Pfizer,10,22
-2017-08-08,Procter & Gamble,24,53
+2017-08-08,Procter & Gamble,24,51
 2017-08-08,The Home Depot,16,36
 2017-08-08,Travelers,35,24
 2017-08-08,United Technologies,1,10
@@ -11230,8 +11230,8 @@ date,company,re_tweets,likes
 2017-08-10,DowDuPont,0,0
 2017-08-10,ExxonMobil,54,76
 2017-08-10,General Electric,116,145
-2017-08-10,Goldman Sachs,199,651
-2017-08-10,IBM,653,304
+2017-08-10,Goldman Sachs,199,650
+2017-08-10,IBM,652,304
 2017-08-10,Intel,208,0
 2017-08-10,Johnson & Johnson,8,12
 2017-08-10,JPMorgan Chase,42,73
@@ -11240,7 +11240,7 @@ date,company,re_tweets,likes
 2017-08-10,Microsoft,169,249
 2017-08-10,Nike,0,0
 2017-08-10,Pfizer,15,38
-2017-08-10,Procter & Gamble,27,40
+2017-08-10,Procter & Gamble,27,38
 2017-08-10,The Home Depot,0,0
 2017-08-10,Travelers,18,23
 2017-08-10,United Technologies,16,66
@@ -11260,7 +11260,7 @@ date,company,re_tweets,likes
 2017-08-11,DowDuPont,0,0
 2017-08-11,ExxonMobil,34,63
 2017-08-11,General Electric,81,128
-2017-08-11,Goldman Sachs,111,396
+2017-08-11,Goldman Sachs,111,395
 2017-08-11,IBM,284,293
 2017-08-11,Intel,0,0
 2017-08-11,Johnson & Johnson,14,26
@@ -11280,7 +11280,7 @@ date,company,re_tweets,likes
 2017-08-11,Walmart,0,0
 2017-08-11,Walt Disney,213,0
 2017-08-12,3M,0,0
-2017-08-12,American Express,11,32
+2017-08-12,American Express,11,31
 2017-08-12,Apple,0,0
 2017-08-12,Boeing,0,0
 2017-08-12,Caterpillar,0,0
@@ -11350,17 +11350,17 @@ date,company,re_tweets,likes
 2017-08-14,DowDuPont,0,0
 2017-08-14,ExxonMobil,32,60
 2017-08-14,General Electric,0,0
-2017-08-14,Goldman Sachs,56,90
+2017-08-14,Goldman Sachs,55,90
 2017-08-14,IBM,1297,703
 2017-08-14,Intel,0,0
 2017-08-14,Johnson & Johnson,0,0
 2017-08-14,JPMorgan Chase,11,21
 2017-08-14,McDonald's,0,0
-2017-08-14,Merck,19091,50044
+2017-08-14,Merck,19089,50037
 2017-08-14,Microsoft,131,191
 2017-08-14,Nike,0,0
 2017-08-14,Pfizer,63,21
-2017-08-14,Procter & Gamble,11,7
+2017-08-14,Procter & Gamble,11,5
 2017-08-14,The Home Depot,0,0
 2017-08-14,Travelers,6,7
 2017-08-14,United Technologies,0,0
@@ -11391,7 +11391,7 @@ date,company,re_tweets,likes
 2017-08-15,Nike,0,0
 2017-08-15,Pfizer,27,51
 2017-08-15,Procter & Gamble,0,0
-2017-08-15,The Home Depot,728,2000
+2017-08-15,The Home Depot,728,1996
 2017-08-15,Travelers,22,13
 2017-08-15,United Technologies,0,0
 2017-08-15,UnitedHealth Group,0,0
@@ -11414,7 +11414,7 @@ date,company,re_tweets,likes
 2017-08-16,IBM,1328,259
 2017-08-16,Intel,170,262
 2017-08-16,Johnson & Johnson,199,416
-2017-08-16,JPMorgan Chase,515,914
+2017-08-16,JPMorgan Chase,515,915
 2017-08-16,McDonald's,0,0
 2017-08-16,Merck,33,113
 2017-08-16,Microsoft,531,254
@@ -11462,7 +11462,7 @@ date,company,re_tweets,likes
 2017-08-18,3M,0,0
 2017-08-18,American Express,2,18
 2017-08-18,Apple,0,0
-2017-08-18,Boeing,80,262
+2017-08-18,Boeing,80,261
 2017-08-18,Caterpillar,9,60
 2017-08-18,Chevron,128,944
 2017-08-18,Cisco Systems,216,35
@@ -11480,7 +11480,7 @@ date,company,re_tweets,likes
 2017-08-18,Microsoft,311,633
 2017-08-18,Nike,0,0
 2017-08-18,Pfizer,31,75
-2017-08-18,Procter & Gamble,120,34
+2017-08-18,Procter & Gamble,120,32
 2017-08-18,The Home Depot,31,50
 2017-08-18,Travelers,23,22
 2017-08-18,United Technologies,0,0
@@ -11500,7 +11500,7 @@ date,company,re_tweets,likes
 2017-08-19,DowDuPont,0,0
 2017-08-19,ExxonMobil,14,59
 2017-08-19,General Electric,46,81
-2017-08-19,Goldman Sachs,23,53
+2017-08-19,Goldman Sachs,24,53
 2017-08-19,IBM,57,85
 2017-08-19,Intel,0,0
 2017-08-19,Johnson & Johnson,0,0
@@ -11537,7 +11537,7 @@ date,company,re_tweets,likes
 2017-08-20,JPMorgan Chase,0,0
 2017-08-20,McDonald's,0,0
 2017-08-20,Merck,0,0
-2017-08-20,Microsoft,4596,0
+2017-08-20,Microsoft,4597,0
 2017-08-20,Nike,0,0
 2017-08-20,Pfizer,18,15
 2017-08-20,Procter & Gamble,0,0
@@ -11561,7 +11561,7 @@ date,company,re_tweets,likes
 2017-08-21,ExxonMobil,26,46
 2017-08-21,General Electric,162,234
 2017-08-21,Goldman Sachs,135,176
-2017-08-21,IBM,3465,3657
+2017-08-21,IBM,3464,3655
 2017-08-21,Intel,892,563
 2017-08-21,Johnson & Johnson,32,34
 2017-08-21,JPMorgan Chase,15,36
@@ -11589,18 +11589,18 @@ date,company,re_tweets,likes
 2017-08-22,Coca-Cola,0,0
 2017-08-22,DowDuPont,0,0
 2017-08-22,ExxonMobil,12,40
-2017-08-22,General Electric,161,292
-2017-08-22,Goldman Sachs,65,112
-2017-08-22,IBM,1133,2981
+2017-08-22,General Electric,161,290
+2017-08-22,Goldman Sachs,65,110
+2017-08-22,IBM,1133,2980
 2017-08-22,Intel,0,0
 2017-08-22,Johnson & Johnson,32,47
 2017-08-22,JPMorgan Chase,43,79
 2017-08-22,McDonald's,0,0
 2017-08-22,Merck,10,42
-2017-08-22,Microsoft,2979,6235
+2017-08-22,Microsoft,2979,6231
 2017-08-22,Nike,0,0
 2017-08-22,Pfizer,5,16
-2017-08-22,Procter & Gamble,16,15
+2017-08-22,Procter & Gamble,16,13
 2017-08-22,The Home Depot,25,34
 2017-08-22,Travelers,24,14
 2017-08-22,United Technologies,0,0
@@ -11608,7 +11608,7 @@ date,company,re_tweets,likes
 2017-08-22,Verizon,0,0
 2017-08-22,Visa,0,0
 2017-08-22,Walmart,0,0
-2017-08-22,Walt Disney,722,0
+2017-08-22,Walt Disney,723,0
 2017-08-23,3M,24,37
 2017-08-23,American Express,14,43
 2017-08-23,Apple,0,0
@@ -11620,7 +11620,7 @@ date,company,re_tweets,likes
 2017-08-23,DowDuPont,0,0
 2017-08-23,ExxonMobil,29,36
 2017-08-23,General Electric,96,115
-2017-08-23,Goldman Sachs,53,89
+2017-08-23,Goldman Sachs,53,87
 2017-08-23,IBM,1242,299
 2017-08-23,Intel,47,48
 2017-08-23,Johnson & Johnson,58,113
@@ -11650,8 +11650,8 @@ date,company,re_tweets,likes
 2017-08-24,DowDuPont,0,0
 2017-08-24,ExxonMobil,24,32
 2017-08-24,General Electric,31,55
-2017-08-24,Goldman Sachs,50,96
-2017-08-24,IBM,816,280
+2017-08-24,Goldman Sachs,50,92
+2017-08-24,IBM,817,279
 2017-08-24,Intel,64,89
 2017-08-24,Johnson & Johnson,5,9
 2017-08-24,JPMorgan Chase,21,34
@@ -11660,7 +11660,7 @@ date,company,re_tweets,likes
 2017-08-24,Microsoft,728,997
 2017-08-24,Nike,0,0
 2017-08-24,Pfizer,27,48
-2017-08-24,Procter & Gamble,15,18
+2017-08-24,Procter & Gamble,15,16
 2017-08-24,The Home Depot,286,0
 2017-08-24,Travelers,1857,16
 2017-08-24,United Technologies,13,0
@@ -11669,30 +11669,30 @@ date,company,re_tweets,likes
 2017-08-24,Visa,0,0
 2017-08-24,Walmart,0,0
 2017-08-24,Walt Disney,107,0
-2017-08-25,3M,60,31
+2017-08-25,3M,60,30
 2017-08-25,American Express,7,27
 2017-08-25,Apple,0,0
 2017-08-25,Boeing,11,26
 2017-08-25,Caterpillar,46,141
 2017-08-25,Chevron,38,61
-2017-08-25,Cisco Systems,677,625
+2017-08-25,Cisco Systems,677,624
 2017-08-25,Coca-Cola,0,0
 2017-08-25,DowDuPont,0,0
 2017-08-25,ExxonMobil,64,126
-2017-08-25,General Electric,81,146
-2017-08-25,Goldman Sachs,72,126
-2017-08-25,IBM,837,2859
+2017-08-25,General Electric,81,144
+2017-08-25,Goldman Sachs,72,120
+2017-08-25,IBM,837,2855
 2017-08-25,Intel,51,94
 2017-08-25,Johnson & Johnson,7,16
 2017-08-25,JPMorgan Chase,69,131
 2017-08-25,McDonald's,0,0
 2017-08-25,Merck,10,33
-2017-08-25,Microsoft,2527,1247
+2017-08-25,Microsoft,2526,1247
 2017-08-25,Nike,0,0
 2017-08-25,Pfizer,27,61
 2017-08-25,Procter & Gamble,0,0
 2017-08-25,The Home Depot,29,51
-2017-08-25,Travelers,1598,18
+2017-08-25,Travelers,1597,18
 2017-08-25,United Technologies,3,0
 2017-08-25,UnitedHealth Group,23,32
 2017-08-25,Verizon,0,0
@@ -11710,7 +11710,7 @@ date,company,re_tweets,likes
 2017-08-26,DowDuPont,0,0
 2017-08-26,ExxonMobil,0,0
 2017-08-26,General Electric,0,0
-2017-08-26,Goldman Sachs,15,21
+2017-08-26,Goldman Sachs,15,20
 2017-08-26,IBM,49,67
 2017-08-26,Intel,0,0
 2017-08-26,Johnson & Johnson,22,51
@@ -11718,15 +11718,15 @@ date,company,re_tweets,likes
 2017-08-26,McDonald's,0,0
 2017-08-26,Merck,0,0
 2017-08-26,Microsoft,0,0
-2017-08-26,Nike,1527,4432
+2017-08-26,Nike,1524,4408
 2017-08-26,Pfizer,39,64
 2017-08-26,Procter & Gamble,0,0
 2017-08-26,The Home Depot,31,66
-2017-08-26,Travelers,14839,7
+2017-08-26,Travelers,14830,7
 2017-08-26,United Technologies,2,17
 2017-08-26,UnitedHealth Group,58,43
-2017-08-26,Verizon,870,2223
-2017-08-26,Visa,29,60
+2017-08-26,Verizon,869,2210
+2017-08-26,Visa,30,60
 2017-08-26,Walmart,0,0
 2017-08-26,Walt Disney,1869,0
 2017-08-27,3M,0,0
@@ -11739,7 +11739,7 @@ date,company,re_tweets,likes
 2017-08-27,Coca-Cola,0,0
 2017-08-27,DowDuPont,0,0
 2017-08-27,ExxonMobil,0,0
-2017-08-27,General Electric,89,134
+2017-08-27,General Electric,88,132
 2017-08-27,Goldman Sachs,26,30
 2017-08-27,IBM,95,63
 2017-08-27,Intel,0,0
@@ -11752,9 +11752,9 @@ date,company,re_tweets,likes
 2017-08-27,Pfizer,17,33
 2017-08-27,Procter & Gamble,0,0
 2017-08-27,The Home Depot,107,135
-2017-08-27,Travelers,770,3
+2017-08-27,Travelers,769,3
 2017-08-27,United Technologies,0,0
-2017-08-27,UnitedHealth Group,32,35
+2017-08-27,UnitedHealth Group,17,35
 2017-08-27,Verizon,0,0
 2017-08-27,Visa,0,0
 2017-08-27,Walmart,0,0
@@ -11765,43 +11765,43 @@ date,company,re_tweets,likes
 2017-08-28,Boeing,0,0
 2017-08-28,Caterpillar,31,141
 2017-08-28,Chevron,203,369
-2017-08-28,Cisco Systems,509,647
+2017-08-28,Cisco Systems,509,646
 2017-08-28,Coca-Cola,0,0
 2017-08-28,DowDuPont,0,0
-2017-08-28,ExxonMobil,2656,225
-2017-08-28,General Electric,198,122
+2017-08-28,ExxonMobil,2656,224
+2017-08-28,General Electric,198,121
 2017-08-28,Goldman Sachs,79,85
-2017-08-28,IBM,355,192
-2017-08-28,Intel,298,522
+2017-08-28,IBM,355,191
+2017-08-28,Intel,298,520
 2017-08-28,Johnson & Johnson,23,22
 2017-08-28,JPMorgan Chase,20,16
 2017-08-28,McDonald's,0,0
 2017-08-28,Merck,55,80
-2017-08-28,Microsoft,1538,1836
+2017-08-28,Microsoft,1538,1830
 2017-08-28,Nike,0,0
-2017-08-28,Pfizer,24,72
-2017-08-28,Procter & Gamble,30,8
+2017-08-28,Pfizer,24,71
+2017-08-28,Procter & Gamble,30,6
 2017-08-28,The Home Depot,701,71
 2017-08-28,Travelers,494,17
 2017-08-28,United Technologies,7,0
 2017-08-28,UnitedHealth Group,0,0
-2017-08-28,Verizon,90,213
+2017-08-28,Verizon,89,210
 2017-08-28,Visa,0,0
 2017-08-28,Walmart,0,0
 2017-08-28,Walt Disney,0,0
 2017-08-29,3M,23,33
-2017-08-29,American Express,61,125
+2017-08-29,American Express,61,124
 2017-08-29,Apple,0,0
-2017-08-29,Boeing,277,730
+2017-08-29,Boeing,277,728
 2017-08-29,Caterpillar,15,97
 2017-08-29,Chevron,0,1
 2017-08-29,Cisco Systems,187,317
 2017-08-29,Coca-Cola,0,0
 2017-08-29,DowDuPont,0,0
-2017-08-29,ExxonMobil,220,492
+2017-08-29,ExxonMobil,220,491
 2017-08-29,General Electric,226,476
-2017-08-29,Goldman Sachs,34,76
-2017-08-29,IBM,578,610
+2017-08-29,Goldman Sachs,34,75
+2017-08-29,IBM,577,610
 2017-08-29,Intel,77,124
 2017-08-29,Johnson & Johnson,114,205
 2017-08-29,JPMorgan Chase,34,95
@@ -11828,24 +11828,24 @@ date,company,re_tweets,likes
 2017-08-30,Cisco Systems,128,230
 2017-08-30,Coca-Cola,0,0
 2017-08-30,DowDuPont,0,0
-2017-08-30,ExxonMobil,209,234
+2017-08-30,ExxonMobil,208,234
 2017-08-30,General Electric,107,161
 2017-08-30,Goldman Sachs,13,33
-2017-08-30,IBM,736,331
+2017-08-30,IBM,736,330
 2017-08-30,Intel,56,122
 2017-08-30,Johnson & Johnson,72,66
 2017-08-30,JPMorgan Chase,35,77
 2017-08-30,McDonald's,0,0
 2017-08-30,Merck,0,0
-2017-08-30,Microsoft,4168,3988
+2017-08-30,Microsoft,4170,3982
 2017-08-30,Nike,0,0
 2017-08-30,Pfizer,7,23
-2017-08-30,Procter & Gamble,119,96
+2017-08-30,Procter & Gamble,119,88
 2017-08-30,The Home Depot,55,70
 2017-08-30,Travelers,1073,19
 2017-08-30,United Technologies,0,0
 2017-08-30,UnitedHealth Group,0,0
-2017-08-30,Verizon,1260,4348
+2017-08-30,Verizon,1260,4340
 2017-08-30,Visa,0,0
 2017-08-30,Walmart,0,0
 2017-08-30,Walt Disney,219,0
@@ -11860,11 +11860,11 @@ date,company,re_tweets,likes
 2017-08-31,DowDuPont,0,0
 2017-08-31,ExxonMobil,221,327
 2017-08-31,General Electric,65,118
-2017-08-31,Goldman Sachs,49,19
-2017-08-31,IBM,1676,11136
+2017-08-31,Goldman Sachs,49,18
+2017-08-31,IBM,1674,11123
 2017-08-31,Intel,109,167
 2017-08-31,Johnson & Johnson,52,86
-2017-08-31,JPMorgan Chase,26,82
+2017-08-31,JPMorgan Chase,26,81
 2017-08-31,McDonald's,0,0
 2017-08-31,Merck,48,108
 2017-08-31,Microsoft,3666,476
@@ -11887,20 +11887,20 @@ date,company,re_tweets,likes
 2017-09-01,Chevron,0,0
 2017-09-01,Cisco Systems,318,92
 2017-09-01,Coca-Cola,109,0
-2017-09-01,DowDuPont,762,798
+2017-09-01,DowDuPont,762,797
 2017-09-01,ExxonMobil,336,280
-2017-09-01,General Electric,215,323
-2017-09-01,Goldman Sachs,35,39
+2017-09-01,General Electric,215,322
+2017-09-01,Goldman Sachs,35,37
 2017-09-01,IBM,663,522
 2017-09-01,Intel,125,154
 2017-09-01,Johnson & Johnson,4,6
 2017-09-01,JPMorgan Chase,62,127
 2017-09-01,McDonald's,0,0
-2017-09-01,Merck,345,1175
+2017-09-01,Merck,345,1173
 2017-09-01,Microsoft,2017,0
 2017-09-01,Nike,0,0
 2017-09-01,Pfizer,41,12
-2017-09-01,Procter & Gamble,546,11
+2017-09-01,Procter & Gamble,546,9
 2017-09-01,The Home Depot,0,0
 2017-09-01,Travelers,33,54
 2017-09-01,United Technologies,5,12
@@ -11908,7 +11908,7 @@ date,company,re_tweets,likes
 2017-09-01,Verizon,0,0
 2017-09-01,Visa,0,0
 2017-09-01,Walmart,0,0
-2017-09-01,Walt Disney,3793,0
+2017-09-01,Walt Disney,3804,0
 2017-09-02,3M,0,0
 2017-09-02,American Express,3,0
 2017-09-02,Apple,0,0
@@ -11920,7 +11920,7 @@ date,company,re_tweets,likes
 2017-09-02,DowDuPont,0,0
 2017-09-02,ExxonMobil,155,280
 2017-09-02,General Electric,0,0
-2017-09-02,Goldman Sachs,14,17
+2017-09-02,Goldman Sachs,14,16
 2017-09-02,IBM,111,0
 2017-09-02,Intel,0,0
 2017-09-02,Johnson & Johnson,40,69
@@ -11990,12 +11990,12 @@ date,company,re_tweets,likes
 2017-09-04,Microsoft,0,0
 2017-09-04,Nike,0,0
 2017-09-04,Pfizer,32,42
-2017-09-04,Procter & Gamble,396,33
+2017-09-04,Procter & Gamble,397,31
 2017-09-04,The Home Depot,0,0
 2017-09-04,Travelers,15,16
-2017-09-04,United Technologies,52,57
+2017-09-04,United Technologies,52,56
 2017-09-04,UnitedHealth Group,0,0
-2017-09-04,Verizon,464,2829
+2017-09-04,Verizon,464,2822
 2017-09-04,Visa,0,0
 2017-09-04,Walmart,0,0
 2017-09-04,Walt Disney,180,0
@@ -12006,7 +12006,7 @@ date,company,re_tweets,likes
 2017-09-05,Caterpillar,34,115
 2017-09-05,Chevron,0,1
 2017-09-05,Cisco Systems,289,53
-2017-09-05,Coca-Cola,73,269
+2017-09-05,Coca-Cola,73,268
 2017-09-05,DowDuPont,0,0
 2017-09-05,ExxonMobil,8,36
 2017-09-05,General Electric,46,103
@@ -12016,19 +12016,19 @@ date,company,re_tweets,likes
 2017-09-05,Johnson & Johnson,71,76
 2017-09-05,JPMorgan Chase,75,101
 2017-09-05,McDonald's,0,0
-2017-09-05,Merck,51,82
-2017-09-05,Microsoft,623,248
+2017-09-05,Merck,51,81
+2017-09-05,Microsoft,623,247
 2017-09-05,Nike,0,0
 2017-09-05,Pfizer,16,12
-2017-09-05,Procter & Gamble,130,46
-2017-09-05,The Home Depot,438,1150
-2017-09-05,Travelers,9354,27
+2017-09-05,Procter & Gamble,130,42
+2017-09-05,The Home Depot,438,1148
+2017-09-05,Travelers,9351,27
 2017-09-05,United Technologies,77,166
 2017-09-05,UnitedHealth Group,10,17
-2017-09-05,Verizon,141,614
+2017-09-05,Verizon,141,613
 2017-09-05,Visa,0,0
 2017-09-05,Walmart,0,0
-2017-09-05,Walt Disney,20920,1297
+2017-09-05,Walt Disney,20919,1294
 2017-09-06,3M,8,29
 2017-09-06,American Express,75,54
 2017-09-06,Apple,0,0
@@ -12040,25 +12040,25 @@ date,company,re_tweets,likes
 2017-09-06,DowDuPont,0,0
 2017-09-06,ExxonMobil,76,0
 2017-09-06,General Electric,34,77
-2017-09-06,Goldman Sachs,97,96
+2017-09-06,Goldman Sachs,97,97
 2017-09-06,IBM,649,293
 2017-09-06,Intel,75,87
 2017-09-06,Johnson & Johnson,31,30
 2017-09-06,JPMorgan Chase,59,132
 2017-09-06,McDonald's,0,0
 2017-09-06,Merck,7,19
-2017-09-06,Microsoft,1191,496
-2017-09-06,Nike,3060,6077
+2017-09-06,Microsoft,1191,494
+2017-09-06,Nike,3059,6058
 2017-09-06,Pfizer,94,7
-2017-09-06,Procter & Gamble,36,10
-2017-09-06,The Home Depot,70,133
+2017-09-06,Procter & Gamble,36,8
+2017-09-06,The Home Depot,70,131
 2017-09-06,Travelers,4779,25
 2017-09-06,United Technologies,16,57
 2017-09-06,UnitedHealth Group,0,0
-2017-09-06,Verizon,117,1539
+2017-09-06,Verizon,117,1537
 2017-09-06,Visa,0,0
 2017-09-06,Walmart,0,0
-2017-09-06,Walt Disney,4760,0
+2017-09-06,Walt Disney,4759,0
 2017-09-07,3M,24,69
 2017-09-07,American Express,25,86
 2017-09-07,Apple,0,0
@@ -12069,9 +12069,9 @@ date,company,re_tweets,likes
 2017-09-07,Coca-Cola,0,0
 2017-09-07,DowDuPont,0,0
 2017-09-07,ExxonMobil,94,87
-2017-09-07,General Electric,89,201
+2017-09-07,General Electric,89,200
 2017-09-07,Goldman Sachs,4,12
-2017-09-07,IBM,1176,1881
+2017-09-07,IBM,1176,1874
 2017-09-07,Intel,252,259
 2017-09-07,Johnson & Johnson,54,108
 2017-09-07,JPMorgan Chase,276,461
@@ -12080,16 +12080,16 @@ date,company,re_tweets,likes
 2017-09-07,Microsoft,434,0
 2017-09-07,Nike,0,0
 2017-09-07,Pfizer,37,77
-2017-09-07,Procter & Gamble,168,36
+2017-09-07,Procter & Gamble,168,21
 2017-09-07,The Home Depot,52,0
 2017-09-07,Travelers,1668,33
 2017-09-07,United Technologies,11,32
 2017-09-07,UnitedHealth Group,31,10
-2017-09-07,Verizon,778,1577
+2017-09-07,Verizon,778,1572
 2017-09-07,Visa,32,0
 2017-09-07,Walmart,0,0
 2017-09-07,Walt Disney,0,0
-2017-09-08,3M,10,31
+2017-09-08,3M,10,30
 2017-09-08,American Express,4,30
 2017-09-08,Apple,0,0
 2017-09-08,Boeing,79,174
@@ -12099,23 +12099,23 @@ date,company,re_tweets,likes
 2017-09-08,Coca-Cola,0,0
 2017-09-08,DowDuPont,49,79
 2017-09-08,ExxonMobil,43,127
-2017-09-08,General Electric,218,383
-2017-09-08,Goldman Sachs,122,322
+2017-09-08,General Electric,218,379
+2017-09-08,Goldman Sachs,122,320
 2017-09-08,IBM,1303,181
 2017-09-08,Intel,61,83
 2017-09-08,Johnson & Johnson,49,95
 2017-09-08,JPMorgan Chase,61,132
 2017-09-08,McDonald's,0,0
 2017-09-08,Merck,48,88
-2017-09-08,Microsoft,123,366
+2017-09-08,Microsoft,123,364
 2017-09-08,Nike,0,0
-2017-09-08,Pfizer,116,303
-2017-09-08,Procter & Gamble,46,19
+2017-09-08,Pfizer,116,302
+2017-09-08,Procter & Gamble,46,18
 2017-09-08,The Home Depot,137,115
-2017-09-08,Travelers,13226,28
-2017-09-08,United Technologies,13,60
+2017-09-08,Travelers,13224,28
+2017-09-08,United Technologies,13,59
 2017-09-08,UnitedHealth Group,72,0
-2017-09-08,Verizon,15,39
+2017-09-08,Verizon,15,38
 2017-09-08,Visa,31,0
 2017-09-08,Walmart,0,0
 2017-09-08,Walt Disney,372,0
@@ -12134,7 +12134,7 @@ date,company,re_tweets,likes
 2017-09-09,IBM,204,0
 2017-09-09,Intel,0,0
 2017-09-09,Johnson & Johnson,21,48
-2017-09-09,JPMorgan Chase,34,140
+2017-09-09,JPMorgan Chase,34,139
 2017-09-09,McDonald's,0,0
 2017-09-09,Merck,47,62
 2017-09-09,Microsoft,501,1420
@@ -12161,15 +12161,15 @@ date,company,re_tweets,likes
 2017-09-10,ExxonMobil,34,98
 2017-09-10,General Electric,0,0
 2017-09-10,Goldman Sachs,0,0
-2017-09-10,IBM,753,1014
+2017-09-10,IBM,753,1013
 2017-09-10,Intel,0,0
 2017-09-10,Johnson & Johnson,12,35
 2017-09-10,JPMorgan Chase,12,44
 2017-09-10,McDonald's,0,0
 2017-09-10,Merck,9,13
 2017-09-10,Microsoft,0,0
-2017-09-10,Nike,4767,10798
-2017-09-10,Pfizer,28,55
+2017-09-10,Nike,4767,10776
+2017-09-10,Pfizer,28,54
 2017-09-10,Procter & Gamble,0,0
 2017-09-10,The Home Depot,36,106
 2017-09-10,Travelers,1044,0
@@ -12183,29 +12183,29 @@ date,company,re_tweets,likes
 2017-09-11,American Express,79,247
 2017-09-11,Apple,0,0
 2017-09-11,Boeing,0,0
-2017-09-11,Caterpillar,23,82
+2017-09-11,Caterpillar,23,81
 2017-09-11,Chevron,0,6
 2017-09-11,Cisco Systems,190,53
 2017-09-11,Coca-Cola,0,0
 2017-09-11,DowDuPont,0,0
-2017-09-11,ExxonMobil,1255,125
+2017-09-11,ExxonMobil,1254,125
 2017-09-11,General Electric,68,129
-2017-09-11,Goldman Sachs,230,360
+2017-09-11,Goldman Sachs,230,358
 2017-09-11,IBM,391,361
 2017-09-11,Intel,0,0
-2017-09-11,Johnson & Johnson,38675,61
+2017-09-11,Johnson & Johnson,38671,61
 2017-09-11,JPMorgan Chase,17,28
 2017-09-11,McDonald's,0,0
 2017-09-11,Merck,47,127
 2017-09-11,Microsoft,740,0
 2017-09-11,Nike,0,0
 2017-09-11,Pfizer,43,133
-2017-09-11,Procter & Gamble,145,104
+2017-09-11,Procter & Gamble,145,100
 2017-09-11,The Home Depot,307,109
 2017-09-11,Travelers,338,48
 2017-09-11,United Technologies,9,63
 2017-09-11,UnitedHealth Group,0,0
-2017-09-11,Verizon,92,269
+2017-09-11,Verizon,92,270
 2017-09-11,Visa,0,0
 2017-09-11,Walmart,0,0
 2017-09-11,Walt Disney,0,0
@@ -12219,9 +12219,9 @@ date,company,re_tweets,likes
 2017-09-12,Coca-Cola,0,0
 2017-09-12,DowDuPont,63,72
 2017-09-12,ExxonMobil,33,90
-2017-09-12,General Electric,78,100
+2017-09-12,General Electric,78,99
 2017-09-12,Goldman Sachs,95,121
-2017-09-12,IBM,701,331
+2017-09-12,IBM,701,329
 2017-09-12,Intel,68,65
 2017-09-12,Johnson & Johnson,54,103
 2017-09-12,JPMorgan Chase,18,27
@@ -12235,10 +12235,10 @@ date,company,re_tweets,likes
 2017-09-12,Travelers,2,3
 2017-09-12,United Technologies,26,65
 2017-09-12,UnitedHealth Group,23,19
-2017-09-12,Verizon,475,1855
+2017-09-12,Verizon,475,1856
 2017-09-12,Visa,0,0
 2017-09-12,Walmart,0,0
-2017-09-12,Walt Disney,559,0
+2017-09-12,Walt Disney,562,0
 2017-09-13,3M,8,42
 2017-09-13,American Express,16,71
 2017-09-13,Apple,0,0
@@ -12260,15 +12260,15 @@ date,company,re_tweets,likes
 2017-09-13,Microsoft,350,534
 2017-09-13,Nike,0,0
 2017-09-13,Pfizer,61,125
-2017-09-13,Procter & Gamble,119,92
+2017-09-13,Procter & Gamble,119,79
 2017-09-13,The Home Depot,23,0
-2017-09-13,Travelers,1231,11
+2017-09-13,Travelers,1230,11
 2017-09-13,United Technologies,10,4
 2017-09-13,UnitedHealth Group,0,0
 2017-09-13,Verizon,624,153
 2017-09-13,Visa,0,0
 2017-09-13,Walmart,0,0
-2017-09-13,Walt Disney,2163,0
+2017-09-13,Walt Disney,2172,0
 2017-09-14,3M,14,51
 2017-09-14,American Express,0,0
 2017-09-14,Apple,0,0
@@ -12287,17 +12287,17 @@ date,company,re_tweets,likes
 2017-09-14,JPMorgan Chase,132,54
 2017-09-14,McDonald's,0,0
 2017-09-14,Merck,31,63
-2017-09-14,Microsoft,194,482
+2017-09-14,Microsoft,194,481
 2017-09-14,Nike,1738,0
 2017-09-14,Pfizer,92,188
-2017-09-14,Procter & Gamble,63,63
+2017-09-14,Procter & Gamble,63,61
 2017-09-14,The Home Depot,0,0
 2017-09-14,Travelers,23,25
 2017-09-14,United Technologies,21,0
 2017-09-14,UnitedHealth Group,52,60
 2017-09-14,Verizon,149,515
 2017-09-14,Visa,705,0
-2017-09-14,Walmart,104,144
+2017-09-14,Walmart,0,0
 2017-09-14,Walt Disney,0,0
 2017-09-15,3M,0,0
 2017-09-15,American Express,12,35
@@ -12314,11 +12314,11 @@ date,company,re_tweets,likes
 2017-09-15,IBM,1388,466
 2017-09-15,Intel,394,2064
 2017-09-15,Johnson & Johnson,43,67
-2017-09-15,JPMorgan Chase,58,195
+2017-09-15,JPMorgan Chase,58,194
 2017-09-15,McDonald's,0,0
 2017-09-15,Merck,2,10
 2017-09-15,Microsoft,256,601
-2017-09-15,Nike,475,2035
+2017-09-15,Nike,475,2033
 2017-09-15,Pfizer,26,34
 2017-09-15,Procter & Gamble,0,0
 2017-09-15,The Home Depot,0,0
@@ -12327,7 +12327,7 @@ date,company,re_tweets,likes
 2017-09-15,UnitedHealth Group,0,0
 2017-09-15,Verizon,36,74
 2017-09-15,Visa,0,0
-2017-09-15,Walmart,151,71
+2017-09-15,Walmart,0,0
 2017-09-15,Walt Disney,631,638
 2017-09-16,3M,0,0
 2017-09-16,American Express,18,72
@@ -12348,7 +12348,7 @@ date,company,re_tweets,likes
 2017-09-16,McDonald's,0,0
 2017-09-16,Merck,0,0
 2017-09-16,Microsoft,0,0
-2017-09-16,Nike,38752,11574
+2017-09-16,Nike,38754,11576
 2017-09-16,Pfizer,12,33
 2017-09-16,Procter & Gamble,0,0
 2017-09-16,The Home Depot,0,0
@@ -12357,8 +12357,8 @@ date,company,re_tweets,likes
 2017-09-16,UnitedHealth Group,0,0
 2017-09-16,Verizon,0,0
 2017-09-16,Visa,0,0
-2017-09-16,Walmart,13,41
-2017-09-16,Walt Disney,294,0
+2017-09-16,Walmart,0,0
+2017-09-16,Walt Disney,295,0
 2017-09-17,3M,31,71
 2017-09-17,American Express,0,0
 2017-09-17,Apple,0,0
@@ -12378,7 +12378,7 @@ date,company,re_tweets,likes
 2017-09-17,McDonald's,0,0
 2017-09-17,Merck,7,10
 2017-09-17,Microsoft,0,0
-2017-09-17,Nike,797,2257
+2017-09-17,Nike,797,2255
 2017-09-17,Pfizer,61,121
 2017-09-17,Procter & Gamble,0,0
 2017-09-17,The Home Depot,0,0
@@ -12396,7 +12396,7 @@ date,company,re_tweets,likes
 2017-09-18,Caterpillar,21,87
 2017-09-18,Chevron,27,51
 2017-09-18,Cisco Systems,308,350
-2017-09-18,Coca-Cola,520,4172
+2017-09-18,Coca-Cola,520,4171
 2017-09-18,DowDuPont,0,0
 2017-09-18,ExxonMobil,36,76
 2017-09-18,General Electric,129,201
@@ -12410,7 +12410,7 @@ date,company,re_tweets,likes
 2017-09-18,Microsoft,1388,1196
 2017-09-18,Nike,0,0
 2017-09-18,Pfizer,25,45
-2017-09-18,Procter & Gamble,17,12
+2017-09-18,Procter & Gamble,17,11
 2017-09-18,The Home Depot,0,0
 2017-09-18,Travelers,3,5
 2017-09-18,United Technologies,31,51
@@ -12429,7 +12429,7 @@ date,company,re_tweets,likes
 2017-09-19,Coca-Cola,0,0
 2017-09-19,DowDuPont,0,0
 2017-09-19,ExxonMobil,0,0
-2017-09-19,General Electric,189,554
+2017-09-19,General Electric,189,553
 2017-09-19,Goldman Sachs,61,96
 2017-09-19,IBM,575,606
 2017-09-19,Intel,128,185
@@ -12437,10 +12437,10 @@ date,company,re_tweets,likes
 2017-09-19,JPMorgan Chase,127,219
 2017-09-19,McDonald's,0,0
 2017-09-19,Merck,92,204
-2017-09-19,Microsoft,159,305
+2017-09-19,Microsoft,159,304
 2017-09-19,Nike,0,0
 2017-09-19,Pfizer,36,69
-2017-09-19,Procter & Gamble,231,14
+2017-09-19,Procter & Gamble,231,12
 2017-09-19,The Home Depot,89,257
 2017-09-19,Travelers,25,17
 2017-09-19,United Technologies,9,18
@@ -12467,7 +12467,7 @@ date,company,re_tweets,likes
 2017-09-20,JPMorgan Chase,60,217
 2017-09-20,McDonald's,0,0
 2017-09-20,Merck,20,72
-2017-09-20,Microsoft,1733,137
+2017-09-20,Microsoft,1733,136
 2017-09-20,Nike,0,0
 2017-09-20,Pfizer,10,33
 2017-09-20,Procter & Gamble,137,0
@@ -12486,12 +12486,12 @@ date,company,re_tweets,likes
 2017-09-21,Caterpillar,29,127
 2017-09-21,Chevron,0,2
 2017-09-21,Cisco Systems,60,98
-2017-09-21,Coca-Cola,121,408
+2017-09-21,Coca-Cola,121,407
 2017-09-21,DowDuPont,0,0
 2017-09-21,ExxonMobil,29,63
 2017-09-21,General Electric,271,507
 2017-09-21,Goldman Sachs,54,99
-2017-09-21,IBM,654,1373
+2017-09-21,IBM,654,1372
 2017-09-21,Intel,0,0
 2017-09-21,Johnson & Johnson,167,176
 2017-09-21,JPMorgan Chase,56,217
@@ -12500,13 +12500,13 @@ date,company,re_tweets,likes
 2017-09-21,Microsoft,895,0
 2017-09-21,Nike,0,0
 2017-09-21,Pfizer,60,159
-2017-09-21,Procter & Gamble,137,36
-2017-09-21,The Home Depot,359,1023
+2017-09-21,Procter & Gamble,137,34
+2017-09-21,The Home Depot,359,1022
 2017-09-21,Travelers,24,15
 2017-09-21,United Technologies,0,0
 2017-09-21,UnitedHealth Group,15,0
 2017-09-21,Verizon,115,286
-2017-09-21,Visa,302,2042
+2017-09-21,Visa,303,2041
 2017-09-21,Walmart,95,27
 2017-09-21,Walt Disney,0,0
 2017-09-22,3M,11,41
@@ -12519,7 +12519,7 @@ date,company,re_tweets,likes
 2017-09-22,Coca-Cola,0,0
 2017-09-22,DowDuPont,0,0
 2017-09-22,ExxonMobil,33,61
-2017-09-22,General Electric,161,331
+2017-09-22,General Electric,161,328
 2017-09-22,Goldman Sachs,35,51
 2017-09-22,IBM,996,1932
 2017-09-22,Intel,56,73
@@ -12527,9 +12527,9 @@ date,company,re_tweets,likes
 2017-09-22,JPMorgan Chase,215,1036
 2017-09-22,McDonald's,0,0
 2017-09-22,Merck,106,188
-2017-09-22,Microsoft,1655,1989
-2017-09-22,Nike,751,1900
-2017-09-22,Pfizer,27,33
+2017-09-22,Microsoft,1653,1988
+2017-09-22,Nike,752,1900
+2017-09-22,Pfizer,27,34
 2017-09-22,Procter & Gamble,425,0
 2017-09-22,The Home Depot,18,50
 2017-09-22,Travelers,43,29
@@ -12546,7 +12546,7 @@ date,company,re_tweets,likes
 2017-09-23,Caterpillar,32,123
 2017-09-23,Chevron,0,0
 2017-09-23,Cisco Systems,31,62
-2017-09-23,Coca-Cola,708,3422
+2017-09-23,Coca-Cola,707,3422
 2017-09-23,DowDuPont,0,0
 2017-09-23,ExxonMobil,0,0
 2017-09-23,General Electric,0,0
@@ -12557,7 +12557,7 @@ date,company,re_tweets,likes
 2017-09-23,JPMorgan Chase,155,631
 2017-09-23,McDonald's,0,0
 2017-09-23,Merck,0,0
-2017-09-23,Microsoft,262,744
+2017-09-23,Microsoft,262,742
 2017-09-23,Nike,0,0
 2017-09-23,Pfizer,19,59
 2017-09-23,Procter & Gamble,0,0
@@ -12617,10 +12617,10 @@ date,company,re_tweets,likes
 2017-09-25,JPMorgan Chase,71,85
 2017-09-25,McDonald's,0,0
 2017-09-25,Merck,26,43
-2017-09-25,Microsoft,9039,9445
+2017-09-25,Microsoft,9037,9446
 2017-09-25,Nike,0,0
 2017-09-25,Pfizer,22,34
-2017-09-25,Procter & Gamble,553,38
+2017-09-25,Procter & Gamble,553,34
 2017-09-25,The Home Depot,77,253
 2017-09-25,Travelers,53,12
 2017-09-25,United Technologies,23,62
@@ -12647,10 +12647,10 @@ date,company,re_tweets,likes
 2017-09-26,JPMorgan Chase,38,131
 2017-09-26,McDonald's,0,0
 2017-09-26,Merck,57,111
-2017-09-26,Microsoft,3636,1614
+2017-09-26,Microsoft,3635,1613
 2017-09-26,Nike,0,0
 2017-09-26,Pfizer,411,302
-2017-09-26,Procter & Gamble,130,43
+2017-09-26,Procter & Gamble,130,39
 2017-09-26,The Home Depot,36,114
 2017-09-26,Travelers,7,9
 2017-09-26,United Technologies,1,9
@@ -12666,26 +12666,26 @@ date,company,re_tweets,likes
 2017-09-27,Caterpillar,34,116
 2017-09-27,Chevron,0,0
 2017-09-27,Cisco Systems,96,153
-2017-09-27,Coca-Cola,1096,4953
+2017-09-27,Coca-Cola,1095,4954
 2017-09-27,DowDuPont,0,0
 2017-09-27,ExxonMobil,49,142
-2017-09-27,General Electric,75,134
+2017-09-27,General Electric,75,135
 2017-09-27,Goldman Sachs,23,40
 2017-09-27,IBM,187,149
 2017-09-27,Intel,0,0
-2017-09-27,Johnson & Johnson,116,115
+2017-09-27,Johnson & Johnson,117,116
 2017-09-27,JPMorgan Chase,155,425
 2017-09-27,McDonald's,0,0
-2017-09-27,Merck,63,132
-2017-09-27,Microsoft,799,826
+2017-09-27,Merck,63,131
+2017-09-27,Microsoft,798,825
 2017-09-27,Nike,0,0
 2017-09-27,Pfizer,38,96
-2017-09-27,Procter & Gamble,66,26
+2017-09-27,Procter & Gamble,66,23
 2017-09-27,The Home Depot,58,163
 2017-09-27,Travelers,51,17
 2017-09-27,United Technologies,20,41
 2017-09-27,UnitedHealth Group,6,7
-2017-09-27,Verizon,329,3083
+2017-09-27,Verizon,329,3081
 2017-09-27,Visa,0,0
 2017-09-27,Walmart,938,0
 2017-09-27,Walt Disney,0,0
@@ -12707,10 +12707,10 @@ date,company,re_tweets,likes
 2017-09-28,JPMorgan Chase,30,46
 2017-09-28,McDonald's,0,0
 2017-09-28,Merck,28,55
-2017-09-28,Microsoft,481,765
+2017-09-28,Microsoft,481,764
 2017-09-28,Nike,0,0
 2017-09-28,Pfizer,19,50
-2017-09-28,Procter & Gamble,73,10
+2017-09-28,Procter & Gamble,73,8
 2017-09-28,The Home Depot,23,60
 2017-09-28,Travelers,21,12
 2017-09-28,United Technologies,0,0
@@ -12740,7 +12740,7 @@ date,company,re_tweets,likes
 2017-09-29,Microsoft,483,524
 2017-09-29,Nike,0,0
 2017-09-29,Pfizer,83,188
-2017-09-29,Procter & Gamble,54,7
+2017-09-29,Procter & Gamble,54,3
 2017-09-29,The Home Depot,259,371
 2017-09-29,Travelers,18,6
 2017-09-29,United Technologies,12,0
@@ -12764,7 +12764,7 @@ date,company,re_tweets,likes
 2017-09-30,IBM,0,0
 2017-09-30,Intel,0,0
 2017-09-30,Johnson & Johnson,18,25
-2017-09-30,JPMorgan Chase,495,1276
+2017-09-30,JPMorgan Chase,495,1277
 2017-09-30,McDonald's,0,0
 2017-09-30,Merck,0,0
 2017-09-30,Microsoft,257,252
@@ -12778,7 +12778,7 @@ date,company,re_tweets,likes
 2017-09-30,Verizon,0,0
 2017-09-30,Visa,0,0
 2017-09-30,Walmart,0,0
-2017-09-30,Walt Disney,1076,0
+2017-09-30,Walt Disney,1077,0
 2017-10-01,3M,0,0
 2017-10-01,American Express,3,17
 2017-10-01,Apple,0,0
@@ -12800,7 +12800,7 @@ date,company,re_tweets,likes
 2017-10-01,Microsoft,175,0
 2017-10-01,Nike,0,0
 2017-10-01,Pfizer,10,16
-2017-10-01,Procter & Gamble,26,27
+2017-10-01,Procter & Gamble,26,25
 2017-10-01,The Home Depot,0,0
 2017-10-01,Travelers,5,6
 2017-10-01,United Technologies,0,0
@@ -12830,7 +12830,7 @@ date,company,re_tweets,likes
 2017-10-02,Microsoft,101,0
 2017-10-02,Nike,0,0
 2017-10-02,Pfizer,23,41
-2017-10-02,Procter & Gamble,32,10
+2017-10-02,Procter & Gamble,32,8
 2017-10-02,The Home Depot,0,0
 2017-10-02,Travelers,0,0
 2017-10-02,United Technologies,11,33
@@ -12840,7 +12840,7 @@ date,company,re_tweets,likes
 2017-10-02,Walmart,0,0
 2017-10-02,Walt Disney,0,0
 2017-10-03,3M,19,29
-2017-10-03,American Express,212,117
+2017-10-03,American Express,213,117
 2017-10-03,Apple,0,0
 2017-10-03,Boeing,0,0
 2017-10-03,Caterpillar,60,253
@@ -12860,7 +12860,7 @@ date,company,re_tweets,likes
 2017-10-03,Microsoft,2502,1315
 2017-10-03,Nike,0,0
 2017-10-03,Pfizer,11,15
-2017-10-03,Procter & Gamble,74,110
+2017-10-03,Procter & Gamble,74,103
 2017-10-03,The Home Depot,0,0
 2017-10-03,Travelers,20,13
 2017-10-03,United Technologies,8,34
@@ -12876,7 +12876,7 @@ date,company,re_tweets,likes
 2017-10-04,Caterpillar,23,89
 2017-10-04,Chevron,15,36
 2017-10-04,Cisco Systems,53,88
-2017-10-04,Coca-Cola,83,286
+2017-10-04,Coca-Cola,83,288
 2017-10-04,DowDuPont,0,0
 2017-10-04,ExxonMobil,59,78
 2017-10-04,General Electric,58,101
@@ -12897,10 +12897,10 @@ date,company,re_tweets,likes
 2017-10-04,UnitedHealth Group,6,0
 2017-10-04,Verizon,51,63
 2017-10-04,Visa,0,0
-2017-10-04,Walmart,1174,28
-2017-10-04,Walt Disney,215,0
+2017-10-04,Walmart,1173,28
+2017-10-04,Walt Disney,216,0
 2017-10-05,3M,0,0
-2017-10-05,American Express,22,79
+2017-10-05,American Express,22,80
 2017-10-05,Apple,0,0
 2017-10-05,Boeing,112,252
 2017-10-05,Caterpillar,35,140
@@ -12920,7 +12920,7 @@ date,company,re_tweets,likes
 2017-10-05,Microsoft,952,1652
 2017-10-05,Nike,0,0
 2017-10-05,Pfizer,52,108
-2017-10-05,Procter & Gamble,397,186
+2017-10-05,Procter & Gamble,397,162
 2017-10-05,The Home Depot,0,0
 2017-10-05,Travelers,24,24
 2017-10-05,United Technologies,12,15
@@ -12941,13 +12941,13 @@ date,company,re_tweets,likes
 2017-10-06,ExxonMobil,45,80
 2017-10-06,General Electric,104,250
 2017-10-06,Goldman Sachs,67,100
-2017-10-06,IBM,823,1532
+2017-10-06,IBM,823,1530
 2017-10-06,Intel,54,82
 2017-10-06,Johnson & Johnson,65,136
 2017-10-06,JPMorgan Chase,45,74
 2017-10-06,McDonald's,0,0
 2017-10-06,Merck,18,31
-2017-10-06,Microsoft,742,1183
+2017-10-06,Microsoft,741,1181
 2017-10-06,Nike,0,0
 2017-10-06,Pfizer,19,47
 2017-10-06,Procter & Gamble,0,0
@@ -12957,7 +12957,7 @@ date,company,re_tweets,likes
 2017-10-06,UnitedHealth Group,0,0
 2017-10-06,Verizon,26,58
 2017-10-06,Visa,0,0
-2017-10-06,Walmart,71,181
+2017-10-06,Walmart,70,182
 2017-10-06,Walt Disney,0,0
 2017-10-07,3M,0,0
 2017-10-07,American Express,12,36
@@ -12988,7 +12988,7 @@ date,company,re_tweets,likes
 2017-10-07,Verizon,0,0
 2017-10-07,Visa,0,0
 2017-10-07,Walmart,23,0
-2017-10-07,Walt Disney,667,0
+2017-10-07,Walt Disney,669,0
 2017-10-08,3M,0,0
 2017-10-08,American Express,8,15
 2017-10-08,Apple,0,0
@@ -13008,9 +13008,9 @@ date,company,re_tweets,likes
 2017-10-08,McDonald's,0,0
 2017-10-08,Merck,68,196
 2017-10-08,Microsoft,77,301
-2017-10-08,Nike,337,1050
+2017-10-08,Nike,338,1048
 2017-10-08,Pfizer,28,43
-2017-10-08,Procter & Gamble,101,20
+2017-10-08,Procter & Gamble,101,18
 2017-10-08,The Home Depot,0,0
 2017-10-08,Travelers,29,17
 2017-10-08,United Technologies,0,0
@@ -13018,8 +13018,8 @@ date,company,re_tweets,likes
 2017-10-08,Verizon,3,18
 2017-10-08,Visa,0,0
 2017-10-08,Walmart,9,29
-2017-10-08,Walt Disney,2524,6772
-2017-10-09,3M,60,99
+2017-10-08,Walt Disney,2524,6773
+2017-10-09,3M,62,101
 2017-10-09,American Express,10,45
 2017-10-09,Apple,0,0
 2017-10-09,Boeing,0,0
@@ -13029,18 +13029,18 @@ date,company,re_tweets,likes
 2017-10-09,Coca-Cola,0,0
 2017-10-09,DowDuPont,0,0
 2017-10-09,ExxonMobil,9,57
-2017-10-09,General Electric,731,2352
+2017-10-09,General Electric,731,2353
 2017-10-09,Goldman Sachs,88,348
 2017-10-09,IBM,1091,628
-2017-10-09,Intel,677,1594
+2017-10-09,Intel,677,1595
 2017-10-09,Johnson & Johnson,56,149
 2017-10-09,JPMorgan Chase,41,66
 2017-10-09,McDonald's,0,0
 2017-10-09,Merck,2,9
-2017-10-09,Microsoft,502,565
+2017-10-09,Microsoft,502,564
 2017-10-09,Nike,0,0
 2017-10-09,Pfizer,22,53
-2017-10-09,Procter & Gamble,73,20
+2017-10-09,Procter & Gamble,73,17
 2017-10-09,The Home Depot,26,90
 2017-10-09,Travelers,24,17
 2017-10-09,United Technologies,34,87
@@ -13052,7 +13052,7 @@ date,company,re_tweets,likes
 2017-10-10,3M,6,20
 2017-10-10,American Express,39,41
 2017-10-10,Apple,0,0
-2017-10-10,Boeing,66,239
+2017-10-10,Boeing,66,237
 2017-10-10,Caterpillar,32,149
 2017-10-10,Chevron,0,0
 2017-10-10,Cisco Systems,203,283
@@ -13062,23 +13062,23 @@ date,company,re_tweets,likes
 2017-10-10,General Electric,493,997
 2017-10-10,Goldman Sachs,101,127
 2017-10-10,IBM,518,394
-2017-10-10,Intel,1486,9641
+2017-10-10,Intel,1486,9640
 2017-10-10,Johnson & Johnson,57,141
 2017-10-10,JPMorgan Chase,57,118
 2017-10-10,McDonald's,0,0
 2017-10-10,Merck,60,159
-2017-10-10,Microsoft,528,264
+2017-10-10,Microsoft,528,263
 2017-10-10,Nike,0,0
 2017-10-10,Pfizer,56,88
-2017-10-10,Procter & Gamble,180,178
-2017-10-10,The Home Depot,53,73
+2017-10-10,Procter & Gamble,180,162
+2017-10-10,The Home Depot,54,73
 2017-10-10,Travelers,1509,21
 2017-10-10,United Technologies,0,0
 2017-10-10,UnitedHealth Group,5,3
-2017-10-10,Verizon,182198,245
+2017-10-10,Verizon,182189,245
 2017-10-10,Visa,0,0
 2017-10-10,Walmart,54,91
-2017-10-10,Walt Disney,65347,4807
+2017-10-10,Walt Disney,65328,4807
 2017-10-11,3M,0,0
 2017-10-11,American Express,13,58
 2017-10-11,Apple,0,0
@@ -13089,10 +13089,10 @@ date,company,re_tweets,likes
 2017-10-11,Coca-Cola,0,0
 2017-10-11,DowDuPont,0,0
 2017-10-11,ExxonMobil,0,0
-2017-10-11,General Electric,861,1938
+2017-10-11,General Electric,861,1940
 2017-10-11,Goldman Sachs,66,135
 2017-10-11,IBM,967,980
-2017-10-11,Intel,679,3760
+2017-10-11,Intel,679,3758
 2017-10-11,Johnson & Johnson,39,76
 2017-10-11,JPMorgan Chase,32,55
 2017-10-11,McDonald's,0,0
@@ -13100,7 +13100,7 @@ date,company,re_tweets,likes
 2017-10-11,Microsoft,428,120
 2017-10-11,Nike,0,0
 2017-10-11,Pfizer,48,121
-2017-10-11,Procter & Gamble,68,43
+2017-10-11,Procter & Gamble,68,41
 2017-10-11,The Home Depot,0,0
 2017-10-11,Travelers,23,15
 2017-10-11,United Technologies,21,53
@@ -13115,7 +13115,7 @@ date,company,re_tweets,likes
 2017-10-12,Boeing,0,0
 2017-10-12,Caterpillar,51,191
 2017-10-12,Chevron,42,65
-2017-10-12,Cisco Systems,83,132
+2017-10-12,Cisco Systems,83,133
 2017-10-12,Coca-Cola,0,0
 2017-10-12,DowDuPont,0,0
 2017-10-12,ExxonMobil,0,0
@@ -13128,17 +13128,17 @@ date,company,re_tweets,likes
 2017-10-12,McDonald's,0,0
 2017-10-12,Merck,85,173
 2017-10-12,Microsoft,679,146
-2017-10-12,Nike,280,688
+2017-10-12,Nike,279,690
 2017-10-12,Pfizer,53,89
-2017-10-12,Procter & Gamble,276,93
-2017-10-12,The Home Depot,164,137
+2017-10-12,Procter & Gamble,276,89
+2017-10-12,The Home Depot,165,137
 2017-10-12,Travelers,25,19
 2017-10-12,United Technologies,26,14
 2017-10-12,UnitedHealth Group,5,10
 2017-10-12,Verizon,6,0
 2017-10-12,Visa,0,0
 2017-10-12,Walmart,8,32
-2017-10-12,Walt Disney,185,355
+2017-10-12,Walt Disney,185,354
 2017-10-13,3M,13,18
 2017-10-13,American Express,26,68
 2017-10-13,Apple,0,0
@@ -13149,7 +13149,7 @@ date,company,re_tweets,likes
 2017-10-13,Coca-Cola,0,0
 2017-10-13,DowDuPont,0,0
 2017-10-13,ExxonMobil,27,56
-2017-10-13,General Electric,265,564
+2017-10-13,General Electric,265,563
 2017-10-13,Goldman Sachs,84,181
 2017-10-13,IBM,803,532
 2017-10-13,Intel,0,0
@@ -13167,7 +13167,7 @@ date,company,re_tweets,likes
 2017-10-13,UnitedHealth Group,0,0
 2017-10-13,Verizon,0,0
 2017-10-13,Visa,0,0
-2017-10-13,Walmart,90,148
+2017-10-13,Walmart,90,149
 2017-10-13,Walt Disney,0,0
 2017-10-14,3M,33,147
 2017-10-14,American Express,3,15
@@ -13198,7 +13198,7 @@ date,company,re_tweets,likes
 2017-10-14,Verizon,0,0
 2017-10-14,Visa,0,0
 2017-10-14,Walmart,89,303
-2017-10-14,Walt Disney,698,969
+2017-10-14,Walt Disney,699,969
 2017-10-15,3M,13,39
 2017-10-15,American Express,0,0
 2017-10-15,Apple,0,0
@@ -13229,7 +13229,7 @@ date,company,re_tweets,likes
 2017-10-15,Visa,0,0
 2017-10-15,Walmart,246,663
 2017-10-15,Walt Disney,0,0
-2017-10-16,3M,716,702
+2017-10-16,3M,716,698
 2017-10-16,American Express,22,69
 2017-10-16,Apple,0,0
 2017-10-16,Boeing,0,0
@@ -13240,8 +13240,8 @@ date,company,re_tweets,likes
 2017-10-16,DowDuPont,0,0
 2017-10-16,ExxonMobil,13,60
 2017-10-16,General Electric,143,383
-2017-10-16,Goldman Sachs,189,342
-2017-10-16,IBM,878,873
+2017-10-16,Goldman Sachs,189,341
+2017-10-16,IBM,880,875
 2017-10-16,Intel,0,0
 2017-10-16,Johnson & Johnson,48,88
 2017-10-16,JPMorgan Chase,77,186
@@ -13251,15 +13251,15 @@ date,company,re_tweets,likes
 2017-10-16,Nike,0,0
 2017-10-16,Pfizer,9,36
 2017-10-16,Procter & Gamble,0,0
-2017-10-16,The Home Depot,21,76
+2017-10-16,The Home Depot,22,76
 2017-10-16,Travelers,30,13
 2017-10-16,United Technologies,0,6
 2017-10-16,UnitedHealth Group,1,0
 2017-10-16,Verizon,16,17
 2017-10-16,Visa,0,0
 2017-10-16,Walmart,25,72
-2017-10-16,Walt Disney,625,1039
-2017-10-17,3M,114,14
+2017-10-16,Walt Disney,627,1039
+2017-10-17,3M,114,13
 2017-10-17,American Express,11,66
 2017-10-17,Apple,0,0
 2017-10-17,Boeing,518,788
@@ -13269,18 +13269,18 @@ date,company,re_tweets,likes
 2017-10-17,Coca-Cola,0,0
 2017-10-17,DowDuPont,0,0
 2017-10-17,ExxonMobil,32,106
-2017-10-17,General Electric,32,60
+2017-10-17,General Electric,32,59
 2017-10-17,Goldman Sachs,175,327
-2017-10-17,IBM,803,1485
-2017-10-17,Intel,1746,702
+2017-10-17,IBM,802,1484
+2017-10-17,Intel,1745,703
 2017-10-17,Johnson & Johnson,40,96
-2017-10-17,JPMorgan Chase,175,265
+2017-10-17,JPMorgan Chase,175,264
 2017-10-17,McDonald's,0,0
 2017-10-17,Merck,44,85
 2017-10-17,Microsoft,2714,495
-2017-10-17,Nike,14058,46209
+2017-10-17,Nike,14068,46208
 2017-10-17,Pfizer,30,82
-2017-10-17,Procter & Gamble,49,19
+2017-10-17,Procter & Gamble,49,17
 2017-10-17,The Home Depot,0,0
 2017-10-17,Travelers,23,14
 2017-10-17,United Technologies,0,0
@@ -13288,8 +13288,8 @@ date,company,re_tweets,likes
 2017-10-17,Verizon,17,49
 2017-10-17,Visa,0,0
 2017-10-17,Walmart,84,292
-2017-10-17,Walt Disney,19433,0
-2017-10-18,3M,728,1501
+2017-10-17,Walt Disney,19432,0
+2017-10-18,3M,728,1499
 2017-10-18,American Express,72,130
 2017-10-18,Apple,0,0
 2017-10-18,Boeing,21,76
@@ -13299,15 +13299,15 @@ date,company,re_tweets,likes
 2017-10-18,Coca-Cola,0,0
 2017-10-18,DowDuPont,0,0
 2017-10-18,ExxonMobil,39,117
-2017-10-18,General Electric,243,634
+2017-10-18,General Electric,242,633
 2017-10-18,Goldman Sachs,271,1601
 2017-10-18,IBM,665,300
-2017-10-18,Intel,44,32
+2017-10-18,Intel,44,33
 2017-10-18,Johnson & Johnson,37,37
 2017-10-18,JPMorgan Chase,27,37
 2017-10-18,McDonald's,0,0
 2017-10-18,Merck,16,31
-2017-10-18,Microsoft,426,500
+2017-10-18,Microsoft,425,500
 2017-10-18,Nike,0,0
 2017-10-18,Pfizer,15,27
 2017-10-18,Procter & Gamble,0,0
@@ -13318,7 +13318,7 @@ date,company,re_tweets,likes
 2017-10-18,Verizon,0,0
 2017-10-18,Visa,20,48
 2017-10-18,Walmart,1226,94
-2017-10-18,Walt Disney,845,0
+2017-10-18,Walt Disney,846,0
 2017-10-19,3M,99,231
 2017-10-19,American Express,17,57
 2017-10-19,Apple,0,0
@@ -13328,9 +13328,9 @@ date,company,re_tweets,likes
 2017-10-19,Cisco Systems,140,213
 2017-10-19,Coca-Cola,0,0
 2017-10-19,DowDuPont,0,0
-2017-10-19,ExxonMobil,35,67
+2017-10-19,ExxonMobil,35,66
 2017-10-19,General Electric,79,0
-2017-10-19,Goldman Sachs,114,302
+2017-10-19,Goldman Sachs,115,302
 2017-10-19,IBM,490,501
 2017-10-19,Intel,113,170
 2017-10-19,Johnson & Johnson,91,129
@@ -13338,9 +13338,9 @@ date,company,re_tweets,likes
 2017-10-19,McDonald's,0,0
 2017-10-19,Merck,47,102
 2017-10-19,Microsoft,1132,677
-2017-10-19,Nike,23,19
+2017-10-19,Nike,0,0
 2017-10-19,Pfizer,28,52
-2017-10-19,Procter & Gamble,22,52
+2017-10-19,Procter & Gamble,22,50
 2017-10-19,The Home Depot,8,29
 2017-10-19,Travelers,25,20
 2017-10-19,United Technologies,5,26
@@ -13348,7 +13348,7 @@ date,company,re_tweets,likes
 2017-10-19,Verizon,2,14
 2017-10-19,Visa,0,0
 2017-10-19,Walmart,12,49
-2017-10-19,Walt Disney,521,632
+2017-10-19,Walt Disney,522,632
 2017-10-20,3M,17,40
 2017-10-20,American Express,17,81
 2017-10-20,Apple,0,0
@@ -13368,10 +13368,10 @@ date,company,re_tweets,likes
 2017-10-20,McDonald's,94,367
 2017-10-20,Merck,39,128
 2017-10-20,Microsoft,1026,1131
-2017-10-20,Nike,38,4
+2017-10-20,Nike,0,0
 2017-10-20,Pfizer,5,13
-2017-10-20,Procter & Gamble,124,78
-2017-10-20,The Home Depot,41,93
+2017-10-20,Procter & Gamble,124,62
+2017-10-20,The Home Depot,44,93
 2017-10-20,Travelers,52,23
 2017-10-20,United Technologies,22,77
 2017-10-20,UnitedHealth Group,0,13
@@ -13397,8 +13397,8 @@ date,company,re_tweets,likes
 2017-10-21,JPMorgan Chase,0,0
 2017-10-21,McDonald's,0,0
 2017-10-21,Merck,123,256
-2017-10-21,Microsoft,1381,713
-2017-10-21,Nike,29,6
+2017-10-21,Microsoft,1382,713
+2017-10-21,Nike,20,1
 2017-10-21,Pfizer,13,36
 2017-10-21,Procter & Gamble,0,0
 2017-10-21,The Home Depot,0,0
@@ -13412,7 +13412,7 @@ date,company,re_tweets,likes
 2017-10-22,3M,0,0
 2017-10-22,American Express,0,0
 2017-10-22,Apple,0,0
-2017-10-22,Boeing,31,115
+2017-10-22,Boeing,32,116
 2017-10-22,Caterpillar,9,0
 2017-10-22,Chevron,0,0
 2017-10-22,Cisco Systems,29,43
@@ -13438,25 +13438,25 @@ date,company,re_tweets,likes
 2017-10-22,Verizon,9,25
 2017-10-22,Visa,0,0
 2017-10-22,Walmart,6,18
-2017-10-22,Walt Disney,495,0
+2017-10-22,Walt Disney,496,0
 2017-10-23,3M,22,38
-2017-10-23,American Express,59,82
+2017-10-23,American Express,59,83
 2017-10-23,Apple,0,0
 2017-10-23,Boeing,0,0
 2017-10-23,Caterpillar,0,1
 2017-10-23,Chevron,0,1
-2017-10-23,Cisco Systems,94,102
+2017-10-23,Cisco Systems,95,102
 2017-10-23,Coca-Cola,0,0
 2017-10-23,DowDuPont,0,0
 2017-10-23,ExxonMobil,18,50
 2017-10-23,General Electric,65,172
 2017-10-23,Goldman Sachs,63,118
-2017-10-23,IBM,797,559
-2017-10-23,Intel,57,321
+2017-10-23,IBM,797,558
+2017-10-23,Intel,57,320
 2017-10-23,Johnson & Johnson,34,55
 2017-10-23,JPMorgan Chase,15,28
 2017-10-23,McDonald's,0,0
-2017-10-23,Merck,23,29
+2017-10-23,Merck,24,29
 2017-10-23,Microsoft,687,1111
 2017-10-23,Nike,34,100
 2017-10-23,Pfizer,25,50
@@ -13465,12 +13465,12 @@ date,company,re_tweets,likes
 2017-10-23,Travelers,18,23
 2017-10-23,United Technologies,37,126
 2017-10-23,UnitedHealth Group,0,0
-2017-10-23,Verizon,18,36
+2017-10-23,Verizon,18,35
 2017-10-23,Visa,0,0
 2017-10-23,Walmart,10,62
 2017-10-23,Walt Disney,440,0
 2017-10-24,3M,218,361
-2017-10-24,American Express,26,48
+2017-10-24,American Express,26,47
 2017-10-24,Apple,0,0
 2017-10-24,Boeing,0,0
 2017-10-24,Caterpillar,51,154
@@ -13481,45 +13481,45 @@ date,company,re_tweets,likes
 2017-10-24,ExxonMobil,85,135
 2017-10-24,General Electric,62,164
 2017-10-24,Goldman Sachs,61,117
-2017-10-24,IBM,1189,727
+2017-10-24,IBM,1189,723
 2017-10-24,Intel,29,141
 2017-10-24,Johnson & Johnson,55,86
-2017-10-24,JPMorgan Chase,108,192
+2017-10-24,JPMorgan Chase,109,192
 2017-10-24,McDonald's,54,188
 2017-10-24,Merck,26,49
-2017-10-24,Microsoft,707,957
+2017-10-24,Microsoft,707,954
 2017-10-24,Nike,29,20
 2017-10-24,Pfizer,35,96
-2017-10-24,Procter & Gamble,62,65
+2017-10-24,Procter & Gamble,63,62
 2017-10-24,The Home Depot,0,0
 2017-10-24,Travelers,16,22
 2017-10-24,United Technologies,12,15
 2017-10-24,UnitedHealth Group,0,0
-2017-10-24,Verizon,8,41
+2017-10-24,Verizon,8,40
 2017-10-24,Visa,0,0
-2017-10-24,Walmart,11,26
+2017-10-24,Walmart,11,25
 2017-10-24,Walt Disney,201,662
 2017-10-25,3M,56,162
 2017-10-25,American Express,13,44
 2017-10-25,Apple,0,0
-2017-10-25,Boeing,335,1237
+2017-10-25,Boeing,335,1238
 2017-10-25,Caterpillar,27,88
 2017-10-25,Chevron,13,44
 2017-10-25,Cisco Systems,382,278
 2017-10-25,Coca-Cola,0,0
 2017-10-25,DowDuPont,0,0
 2017-10-25,ExxonMobil,26,43
-2017-10-25,General Electric,280,441
-2017-10-25,Goldman Sachs,142,174
-2017-10-25,IBM,1059,586
-2017-10-25,Intel,54,149
+2017-10-25,General Electric,281,444
+2017-10-25,Goldman Sachs,142,176
+2017-10-25,IBM,1060,586
+2017-10-25,Intel,55,149
 2017-10-25,Johnson & Johnson,45,65
 2017-10-25,JPMorgan Chase,41,101
 2017-10-25,McDonald's,0,0
 2017-10-25,Merck,68,107
-2017-10-25,Microsoft,265,321
+2017-10-25,Microsoft,265,319
 2017-10-25,Nike,9,22
-2017-10-25,Pfizer,57,71
+2017-10-25,Pfizer,59,71
 2017-10-25,Procter & Gamble,0,0
 2017-10-25,The Home Depot,68,182
 2017-10-25,Travelers,8,14
@@ -13528,21 +13528,21 @@ date,company,re_tweets,likes
 2017-10-25,Verizon,0,0
 2017-10-25,Visa,0,0
 2017-10-25,Walmart,15,53
-2017-10-25,Walt Disney,597,0
+2017-10-25,Walt Disney,598,0
 2017-10-26,3M,30,59
 2017-10-26,American Express,28,75
 2017-10-26,Apple,0,0
 2017-10-26,Boeing,127,364
 2017-10-26,Caterpillar,10,49
 2017-10-26,Chevron,0,5
-2017-10-26,Cisco Systems,249,273
+2017-10-26,Cisco Systems,252,273
 2017-10-26,Coca-Cola,0,0
 2017-10-26,DowDuPont,20,28
 2017-10-26,ExxonMobil,23,83
 2017-10-26,General Electric,62,100
 2017-10-26,Goldman Sachs,116,193
-2017-10-26,IBM,774,738
-2017-10-26,Intel,103,277
+2017-10-26,IBM,775,738
+2017-10-26,Intel,103,279
 2017-10-26,Johnson & Johnson,49,39
 2017-10-26,JPMorgan Chase,30,96
 2017-10-26,McDonald's,170,667
@@ -13550,37 +13550,37 @@ date,company,re_tweets,likes
 2017-10-26,Microsoft,154,102
 2017-10-26,Nike,36,20
 2017-10-26,Pfizer,22,36
-2017-10-26,Procter & Gamble,21,36
-2017-10-26,The Home Depot,73,233
+2017-10-26,Procter & Gamble,21,34
+2017-10-26,The Home Depot,74,233
 2017-10-26,Travelers,55,18
 2017-10-26,United Technologies,14,36
 2017-10-26,UnitedHealth Group,0,0
 2017-10-26,Verizon,11,42
 2017-10-26,Visa,0,0
 2017-10-26,Walmart,18,53
-2017-10-26,Walt Disney,573,0
-2017-10-27,3M,40,127
+2017-10-26,Walt Disney,574,0
+2017-10-27,3M,40,128
 2017-10-27,American Express,4,9
 2017-10-27,Apple,0,0
 2017-10-27,Boeing,25,102
 2017-10-27,Caterpillar,40,140
 2017-10-27,Chevron,140,230
-2017-10-27,Cisco Systems,192,159
+2017-10-27,Cisco Systems,198,158
 2017-10-27,Coca-Cola,0,0
 2017-10-27,DowDuPont,0,0
-2017-10-27,ExxonMobil,82,245
+2017-10-27,ExxonMobil,82,248
 2017-10-27,General Electric,37,1
 2017-10-27,Goldman Sachs,59,113
-2017-10-27,IBM,797,411
-2017-10-27,Intel,21,64
+2017-10-27,IBM,798,411
+2017-10-27,Intel,21,65
 2017-10-27,Johnson & Johnson,29,75
 2017-10-27,JPMorgan Chase,67,99
-2017-10-27,McDonald's,436,2902
+2017-10-27,McDonald's,436,2901
 2017-10-27,Merck,95,278
 2017-10-27,Microsoft,808,1172
 2017-10-27,Nike,30,12
 2017-10-27,Pfizer,12,48
-2017-10-27,Procter & Gamble,27,43
+2017-10-27,Procter & Gamble,27,41
 2017-10-27,The Home Depot,27,73
 2017-10-27,Travelers,27,19
 2017-10-27,United Technologies,0,0
@@ -13618,7 +13618,7 @@ date,company,re_tweets,likes
 2017-10-28,Verizon,0,0
 2017-10-28,Visa,0,0
 2017-10-28,Walmart,24,94
-2017-10-28,Walt Disney,2825,0
+2017-10-28,Walt Disney,2837,0
 2017-10-29,3M,0,0
 2017-10-29,American Express,7,27
 2017-10-29,Apple,0,0
@@ -13628,9 +13628,9 @@ date,company,re_tweets,likes
 2017-10-29,Cisco Systems,0,0
 2017-10-29,Coca-Cola,0,0
 2017-10-29,DowDuPont,0,0
-2017-10-29,ExxonMobil,156,742
+2017-10-29,ExxonMobil,156,746
 2017-10-29,General Electric,0,0
-2017-10-29,Goldman Sachs,19,22
+2017-10-29,Goldman Sachs,21,22
 2017-10-29,IBM,0,0
 2017-10-29,Intel,0,0
 2017-10-29,Johnson & Johnson,43,40
@@ -13648,29 +13648,29 @@ date,company,re_tweets,likes
 2017-10-29,Verizon,10,34
 2017-10-29,Visa,0,0
 2017-10-29,Walmart,0,0
-2017-10-29,Walt Disney,322,0
-2017-10-30,3M,42,215
+2017-10-29,Walt Disney,324,0
+2017-10-30,3M,42,214
 2017-10-30,American Express,64,303
 2017-10-30,Apple,0,0
 2017-10-30,Boeing,7,37
 2017-10-30,Caterpillar,21,76
 2017-10-30,Chevron,36,64
 2017-10-30,Cisco Systems,102,179
-2017-10-30,Coca-Cola,86,1114
+2017-10-30,Coca-Cola,86,1113
 2017-10-30,DowDuPont,0,0
-2017-10-30,ExxonMobil,36,148
+2017-10-30,ExxonMobil,36,151
 2017-10-30,General Electric,110,220
 2017-10-30,Goldman Sachs,38,85
 2017-10-30,IBM,420,302
-2017-10-30,Intel,18,43
-2017-10-30,Johnson & Johnson,46,102
+2017-10-30,Intel,17,44
+2017-10-30,Johnson & Johnson,46,105
 2017-10-30,JPMorgan Chase,32,71
 2017-10-30,McDonald's,43,211
 2017-10-30,Merck,30,23
-2017-10-30,Microsoft,557,958
+2017-10-30,Microsoft,557,959
 2017-10-30,Nike,34,9
 2017-10-30,Pfizer,15,60
-2017-10-30,Procter & Gamble,51,91
+2017-10-30,Procter & Gamble,51,88
 2017-10-30,The Home Depot,27,100
 2017-10-30,Travelers,24,7
 2017-10-30,United Technologies,0,0
@@ -13679,28 +13679,28 @@ date,company,re_tweets,likes
 2017-10-30,Visa,0,0
 2017-10-30,Walmart,6,24
 2017-10-30,Walt Disney,219,0
-2017-10-31,3M,54,36
+2017-10-31,3M,55,36
 2017-10-31,American Express,15,50
 2017-10-31,Apple,0,0
 2017-10-31,Boeing,188,426
 2017-10-31,Caterpillar,51,231
-2017-10-31,Chevron,34,51
-2017-10-31,Cisco Systems,168,160
-2017-10-31,Coca-Cola,2471,185
+2017-10-31,Chevron,34,50
+2017-10-31,Cisco Systems,168,159
+2017-10-31,Coca-Cola,2471,186
 2017-10-31,DowDuPont,0,0
 2017-10-31,ExxonMobil,17,59
 2017-10-31,General Electric,178,314
 2017-10-31,Goldman Sachs,111,276
-2017-10-31,IBM,742,614
-2017-10-31,Intel,49,123
+2017-10-31,IBM,742,613
+2017-10-31,Intel,49,125
 2017-10-31,Johnson & Johnson,20,49
-2017-10-31,JPMorgan Chase,23,35
-2017-10-31,McDonald's,212,1540
+2017-10-31,JPMorgan Chase,24,35
+2017-10-31,McDonald's,212,1538
 2017-10-31,Merck,28,54
-2017-10-31,Microsoft,547,555
+2017-10-31,Microsoft,547,552
 2017-10-31,Nike,15,3
 2017-10-31,Pfizer,22,48
-2017-10-31,Procter & Gamble,25,21
+2017-10-31,Procter & Gamble,25,19
 2017-10-31,The Home Depot,0,0
 2017-10-31,Travelers,28,25
 2017-10-31,United Technologies,20,21
