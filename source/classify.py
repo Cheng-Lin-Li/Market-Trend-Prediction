@@ -7,7 +7,6 @@
 #         body to make it convenient for inferlink
 
 import json
-import re
 import os
 import nltk
 import rltk
@@ -48,7 +47,7 @@ detOpinion = NaiveBayesClassifier.train(training)
 dow30 = []  # a list of the Dow components
 # populate the Dow dictionary with companies and their products
 dowDic = {}  # the Dow dictionary
-with open("./glossory_product_brand.txt", "r") as productFile:
+with open("./product_brand_glossory.txt", "r") as productFile:
     for chunk in productFile.read().split("\n\n"):
         products = chunk.split("\n")
         company = products[0]
@@ -67,17 +66,17 @@ def match_company_and_product(text):
                 result["company"].append(com)
             else:
                 comName = com.split()
-                if comName[0] == words[wi] and len(comName) + wi <= len(
+                if len(comName) + wi <= len(
                         words) and fsm.levenshtein_similarity(com, " ".join(
-                        words[wi: len(comName) + wi])) > 0.9:
+                        words[wi: len(comName) + wi])) > 0.8:
                     result["company"].append(com)
 
             # match product names
             for product in dowDic[com]:
                 proName = product.split()
-                if proName[0] == words[wi] and len(proName) + wi <= len(
+                if len(proName) + wi <= len(
                         words) and fsm.levenshtein_similarity(product, " ".join(
-                        words[wi: len(proName) + wi])) > 0.9:
+                        words[wi: len(proName) + wi])) > 0.8:
                     result["product"].append(product)
                     if com not in result["company"]:
                         result["company"].append(com)
@@ -92,7 +91,7 @@ def filter_and_classify(path):
             soup = BeautifulSoup(jsonObj["raw_content"], 'html.parser')
             title = soup.title.text if soup.title else ""
             body = soup.body.text if soup.body else ""
-            entity = match_company_and_product(title + body)
+            entity = match_company_and_product(title + " " + body)
             insertText = ""
             if entity["company"]:
                 insertText += " <span id='company'>%s</span> " % ",".join(
@@ -106,7 +105,8 @@ def filter_and_classify(path):
 
                 text = jsonObj["raw_content"]
                 index = text.find("</body>")
-                jsonObj["raw_content"] = text[:index] + insertText + text[index:]
+                jsonObj["raw_content"] = text[:index] + insertText + text[
+                                                                     index:]
                 jlLst.append(json.dumps(jsonObj))
     return jlLst
 

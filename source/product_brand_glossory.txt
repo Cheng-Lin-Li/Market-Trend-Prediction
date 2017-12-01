@@ -1,4 +1,4 @@
-3M
+﻿3M
 3M ClearTrack
 3M Electronic Monitoring
 3M High Visibility Signals
@@ -144,7 +144,8 @@ Macintosh 128K
 512K
 512Ke
 Macintosh Centris
-Macintosh Classic; Macintosh Classic II
+Macintosh Classic
+Macintosh Classic II
 Macintosh Color Classic
 Color Classic II
 Macintosh II
@@ -165,14 +166,15 @@ Power Macintosh G3
 Twentieth Anniversary Macintosh
 Xserve G5
 Xserve RAID
-1.44 Apple SuperDrive
+Apple SuperDrive
 HDI-20 Disk Drive
 Airport Base Station
 AirPort Express
 Airport Extreme Base Station
 AirPort Extreme 802.11n
 Airport Extreme
-Apple 3.5 Drive; Apple PC 5.25 Drive
+Apple 3.5 Drive
+Apple PC 5.25 Drive
 Apple Basic Color Monitor
 Apple CD Products
 Apple Cinema Display
@@ -184,7 +186,8 @@ Apple LED Cinema Display
 Apple Macintosh Portrait Display
 Apple Monochrome Monitor
 Apple Multiple Scan Display
-Apple OneScanner; Apple Color OneScanner
+Apple OneScanner
+Apple Color OneScanner
 Apple Personal Modem
 Apple Data Modem
 Apple QuickTake
@@ -202,7 +205,8 @@ Color StyleWriter
 ColorMonitor II
 ColorSynch Display
 DDS-DC 4mm Tape Drive
-Disk II; Disk III
+Disk II
+Disk III
 DuoDisk
 Tape Backup 40SC
 eMate 300
@@ -213,7 +217,8 @@ GeoPort
 ImageWriter
 iSight
 LaserWriter Pro
-LaserWriter; LaserWriter II
+LaserWriter
+LaserWriter II
 Macintosh Disk Drive
 Monitor II
 Newton MessagePad
@@ -316,7 +321,6 @@ Boeing 777
 Boeing 777X
 Boeing 787 Dreamliner
 Boeing 2707
-A
 MH-6X Mission Enhanced Little Bird
 Boeing A160 Hummingbird
 Boeing AH-6
@@ -683,7 +687,6 @@ Yoli
 Aquarius
 Coca-Cola Zero
 Sarsi
-Tab
 Urge
 Joya
 Coca-Cola BlāK
@@ -716,7 +719,6 @@ Nativa
 Amita
 Ciel
 Deep River Rock
-Hit
 OK Soda
 Oasis
 Sprite Zero
@@ -1037,7 +1039,6 @@ Jericho
 Jet Tonic
 Jinmeile
 Jolly Juice
-Joy
 Jozuni Yasai
 Jurassic Well
 Just Juice
@@ -1244,7 +1245,6 @@ This Water
 Tian Tey
 Tian Yu Di
 Heaven and Earth
-Top
 Toppur
 Top's
 Tropical
@@ -1328,7 +1328,6 @@ Commodities Corporation
 200 West Street
 Veoh
 Money and Power
-10
 Goldman Sachs asset management factor model
 Goldman roll
 Carmen Segarra
@@ -1341,9 +1340,7 @@ IBM
 IBM Informix
 Transaction Processing Facility
 Tru64 UNIX
-VSE
-Z
-OS
+VSEOS
 WebSphere Portal
 IBM DB2 Express-C
 IBM WebSphere eXtreme Scale
@@ -1360,15 +1357,11 @@ SPSS Modeler
 WebSphere Commerce
 Fortran
 IBM AIX
-Lotus 1-2-3
-2
-EComStation
+Lotus 1-2-3EComStation
 IBM General Parallel File System
 IBM Tivoli Storage Manager
 Rexx
-Event Driven Executive
-E
-Gorillas
+Event Driven ExecutiveGorillas
 IBM Tivoli Workload Scheduler
 Spatiotemporal Epidemiological Modeler
 4690 Operating System
@@ -1386,7 +1379,6 @@ CMS
 Hamlets
 International Components for Unicode
 UNIX System Services
-VM
 COMMAND.COM
 IBM Lotus SmartSuite
 IBM Notes
@@ -1418,7 +1410,6 @@ IBM Configuration Management Version Control
 IBM Works
 Speedcoding
 VP
-CSS
 Freddy's Rescue Roundup
 IBM J9
 IBM compilers
@@ -1600,9 +1591,7 @@ Ditropan
 Prezista
 Listerine
 Levaquin
-Regaine
-T
-Gel
+RegaineGel
 Vermox
 Velcade
 Floxin
@@ -1984,7 +1973,6 @@ Microsoft VRML 2.0 Viewer
 Havok Physics
 Destruction
 Cloth
-AI
 Havok Vision Engine
 Project Anarchy
 Kinect for Windows SDK
