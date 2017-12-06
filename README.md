@@ -1,5 +1,3 @@
-
-
 # Market-Trend-Prediction
 This is a project of build knowledge graph course. The project leverages historical stock price, and integrates social media listening from customers to predict market Trend On Dow Jones Industrial Average (DJIA).
 
@@ -15,17 +13,17 @@ Please refer [this link to the Jupyter code for results](https://github.com/Chen
 T+1 Prediction
               precision    recall  f1-score   support
 
-Decrease    0.00      0.00      0.00         7
-Increase      0.70      1.00      0.82        16
+Decrease       0.00      0.00      0.00         7
+Increase       0.70      1.00      0.82        16
 
-avg / total       0.48      0.70      0.57        23
+avg / total    0.48      0.70      0.57        23
 
 T+30 Prediction
               precision    recall  f1-score   support
 
 Increase       1.00      1.00      1.00        23
 
-avg / total       1.00      1.00      1.00        23 
+avg / total    1.00      1.00      1.00        23 
 ```
 
 
