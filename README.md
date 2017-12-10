@@ -7,7 +7,9 @@ Data Source: Business Insider (record no.: 2,017), Reddit finance(4,383), facebo
 Structure Data: Facebook, Twritter.
 
 ### Predict Results: 
-Please refer [this link to the Jupyter code for results](https://github.com/Cheng-Lin-Li/Market-Trend-Prediction/blob/master/source/Dow%20Jones%20Industrial%20Average%20Prediction%20with%20Media%20Channel%20Info-with%20Social%20Info.ipynb).
+1. Please refer [this link to the Jupyter code for prediction results with social media information as part of input features](https://github.com/Cheng-Lin-Li/Market-Trend-Prediction/blob/master/source/Dow%20Jones%20Industrial%20Average%20Prediction%20with%20Media%20Channel%20Info-with%20Social%20Info.ipynb).
+
+2. Please refer [this link to the Jupyter code for prediction results without social media information as input features](https://github.com/Cheng-Lin-Li/Market-Trend-Prediction/blob/master/source/Dow%20Jones%20Industrial%20Average%20Prediction%20without%20Social%20media%20data.ipynb).
 
 ```text
 T+1 Prediction
