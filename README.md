@@ -1,5 +1,5 @@
 # Market-Trend-Prediction
-This is a project of build knowledge graph course. The project leverages historical stock price, and integrates social media listening from customers to predict market Trend On Dow Jones Industrial Average (DJIA).
+This is a project of building knowledge graph course. The project leverages historical stock price, and integrates social media listening from customers to predict market Trend On Dow Jones Industrial Average (DJIA).
 
 Data period: Aug 1, 2016 to Oct 31, 2017.
 Data range for DJIA: Aug 1, 2016 to Nov 30, 2017.
