@@ -6,7 +6,7 @@ Data range for DJIA: Aug 1, 2016 to Nov 30, 2017.
 Data Source: Business Insider (record no.: 2,017), Reddit finance(4,383), facebook (11,528), yahoo finance(10,478), Twitter(24,271)
 Structure Data: Facebook, Twritter.
 
-### Predict Results: 
+### Predict Results
 1. Please refer [this link to the Jupyter code for prediction results with social media information as part of input features](https://github.com/Cheng-Lin-Li/Market-Trend-Prediction/blob/master/source/Dow%20Jones%20Industrial%20Average%20Prediction%20with%20Media%20Channel%20Info-with%20Social%20Info.ipynb).
 
 2. Please refer [this link to the Jupyter code for prediction results without social media information as input features](https://github.com/Cheng-Lin-Li/Market-Trend-Prediction/blob/master/source/Dow%20Jones%20Industrial%20Average%20Prediction%20without%20Social%20media%20data.ipynb).
@@ -28,7 +28,7 @@ Increase       1.00      1.00      1.00        23
 avg / total    1.00      1.00      1.00        23 
 ```
 
-### Program lists:
+### Program lists
 |Programs|Description|Link|
 |------|------|--------|
 |[JSONLines](https://github.com/Cheng-Lin-Li/KnowledgeGraph/tree/master/CDR_JSONLines)|Once your crawler download a lot of pages, how can you aggregate all of those files into single one? Json Lines is your answer. The program will package each of your file into single JSON object into the file which will contain multiple JSON objects.| [Source Code](https://github.com/Cheng-Lin-Li/KnowledgeGraph/blob/master/CDR_JSONLines/jsonlines.py)|
@@ -38,7 +38,7 @@ avg / total    1.00      1.00      1.00        23
 |[Yahoo Crawler for Dow30](https://github.com/Cheng-Lin-Li/Market-Trend-Prediction/blob/master/source/yahoo_quote_crawler.py)| This is a crawler program to crawl yahoo finance stock price via yahoo api. A special ticker id and Dow 30 companies dictionary are integrated into this version. A CSV with full company name will provide by this program for machine learning purpose. Input a list of stock ticker and time period for those price data. |[Source Code](https://github.com/Cheng-Lin-Li/Market-Trend-Prediction/blob/master/source/yahoo_quote_crawler.py)|
 |[Twitter Crawler for Dow30 Companies](https://github.com/Cheng-Lin-Li/Market-Trend-Prediction/blob/master/source/tweetScraper.py)| This program scrapes the offcial Titter accounts of Dow components |[Source Code](https://github.com/Cheng-Lin-Li/Market-Trend-Prediction/blob/master/source/tweetScraper.py)|
 
-### Team members: 
+### Team members
 Cheng-Lin Li & YuCheng Guo 
 
 ### Date: Project kick off date
