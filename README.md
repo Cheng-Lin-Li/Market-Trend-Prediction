@@ -44,4 +44,25 @@ Cheng-Lin Li & YuCheng Guo
 ### Date: Project kick off date
 Oct., 2017@University of Southern California
 
+## Disclaimer
+Last updated: January 16, 2018
+
+The information contained on https://github.com/Cheng-Lin-Li/ website (the "Service") is for general information purposes only.
+Cheng-Lin-Li's github assumes no responsibility for errors or omissions in the contents on the Service.
+
+In no event shall Cheng-Lin-Li's github be liable for any special, direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other tort, arising out of or in connection with the use of the Service or the contents of the Service. Cheng-Lin-Li's github reserves the right to make additions, deletions, or modification to the contents on the Service at any time without prior notice.
+
+### External links disclaimer
+
+https://github.com/Cheng-Lin-Li/ website may contain links to external websites that are not provided or maintained by or in any way affiliated with Cheng-Lin-Li's github.
+
+Please note that the Cheng-Lin-Li's github does not guarantee the accuracy, relevance, timeliness, or completeness of any information on these external websites.
+
+## Contact Information
+Cheng-Lin Li@University of Southern California
+
+chenglil@usc.edu or 
+
+clark.cl.li@gmail.com
+
 
