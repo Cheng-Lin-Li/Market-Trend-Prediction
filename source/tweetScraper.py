@@ -4,6 +4,8 @@
 # scrape the offcial Titter accounts of Dow components
 # Output: json, csv, json line
 # Combine the total favorates and retweets per company per day
+# Revised by: Cheng-Lin Li
+# Modify date: April, 17, 2018
 
 import tweepy  # https://github.com/tweepy/tweepy
 import csv
