@@ -132,7 +132,7 @@ def writeJL(line):
     global docID
     docID += 1
     row = {
-        "doc_id": hashlib.sha256(str(line[2])).hexdigest(),
+        "doc_id": hashlib.sha256(str(line[2]).encode('utf-8')).hexdigest(),
         "timestamp_crawl": str(line[0]),
         "url": str(line[2]),
         "raw_content": rawContent % ("tweets of " + str(line[1]) + " on " + str(line[0]),
@@ -140,7 +140,6 @@ def writeJL(line):
                                       str(line[5]), str(line[4]))
     }
     jlFile.write(json.dumps(row, separators=(',', ': ')) + "\n")
-
 
 
 
