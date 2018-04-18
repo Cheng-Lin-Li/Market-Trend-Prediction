@@ -8,23 +8,11 @@
 import tweepy  # https://github.com/tweepy/tweepy
 import csv
 import json
-import sys
+import sys, os
+import argparse
 from datetime import date, timedelta, datetime
 import hashlib
-
-reload(sys)
-sys.setdefaultencoding('utf-8')
-
-# Twitter API credentials
-consumer_key = "WkmvAytt1DEWva2VukcqACVtK"
-consumer_secret = "jy8D7yESo1KrUc0EgIXwVWw4IUHvSy2AgQzsMIXMUb6UtM0S9p"
-access_key = "447676855-FbQsPAuLttxllF8TB4eK6CV8keYZk7BEW6UCQDuw"
-access_secret = "NaFfyZMKHCP9zCpm88PcoGvOh7ZQNP3kUlPaxUjS44Vxz"
-
-# consumer_key = "46E4JNzKWLXlzx9Nk2l2W1si8"
-# consumer_secret = "PT7RO2gbxY82pQytAemwElSBNXafj4UAuIVGLTIBJBDUUNXKbg"
-# access_key = "721719816801751040-Epz6Y0TbfyoM4l89D02mCgFoNz5sCia"
-# access_secret = "ryxV6c3qFo4BWQa96hu3HhV1c8w4ZL9urc8EqvRQpXrbB"
+from joblib.test.test_parallel import consumer
 
 companies = "3M,American Express,Apple,Boeing,Caterpillar,Chevron,Cisco Systems," \
             "Coca-Cola,DowDuPont,ExxonMobil,General Electric,Goldman Sachs,IBM," \
@@ -40,7 +28,7 @@ accounts = "3M,AmericanExpress,AppleSupport,Boeing,CaterpillarInc,Chevron,Cisco,
 comDic = dict(zip(accounts, companies))
 
 
-def get_all_tweets(screen_name):
+def get_all_tweets(screen_name, since, until, limit, consumer_key, consumer_secret, access_key, access_secret):
     # Twitter only allows access to a users most recent 3200 tweets with this method
 
     print("collecting tweets from: " + screen_name)
@@ -54,7 +42,7 @@ def get_all_tweets(screen_name):
     alltweets = []
 
     # make initial request for most recent tweets (200 is the maximum allowed count)
-    new_tweets = api.user_timeline(screen_name=screen_name, count=200)
+    new_tweets = api.user_timeline(screen_name=screen_name, count=limit)
 
     # save most recent tweets
     alltweets.extend(new_tweets)
@@ -65,7 +53,7 @@ def get_all_tweets(screen_name):
     # keep grabbing tweets until there are no tweets left to grab
     while len(new_tweets) > 0:
         # all subsequent requests use the max_id param to prevent duplicates
-        new_tweets = api.user_timeline(screen_name=screen_name, count=200,
+        new_tweets = api.user_timeline(screen_name=screen_name, count=limit,
                                        max_id=oldest, exclude_replies=True)
 
         # save most recent tweets
@@ -74,7 +62,7 @@ def get_all_tweets(screen_name):
         # update the id of the oldest tweet less one
         oldest = alltweets[-1].id - 1
 
-        print "...%s tweets downloaded so far" % (len(alltweets))
+        print ("...%s tweets downloaded so far" % (len(alltweets)))
 
     # transform the tweepy tweets into a 2D array that will populate the csv
     outtweets = [[
@@ -89,7 +77,10 @@ def get_all_tweets(screen_name):
 
     # write the csv
     print("writing the csv for: %s" % screen_name)
-    with open('./csv/%s.csv' % screen_name, 'wb') as f:
+    result_dir = 'csv/'
+    if not os.path.exists(result_dir):
+        os.makedirs(result_dir)    
+    with open('./%s%s.csv' % (result_dir, screen_name), 'w', encoding='utf8') as f:
         writer = csv.writer(f)
         writer.writerow(
             ["created_at", "company", "url", "text", "retweets", "likes", "id"])
@@ -100,18 +91,21 @@ def get_all_tweets(screen_name):
     for tweet in outtweets:
         row = {
             "created_at": str(tweet[0]),
-            "company": tweet[1],
-            "url": tweet[2],
-            "text": tweet[3],
-            "re_tweets": tweet[4],
-            "likes": tweet[5],
-            "id": tweet[6]
+            "company": str(tweet[1]),
+            "url": str(tweet[2]),
+            "text": str(tweet[3]),
+            "re_tweets": str(tweet[4]),
+            "likes": int(tweet[5]),
+            "id": str(tweet[6])
         }
         data.append(row)
 
     # write the json
-    with open('./json/%s.json' % screen_name, 'wb') as outfile:
-        json.dump(data, outfile)
+    result_dir = 'json/'
+    if not os.path.exists(result_dir):
+        os.makedirs(result_dir)
+    with open('./%s%s.json' % (result_dir, screen_name), 'w', encoding='utf8') as outfile:
+        json.dump(list(data), outfile)
 
     return outtweets
 
@@ -143,33 +137,63 @@ def writeJL(line):
     jlFile.write(json.dumps(row, separators=(',', ': ')) + "\n")
 
 
-d1 = date(2016, 8, 1)
-d2 = date(2017, 10, 31)
-# generate a list containing all the dates in between d1 and d2
-dateRange = [d1 + timedelta(days=x) for x in range((d2 - d1).days + 1)]
 
-allData = {}
-for acc in accounts:
-    allData[comDic[acc]] = get_all_tweets(acc)
 
-csvLst = []
-for date in dateRange:
-    for com in companies:
-        retweets = 0
-        likes = 0
-        for tweet in allData[com]:
-            if tweet[0].date() == date:
-                writeJL(tweet)  # write one json line
-                retweets += int(tweet[4])
-                likes += int(tweet[5])
-        csvLst.append([date, com, retweets, likes])
+if __name__ == '__main__':
+    # Set crawler target and parameters.
+    parser = argparse.ArgumentParser()
 
-print("##### writing the .csv file in a time sequence #####")
-with open("twitter.csv", "w") as f:
-    writer = csv.writer(f)
-    writer.writerow(["date", "company", "re_tweets", "likes"])
-    writer.writerows(csvLst)
+    parser.add_argument('-s', '--since', help='Set the start date you want to crawling. Format: \'yyyymmdd\'')
+    parser.add_argument('-u', '--until', help='Set the end date you want to crawling. Format: \'yyyymmdd\'')
+    parser.add_argument('-l', '--limit', help='This is the maximum number of messages, limitation is 200')
 
-# if __name__ == '__main__':
-#     # pass in the username of the account you want to download
-#     get_all_tweets(screen_name)
+    parser.add_argument('-ck', '--c_key', help='consumer key')    
+    parser.add_argument('-cs', '--c_secret', help='consumer secret')
+    parser.add_argument('-ak', '--a_key', help='access key')    
+    parser.add_argument('-as', '--a_secret', help='access secret')        
+
+         
+    parser.print_help()
+    args = parser.parse_args()
+
+    since = str(args.since)
+    until = str(args.until)
+    
+    if args.limit is not None:
+        limit = int(args.limit)
+        if limit > 200: limit = 200
+    else:
+        limit = 200
+
+    consumer_key = str(args.c_key)
+    consumer_secret = str(args.c_secret)
+    access_key = str(args.a_key)
+    access_secret = str(args.a_secret)        
+    print ('yyyy=%d, mm=%d, dd=%d'%(int(since[:4]), int(since[4:6]), int(since[6:8])))
+    d1 = date(int(since[:4]), int(since[4:6]), int(since[6:8]))
+    d2 = date(int(until[:4]), int(until[4:6]), int(until[6:8]))
+    # generate a list containing all the dates in between d1 and d2
+    dateRange = [d1 + timedelta(days=x) for x in range((d2 - d1).days + 1)]
+    
+    allData = {}
+    for acc in accounts:
+        allData[comDic[acc]] = get_all_tweets(acc, since, until, limit, consumer_key, consumer_secret, access_key, access_secret)
+    
+    csvLst = []
+    for date in dateRange:
+        for com in companies:
+            retweets = 0
+            likes = 0
+            for tweet in allData[com]:
+                if tweet[0].date() == date:
+                    writeJL(tweet)  # write one json line
+                    retweets += int(tweet[4])
+                    likes += int(tweet[5])
+            csvLst.append([date, com, retweets, likes])
+    
+    print("##### writing the .csv file in a time sequence #####")
+    with open("twitter.csv", "w", encoding='utf8') as f:
+        writer = csv.writer(f)
+        writer.writerow(["date", "company", "re_tweets", "likes"])
+        writer.writerows(csvLst)
+    
