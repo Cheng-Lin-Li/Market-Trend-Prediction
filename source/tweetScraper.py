@@ -6,6 +6,8 @@
 # Combine the total favorates and retweets per company per day
 # Revised by: Cheng-Lin Li
 # Modify date: April, 17, 2018
+# To make print working for Python2/3
+from __future__ import print_function
 
 import tweepy  # https://github.com/tweepy/tweepy
 import csv
@@ -130,11 +132,12 @@ def writeJL(line):
     global docID
     docID += 1
     row = {
-        "doc_id": hashlib.sha256(line[2]).hexdigest(),
+        "doc_id": hashlib.sha256(str(line[2])).hexdigest(),
         "timestamp_crawl": str(line[0]),
-        "url": line[2],
-        "raw_content": rawContent % ("tweets of " + line[1] + " on " + str(line[0]),
-                                     line[1], line[2], line[3], line[0], line[5], line[4])
+        "url": str(line[2]),
+        "raw_content": rawContent % ("tweets of " + str(line[1]) + " on " + str(line[0]),
+                                     str(line[1]), str(line[2]), str(line[3]), str(line[0]),
+                                      str(line[5]), str(line[4]))
     }
     jlFile.write(json.dumps(row, separators=(',', ': ')) + "\n")
 
